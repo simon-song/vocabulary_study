@@ -1,0 +1,247 @@
+\documentclass[a4paper,14pt]{memoir}
+\twocoltocetc % two-column ToC
+
+\usepackage{fontspec}
+%\setmainfont[Ligatures=TeX]{Linux Libertine O}
+\setmainfont[Ligatures=TeX]{Minion Pro}
+%\setmainfont[Ligatures=TeX]{Linux Libertine}
+%\setmainfont[Ligatures=TeX]{Palatino Linotype}
+%\setmainfont[Ligatures=TeX]{EB Garamond}
+%\setmainfont[Ligatures=TeX]{Garamond}
+%\setmainfont[Ligatures=TeX]{Garamond Premier Pro}
+%\setmainfont[Ligatures=TeX]{GaramondNo8}
+%\usepackage{devanagari}  % sanskrit, does not work too well
+
+%\usepackage{tgpagella}  % Palatino-like 
+%\setmainfont[Mapping=Tex-text]{TeXGyrePagella} % not good
+%\newfontfamily\tgp{TeXGyrePagella}
+%\newfontfamily\tgp{Palatino Linotype}
+%\newfontfamily\tgp{Gentium}
+
+%%%%  Define a font capable of rendering IPA (phonetic) symbols
+%\newfontfamily{\phoneticfamily}[Scale=MatchLowercase]{Gentium} 
+%\newfontfamily{\phoneticfamily}[Scale=MatchLowercase]{Linux Libertine O} 
+\newfontfamily{\phoneticfamily}[Scale=MatchLowercase]{Cardo} 
+%\newfontfamily{\phoneticfamily}[Scale=MatchLowercase]{Calibri} % not good on Mac
+%\newfontfamily{\phoneticfamily}[Scale=MatchLowercase]{Cambria} % not good on Mac
+\DeclareTextFontCommand{\phonetic}{\phoneticfamily}
+
+\newfontfamily{\cardofamily}[Scale=MatchLowercase]{Cardo} 
+\DeclareTextFontCommand{\cardo}{\cardofamily} % supports reversed pilcrow ÎõÎé 
+
+%\usepackage[showframe]{geometry}
+
+\usepackage[plainpages=false,pdfpagelabels,bookmarksnumbered]{hyperref}
+\usepackage{memhfixc}  % adjustment for using hyperref in memoir class
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathabx} % for \blackdiamond
+\usepackage{parskip}  
+\usepackage{enumitem}  % for list indentation etc.
+%\usepackage{multicol}  
+\usepackage[columns=3]{idxlayout}  % three-column index
+
+%\usepackage{pgffor} % for \foreach
+\usepackage{xinttools} % for \xintFor
+
+%\usepackage{arabxetex}
+%\newfontfamily{\arabicfont}[Script=Arabic,Scale=1.5]{Traditional Arabic}
+%\newcommand{\myarabic}[1]{{\arabicfont\RL{#1}}}
+%\newfontfamily\sanskritfont[Script=Devanagari,Mapping=velthuis-sanskrit]{nakula.ttf} 
+%\newcommand{\mysanskrit}[1]{{\sanskritfont{#1}}}
+
+%\usepackage[protrusion=true,expansion=true]{microtype}  % after loading fonts
+
+\usepackage{endnotes}
+
+\usepackage [english]{babel}
+\usepackage [autostyle, english = american]{csquotes}
+\MakeOuterQuote{"}
+
+\settrimmedsize{11in}{210mm}{*}
+\setlength{\trimtop}{0pt}
+\setlength{\trimedge}{\stockwidth}
+\addtolength{\trimedge}{-\paperwidth}
+\settypeblocksize{9.25in}{33pc}{*}
+\setulmargins{3cm}{*}{0.5}
+%\setulmargins{*}{0.5in}{*}
+%\setlrmargins{0.5in}{*}{0.5}
+%\setulmarginsandblock{1.0in}{*}{1.0}
+\setlrmarginsandblock{1.2in}{*}{1.5}
+\setmarginnotes{0pt}{0pt}{\onelineskip}  % changed by Pengcheng, no margin
+%\setheadfoot{\onelineskip}{2\onelineskip}
+\setheadfoot{\onelineskip}{\onelineskip}
+%\setheaderspaces{*}{2\onelineskip}{*}
+\setheaderspaces{*}{\onelineskip}{*} % changed by Pengcheng
+\addtolength{\textwidth}{60pt}     %  increase text width
+\addtolength{\foremargin}{-60pt}
+%\addtolength{\textheight}{60pt}    
+\checkandfixthelayout
+
+%\chapterstyle{section}
+\chapterstyle{crosshead}
+%\chapterstyle{thatcher}
+
+% page style of Oxford Classical Texts 
+% \makepagestyle{ocd}
+%   \makeevenhead{ocd}{\rightmark}{Etymological Dictionary}{}
+%   \makeoddhead{ocd}{\rightmark}{\leftmark}{}  % chapter in center
+% 	\makeevenfoot{ocd}{}{\thepage}{}
+% 	\makeoddfoot{ocd}{}{\thepage}{}
+\makepagestyle{ocd}
+  %\makeevenhead{ocd}{\thepage}{Etymological Dictionary}{}
+  \makeevenhead{ocd}{\thepage}{English Vocabulary Study}{}
+  %\makeoddhead{ocd}{\rightmark}{\leftmark}{\thepage}  % chapter in center
+  \makeoddhead{ocd}{}{\rightmark}{\thepage}  % chapter in center
+  \makeevenfoot{ocd}{}{}{}
+  \makeoddfoot{ocd}{}{}{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Set \vin which is a short hand of \hspace{\vgap}, default value
+%%  of \vgap is 1.5em
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\vgap}{1em}
+\setlength{\vrightskip}{-2em} % distance of line number from right margin
+
+\usepackage{indentfirst}  % add indentation to first line of each chapter
+
+
+% custom item
+\newcommand{\sep}{\blackdiamond}  % seperator
+\newcommand{\nl}{\newline$\sep\,$} % newline + seperator + a little space
+
+%\newcommand{\myitem}[1]{\item[\large{\textbf{#1}}] \index{#1}} % with large label
+%\newcommand{\myitem}[1]{\vspace{0.2cm}\item[\Large{\textbf{#1}}] \index{#1}} % with large label
+
+%% need \phantomsection to make hyperref link work properly
+\newcommand{\myitem}[1]{\vspace{0.2cm}\item[\Large{\textbf{#1}}] \index{#1} %
+\phantomsection \addcontentsline{toc}{section}{#1}} % with large label
+
+\newcommand{\itembf}[1]{\item[{\textbf{#1}}]} % with bold label
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                  synonym item
+%%  need \phantomsection to make hyperref link work properly
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\synitem}[2] %
+{ %
+  \vspace{0.2cm}\item[\Large{\textbf{#1}}] % with large label
+  {\xintFor ##1 in {#1} \do {\index{##1}}} % create index for all words
+  \phantomsection \addcontentsline{toc}{section}{#2} %
+} %
+
+% \newcommand{\mylist}[1]{%
+%   \begin{itemize}[leftmargin=*] 
+%     \item #1  
+%   \end{itemize}
+% }
+
+\newcommand{\mychapter}[1]{\chapter*{#1}%
+    \markright{#1}{}%
+    \addcontentsline{toc}{chapter}{#1}}%
+
+% custom itemize list with vertical space removed and custom label
+\newenvironment{myitemize}
+  {\begin{itemize}[leftmargin=*,label=$\blackdiamond$,nosep] \vspace{-0.2cm}}
+  {\end{itemize}}
+
+% custom enumerate list with vertical space removed and custom label
+\newenvironment{myenumerate}
+  %{\begin{enumerate}[leftmargin=*,label=$\blackdiamond$,nosep] \vspace{-0.2cm}}
+  {\begin{enumerate}[wide, labelwidth=!, labelindent=0pt] }
+  {\end{enumerate}}
+
+\newenvironment{mynewitemize}
+  %{\begin{itemize}[leftmargin=*,label=$\blackdiamond$] 
+  %{\begin{itemize}[noitemsep,leftmargin=0pt,label=$\blackdiamond$] 
+  {\begin{itemize}[noitemsep,leftmargin=0pt,label=$\blacktriangleright$] 
+  %{\begin{itemize}[noitemsep,leftmargin=0pt,label=$\mantriangleright$] 
+     \setlength{\itemsep}{5pt}
+     \setlength{\parskip}{0pt}
+     \setlength{\parsep}{0pt}
+     %\setlength{\itemindent}{-10pt}
+  }
+  {\end{itemize}}
+
+
+
+%% remove first blank page
+%\usepackage{atbegshi}   % http://ctan.org/pkg/atbegshi
+%\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
+
+% Generates the index
+\usepackage{makeidx}
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%    front matter
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\pagestyle{empty}
+\null\vfil  % use this will cause a blank page at the beginning
+\begin{center}
+  \Huge\textsf{English Vocabulary Study} \par \vspace{0.5in}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\pagestyle{empty}
+\null\vfil
+\vfil
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\pagenumbering{roman}
+\pagestyle{headings}
+
+\tableofcontents*   % no self-reference (in memoir class)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%    main matter
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainmatter
+\pagenumbering{arabic}
+\pagestyle{ocd}
+
+\include{text/synonym}
+\include{text/a_c}
+\include{text/d}
+\include{text/webster}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%    back matter
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\backmatter
+
+\printindex
+
+\cleardoublepage
+\pagestyle{empty}
+\null\vfil
+
+\begin{adjustwidth}{1in}{1in}
+\begin{center}
+{\Large\textsf{Colophon}}
+\end{center}
+\begin{center}
+  This document was typeset using the xeTeX typesetting system
+  and the memoir class. The body text is set to 14pt on a
+  33pc measure with Adobe Minon Pro. 
+\end{center}
+\end{adjustwidth}
+
+\vfil
+
+
+
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

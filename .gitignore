@@ -1,0 +1,9 @@
+/text/*.aux
+/*.aux
+/*.idx
+/*.ilg
+/*.ind
+/*.log
+/*.out
+/*.toc
+/oed_in_2.txt
