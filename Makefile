@@ -3,12 +3,12 @@ SHELL=C:/Windows/System32/cmd.exe
 LATEX = xelatex
 SOURCES = *.tex text/*.tex
 
-all: oed_study.pdf
+all: vocabulary_study.pdf
 
-oed_study.pdf: $(SOURCES)
-	$(LATEX) oed_study.tex
-	makeindex oed_study.idx
-	$(LATEX) oed_study.tex
+vocabulary_study.pdf: $(SOURCES)
+	$(LATEX) vocabulary_study.tex
+	makeindex vocabulary_study.idx
+	$(LATEX) vocabulary_study.tex
 
 clean:
-	rm -f *~ *.aux *.idx *.ilg *.ind *.log *.out *.toc text/*.aux oed_study.pdf .pdf
+	rm -f *~ *.aux *.idx *.ilg *.ind *.log *.out *.toc text/*.aux vocabulary_study.pdf .pdf
