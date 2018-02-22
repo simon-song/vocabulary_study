@@ -1,0 +1,669 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+perl -pCSD -e 's/a\x{2006}/a/g; s/c\x{2006}/c/g;' oed_raw.txt >b.txt
+perl -pCSD -e 's/\x{2020}//g; s/\x{2013}/-/g; s/\x{2006}/ /g; s/\x{2025}/../g;s/\x{2015}//g; s/\x{2053}/\$\\\sim\$/g; s/\x{204b}/\\\phonetic{\x{204b}}/g;' b.txt >oed_in.txt 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+List of words chosen from Webster Dictionary of Synonyms
+
+harangue
+homily
+gaucherie
+churlish
+animadvert
+virtuoso
+bungler
+dabbler
+tyro
+dilettante
+probationer
+cleave
+renegade
+apostate
+recreant
+abutting
+conterminous
+juxtaposed
+appurtenance
+appanage
+adjure
+importune
+supplicate
+enjoin
+rectify
+derange
+capacious
+immaculate
+gainsay
+amalgam
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%         2017-4-7
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+adjuvant
+subservient
+efficacious
+ennui
+revere
+venerate
+contemn
+debar
+tinge 
+smack
+leaven
+reprove
+reprimand
+reprehend
+reprobate
+vitiate
+vituperation
+invective
+obloquy
+scurrility
+billingsgate
+voluptuous
+lascivious
+ado
+
+lugubrious(a.)
+steep(v.)
+permeate(v.)
+impregnate(v.)
+sodden(a.) <seethe(v.)
+
+
+>>> Tender is the Night, p.1
+quaver(v.)
+flounder(v.)
+jaded(a.) <jade(v.)
+
+>>> Chernow, Alexander Hamilton p.81
+sloven(a.)
+brandishing <brandish(v.)
+bayonet(n.)
+
+>>> Chernow, Alexander Hamilton p.82
+fillip(n.)
+tenuous(a.)
+castigate(v.)
+hastily(adv.) <hasty(a.)
+forlorn(a.) <forlese(v.)
+vile(a.)
+epithet(n.)
+
+>>> Chernow, Alexander Hamilton p.83
+bedraggle(v.)
+attrition(n.) <attrite(v.)
+expound(v.)
+straggle(v.)
+blunder(n.)
+
+>>> Chernow, Alexander Hamilton p.84
+scruffy(a.) <scruff(n.)
+clad(v.)
+assay(v.)
+despondent(a.)
+bedridden=bedrid
+besotted(a.) <besot(v.)
+pare(v.)
+glint(v.)
+muffle(v.)
+groggy(a.)
+foray(n.)
+spurn(v.)
+
+>>> Chernow, Alexander Hamilton p.85
+resplendent(a.)
+bulbous(a.)
+despondent(a.)
+jubilation(n.)
+
+>>> Chernow, Alexander Hamilton p.86
+balk(v.)
+recuperate(v.)
+slack(a.)
+pester(v.)
+qualm(n.) 
+canard(n.)
+
+>>> Chernow, Alexander Hamilton p.87
+deportment(n.)
+brash(a.)
+chafe(v.)
+jibe(v.)
+catapult(v.)
+surrogate(a.)
+
+>>> Chernow, Alexander Hamilton p.88
+wayward(a.)
+ambit(n.)
+transmute(v.)
+wispy(a.) <wisp(n.)
+swagger(n.) <swagger(v.)
+nonchalant(a.)
+mirth(n.)
+gallantry(n.)
+convivial(a.)
+coo(v.)
+irk(v.)
+
+>>> Chernow, Alexander Hamilton p.89
+pageant(n.)
+wallow(v.)
+hitch(v.)
+taciturn(a.) cf. tacit(a.) <L. tacere
+protract(v.)
+facile(a.)
+stenographic(a.) <stenography(n.)
+ventriloquism(n.)
+presto(a.)
+pith(n.)
+
+>>> Chernow, Alexander Hamilton p.90
+adamant(a.)
+canter(v.)
+placate(v.)
+bicker(v.)
+bog(v.) <bog(n.)
+parochial(a.) <parish(n.)
+squabble(n.)
+mitigate(v.)
+
+>>> Chernow, Alexander Hamilton p.91
+epaulet(n.)
+urbane(a.)
+dapper(a.)
+repartee(n.)
+
+>>> Chernow, Alexander Hamilton p.92
+sprightly(a.)
+cordial(a.)
+rapier(a.)
+elicit(v.)
+
+>>> Chernow, Alexander Hamilton p.93
+regale(v.)
+fling(n.)
+dainty(a.)
+libido(n.)
+giddy(a.)
+badinage(n.)
+rake(n.)
+
+>>> Chernow, Alexander Hamilton p.94
+chide(v.)
+apathy(n.)
+chaste(a.)
+akimbo(adv.)
+hilt(n.)
+brusque(a.)
+
+>>> Chernow, Alexander Hamilton p.95
+foreboding(n.)
+impetuous(a.)
+clandestine(a.)
+gingerly(adv.)
+virile(a.)
+ebullient(a.)
+
+>>> Chernow, Alexander Hamilton p.96
+effusive(a.)
+august(a.)
+meteoric(a.)
+flagrant(a.)
+foible(a.)
+liaison(n.)
+sojourn(n.)
+
+>>> Chernow, Alexander Hamilton p.97
+rapturous(a.) <rapture(n.)
+camaraderie(n.)
+calamity(n.)
+livid(a.)
+exonerate(v.)
+recuperate(v.)
+
+>>> Chernow, Alexander Hamilton p.98
+clairvoyant(a.)
+thwart(v.)
+tally(n.)
+sentinel(n.)
+dragoon(n.)
+moor(v.)
+
+>>> Chernow, Alexander Hamilton p.99
+jubilate(v.)
+saunter(v.)
+covey(n.)
+partridge(n.)
+evocative(a.)
+procure(v.)
+exquisite(a.)
+importune(v.)
+
+>>> Chernow, Alexander Hamilton p.100
+dissolute(a.)
+vainglorious(a.) <vainglory(n.)
+pomp(n.)
+pivotal(a.) <pivot(n.)
+siphon(v.) <siphon(n.)
+docile(a.)
+grumble(v.)
+curtail(v.)
+
+>>> Chernow, Alexander Hamilton p.101
+snub(v.)
+fraught(v.)
+
+>>> Chernow, Alexander Hamilton p.102
+scathing(a.)
+retort(v.)
+sop(n.)
+snoop(v.)
+impudent(a.)
+rascal(a.)
+cocksure(a.)
+seethed(a.)
+bravura
+impasse(n.)
+tarry(v.)
+
+>>> Chernow, Alexander Hamilton p.103
+bluff(a.)
+jowly(a.)
+throbbing(a.) <throb(v.)
+lash(v.)
+trepidation(n.)
+wunderkind(n.)
+slate(v.) <slate(n.)
+
+>>> Chernow, Alexander Hamilton p.104
+haggard(a.)
+convalesce(v.)
+fret(v.)
+
+>>> Chernow, Alexander Hamilton p.105
+calumniator(n.) <calumniate(v.)
+incendiary(n.)
+muzzle(v.)
+culprit(n.)
+recuperate(v.)
+raffish(a.)
+
+>>> Chernow, Alexander Hamilton p.106
+fodder(n.)
+menace(v.)
+contervail(v.)
+rein(v.)
+blatant(a.)
+
+>>> Burke, Observations on a Late State of the Nation
+fritter(v.)
+foment(v.)
+farrago(n.)
+portentous(a.)
+frivolous(a.)
+
+>>> Chernow, Alexander Hamilton p.107
+debilitate(v.)
+shudder(v.)
+sloven(a.)
+gaunt(a.)
+
+>>> Chernow, Alexander Hamilton p.108
+balk(v.) <balk(n.)
+clad(a.) <clothe(v.)
+carouse(v.)
+bungle(v.)
+profiteering(vbl.n.)
+scoff(v.)
+in lieu of
+glut(v.)
+
+>>> Chernow, Alexander Hamilton p.109
+parochial(a.) <parish(n.)
+inveigh(v.)
+solicit(v.)
+furlough(n.)
+lash(n.)
+dragoon(n.)
+throe(n.)
+pomposity(n.) <pompous(a.) <pomp(n.)
+provisional(a.)
+tentative(a.)
+strut(v.)
+
+>>> Chernow, Alexander Hamilton p.110
+holster(n.)
+wry(a.)
+autodidact(n.)
+peruse(v.)
+chasm(n.)
+ponderous(a.)
+lug(v.)
+
+>>> Chernow, Alexander Hamilton p.111
+pluck(v.)
+pander(v.) <pander(n.)
+whim(n.)
+
+>>> Chernow, Alexander Hamilton p.112
+fledge(v.)
+ebullient(a.)
+cogent(a.)
+
+>>> Chernow, Alexander Hamilton p.113
+lumbering(a.)
+convene(v.)
+trounce(v.)
+writh(v.)
+scoff(v.)
+bluff(n.) <bluff(v.)
+reconnoiter(v.)
+contingent(n.)
+
+>>> Chernow, Alexander Hamilton p.114
+stifling(a.) <stifle(v.)
+prostration(n.) <prostrate(v.)
+gallop(v.)
+glower(v.)
+umbrage(n.)
+peremptory(a.)
+retort(v.)
+poltroon(n.)
+sedative(a.)
+goad(v.)
+
+>>> Chernow, Alexander Hamilton p.115
+famish(v.) 
+ubiquitous(a.)
+effervescence(n.)
+ragtag(a.)
+
+>>> Chernow, Alexander Hamilton p.116
+rejoin(v.)
+intrepid(a.)
+pontificate(v.) <pontiff(n.)
+lenient(a.)
+hoe(v.) <hoe(n.)
+veracity(n.) <veracious(a.)
+reticence(n.)
+
+>>> Chernow, Alexander Hamilton p.117
+stride(v.)
+
+>>> Webster Dictionary of Synonyms, p.125
+quaint(a.)
+
+>>> Chernow, Alexander Hamilton p.118
+bluster(v.)
+diatribe(n.)
+castigate(v.)
+adjutant(n.)
+impunity(n.)
+gratuitous(a.)
+calumny(n.)
+overwrought(a.)
+reverberate(v.)
+
+>>> Chernow, Alexander Hamilton p.119
+prod(v.)
+tout(v.)
+erudition(n.)
+
+>>> Chernow, Alexander Hamilton p.120
+grievance(n.)
+deplore(v.)
+vainglorious(a.) <vainglory(n.)
+parlay(v.)
+ruffled(ppl.a.)
+bane(n.)
+
+>>> Chernow, Alexander Hamilton p.121
+confer(v.)
+yoke(v.)
+
+>>> Chernow, Alexander Hamilton p.122
+pernicious(a.)
+premise(v.)
+ticklish(a.)
+stampede(v.) <stampede(n.)
+bewail(v.)
+iniquitous(a.)
+
+>>> Chernow, Alexander Hamilton p.123
+apocryphal(a.)
+capitulation(n.)
+atrocity(n.)
+
+>>> Chernow, Alexander Hamilton p.124
+pique(v.)
+flimsy(a.)
+fiddle(v.)
+derogatory(a.)
+
+>>> Pelikan, Christian Tradition, v.1, p.14
+poignancy(n.) <poignant(a.)
+obverse(a.)
+covenant(n.)
+
+>>> Chernow, Alexander Hamilton p.125
+ply(v.)
+
+>>> Chernow, Alexander Hamilton p.126
+lascivious(a.)
+lewd(a.)
+bawdy(a.)
+jocular(a.)
+chaste(a.)
+
+>>> Chernow, Alexander Hamilton p.127
+scolding(n.) <scold(v.)
+termagant(n.)
+avarice(n.)
+prig(n.)
+sanctimony(n.)
+nubile(a.)
+coquette(n.)
+titillate(v.)
+nadir(n.)
+dreary(a.)
+
+>>> Chernow, Alexander Hamilton p.128
+grapple(v.)
+chagrined(ppl.a.) <chagrin(v.)
+allude(v.)
+convivial(a.)
+dole(v.)
+gallant(a.)
+sleighing(n.) <sleigh(v.)
+glisten(v.)
+infatuate(v.)
+inexorable(a.)
+fickle(a.)
+inoculate(v.)
+
+>>> Chernow, Alexander Hamilton p.129
+coax(v.)
+smitten(a.) <smite(v.)
+sentinel(n.)
+ingratiate(v.)
+gregarious(a.)
+affability(n.) <affable(a.)
+spunky(a.)
+elope(v.)
+annex(v.)
+
+>>> Chernow, Alexander Hamilton p.130
+contrivance(n.) <contrive(v.)
+prerogative(n.)
+ostentation(n.)
+fopling(n.)
+frivolous(a.)
+amiable(a.)
+efface(v.)
+pique(n.)
+pampered(a.) <pamper(v.)
+clamber(v.)
+plucky(a.)
+
+>>> Chernow, Alexander Hamilton p.131
+throb(v.)
+flaunt(v.)
+coiffure(n.)
+gumption(n.)
+conclave(n.)
+
+>>> Cambridge History of Christianity, v.1, p.xiii
+pristine(a.)
+emancipation(n.) <emancipate(v.)
+
+>>> Cambridge History of Christianity, v.1, p.xiv
+conundrum(n.)
+thwart(v.)
+
+>>> Cambridge History of Christianity, v.1, p.xv
+ethos(n.)
+
+>>> Webster Dictionary of Synonyms, p. 444
+surreptitious(a.)
+magnanimity(n.) <magnanimous(a.)
+
+>>> Chernow, Alexander Hamilton p.132
+indomitable(a.)
+rakish(a.) <rake(n.)
+termagant(n.)
+pang(n.)
+
+>>> Chernow, Alexander Hamilton p.133
+supercilious(a.)
+rectitude(n.)
+voguish(a.) <vogue(n.)
+repartee(n.)
+strum(v.)
+irreverence(n.)
+famish(v.)
+
+>>> Chernow, Alexander Hamilton p.134
+gallantry(n.) <gallant(a.)
+lam(n.) U.S. slang
+raspy(a.)
+hobble(v.)
+
+>>> Chernow, Alexander Hamilton p.135
+indulgent(a.)
+cringing(ppl.a.) <cringe(v.)
+rapport(n.)
+fringe(n.)
+petulant(a.)
+abject(a.)
+debonair(a.)
+
+>>> Chernow, Alexander Hamilton p.136
+calash(n.)
+rambunctious(a.)
+ostracize(v.) <ostracism(n.)
+relish(v.)
+trowel(n.)
+encomium(n.)
+
+>>> Chernow, Alexander Hamilton p.137
+precipitous(a.)
+
+>>> Chernow, Alexander Hamilton p.138
+inextricable(a.) <extricate(v.)
+gloat(v.)
+schadenfreude(n.)
+repine(v.)
+
+>>> Chernow, Alexander Hamilton p.139
+bicker(v.)
+
+>>> Macaulay, Critical and Historical Essays, v.1, Burleigh, p.91
+thimble(n.)
+wren(n.)
+avoirdupois(n.)
+deluge(n.)
+
+>>> Macaulay, Critical and Historical Essays, v.1, Burleigh, p.91
+truism(n.)
+delineation(n.) <delineate(v.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, v.3, p.164
+sequestered, < sequester(v.)
+scourge(n.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, v.3, p.165
+precarious(a.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, v.3, p.169
+munificent(a.)
+magnanimity(n.)
+ascribe(v.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, v.3, p.171
+dissimulation(n.) <dissimulate(v.)
+feign(v.)
+impunity(n.)
+rapine(n.)
+effeminacy(n.) <effeminate(a.)
+diadem(n.)
+variegated(ppl.a.) <variegate(v.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, v.3, p.173
+gallant(a.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, v.3, p.174
+deplore(v.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, Chap. I
+profligate(a.)
+prowess(n.)
+ignominious(a.) <ignominy(n.)
+chastise(v.)
+docility(n.) <docile(a.)
+impetuous(a.) <impetus(n.)
+unremitted(a.) <remit(v.)
+suffrage(n.)
+levy(n.)
+treble(v.)
+pusillanimity(n.) <pusillanimous(a.)
+extirpate(v.)
+pomp(n.)
+unwieldily
+yoke(n.)
+actuate(v.)
+canton(n.)
+pompous(a.) <pomp(n.)
+
+>>> Proust, A la recherche du temps perdu
+ineffable <F. ineffable
+
+>>> Plutarch, Moralia, vol. VII, (Loeb Edition), p. 5
+exuberance(n.) <exuberant(a.)
+perspicuity(n.)
+flippant(a.)
+
+>>> Gibbon, Decline and Fall of the Roman Empire, Chap. I
+infested(ppl.) <infest(v.)
+annex(v.)
+
+>>> Hooker, Of the Laws of Ecclesiastical Polity, Preface, p.8
+surmise(n.)
+restitution(n.) <restitute(v.)
+alacrity(n.)
+
+>>> Clive James, Culture Amnesia, Chapter on Marcel Proust
+succumb(v.) <F. succomber
+
+>>> Clive James, Culture Amnesia, Chapter on Thomas Browne
+prolixity(n.) <prolix(a.)
+
+>>> Webster Dictionary of Synonyms, 
+p.858 vicious,villainous,iniquitous,nefarious,flagitious,infamous,corrupt,degenerate
+p.341 flagrant,glaring,gross,rank
+p.585 outrageous,monstrous,heinous,atrocious
+p.496 licentious,libertine,lewd,wanton,lustful,lascivious,libidinous,lucherous
+
+>>> Complete Prose of T.S. Eliot, vol. 1, p.391
+indigenous(a.)
