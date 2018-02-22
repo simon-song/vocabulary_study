@@ -667,3 +667,14 @@ p.496 licentious,libertine,lewd,wanton,lustful,lascivious,libidinous,lucherous
 
 >>> Complete Prose of T.S. Eliot, vol. 1, p.391
 indigenous(a.)
+
+astute(a.)
+tantalized(a.) <tantalize(v.)
+turgid(a.)
+superfluous(a.)
+elicit(v.)
+exhortatory(a.) <exhort(v.)
+virtuoso(a.)
+polemical(a.) polemic(a.)
+veracity(n.) veracious(a.)
+louche(a.) <F. louche
