@@ -31,6 +31,8 @@
 
 %\usepackage[showframe]{geometry}
 
+\usepackage{imakeidx} % must be loaded before hyperref to make links work
+
 \usepackage[plainpages=false,pdfpagelabels,bookmarksnumbered]{hyperref}
 \usepackage{memhfixc}  % adjustment for using hyperref in memoir class
 \usepackage{amsmath}
@@ -172,7 +174,7 @@
 % Generates the index
 %\usepackage{makeidx}
 %\makeindex
-\usepackage{imakeidx}
+%\usepackage{imakeidx}
 \makeindex[intoc] % added index to toc
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
