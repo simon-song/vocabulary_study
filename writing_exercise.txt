@@ -666,12 +666,59 @@ for it to act, it is my great misfortune to entertain several material points
 against your transactions.
 
 
+====================================================================
+==  Burke, Reflections on the Revolution in France, 2nd paragraph
+====================================================================
+Burke's text:
+You imagined, when you wrote last, that I might possibly be reckoned among the
+approvers of certain proceedings in France, from the solemn public seal of
+sanction they have received from two clubs of gentlemen in London, called the
+Constituional Society, and the Revolution Society.
 
+copy Burke's text again:
+You imagined, when you wrote last, that I might possibly be reckoned among the
+approvers of certain proceedings in France, from the solemn public seal of
+sanction they have received from two clubs of gentlemen in London, called the
+Constitutional Society, and the Revolution Society.
 
+My first try:
+You imagined, when you wrote last, that I might possibly be reckoned among
+approvers of certain proceedings in France, from the solemn public seal of
+sanction received by them from two clubs of gentlemen in London, one called 
+the Constitutional Society, the other the Revolution Society.
 
+L2: approvers -> the approvers
+L3: received by them -> they have received
+L3: one called -> called
+L4: the other -> and
 
+Paragraphs 1-3 together:
+Dear Sir,
+  You are pleased to call again, and with some earnestness, for my thoughts on
+the late proceedings in France. I will not give you reason to think, that my
+sentiments are of such value as to wish myself to be solicited about them. They
+are of too little consequence to be very anxiously either communicated or
+withheld. It was from attention to you, and to you only, that I hesitated at the
+time, when you first desired to receive them. In the first letter I had the
+honor to write you, and which at length I send, I wrote neither for nor from the
+description of men; nor shall I in this. My errors, if any, are my own. My
+reputation alone is to answer for them.
+  You see, Sir, by the long letter I have transmitted to you, that, though I do
+most heartily wish that France may be animated by a rational liberty, and that I
+think you bound, in all honest policy, to provide a permanent body in which the
+spirit may reside, and an effectual organ by which it may act, it is my
+misfortune to entertain great doubts on several material points concerning your
+late transactions.
+   You imagined, as you wrote last, that I might possibly be reckoned among the
+approvers of certain proceedings in France, from the solemn public seal of
+sanction they have received from two clubs of gentlemen in London, called the
+Constitutional Society, and the Revolution Society.
 
-
+P1L2: that my sentiments are of -> that I think my sentiments of
+P2L2: by a rational liberty -> by a spirit of rational liberty
+P2L5: on serveral material points concerning -> concerning several material
+      points in
+P3L1: as you wrote -> when you wrote
 
 
 
