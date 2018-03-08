@@ -704,3 +704,6 @@ fret(n.) fretful(a.)
 dither(n.)(v.)
 seethe(v.)
 pother(v.)
+
+obfuscation(n.) obfuscate(v.)
+amerce(v.)
