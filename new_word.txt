@@ -747,3 +747,13 @@ nefarious(a.)
 strut(v.) strutting(n.)
 frugal(a.) frugality(n.)
 quicken(v.)
+
+impute(v.)
+gratuitous(a.)
+oblivous(a.)
+
+>>> Webster Dictionary of Synonyms 
+p107 boggle
+p.225 demur,scruple,balk,jib,shy,boggle,stick,stickle,strain
+
+calvary(n.) cavalry(n.)
