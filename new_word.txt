@@ -757,3 +757,46 @@ p107 boggle
 p.225 demur,scruple,balk,jib,shy,boggle,stick,stickle,strain
 
 calvary(n.) cavalry(n.)
+
+remit(v.)
+1.a. to forgive or pardon (a sin, offence, etc.) [if guilty]
+1.b. to spare, pardon, or forgive (a person) [if guilty]
+2.   to give up, resign, surrender (a right or possession)
+3.a. to abstain from exacting (a payment or service of any kind) [something owed
+     to the person)
+3.b. to refrain from inflicting (a punishment) or carrying out (a sentence) [on
+     someone]
+3.c. to exempt from confiscation [of something]
+3.d. to allow as a respite [break]
+4.   to discharge, set free, release, liberate (a person)
+5.a. to give up, lay aside (anger, displeasure, etc.) entirely or in part.
+5.b. to give up or give over, abandon, desist from (a pursuit, occupation, etc.)
+6.a. to allow (one's diligence, attention, etc.) to slacken or abate.
+6.b. to admit or manifest an abatement of some quality.
+6.c. to mitigate, diminish, or abate
+7.   to relax, relieve from tension
+8.a. to refer (a matter) for consideration, decision, performance, etc., to a
+     person or body of persons, now usually to one specially empowered or 
+     appointed to deal with it; also specificly in Law, to send back (a case) to
+     an inferior court.
+8.b. to send (a person) from one tribunal to another for trial of hearing.
+8.c. to commit (a person) to the charge or control of another. Also
+     reflectively.
+8.d. reflectively, =refer(v.)
+9.a. to refer (one) to a book, person, etc., for information on some point.
+9.b. to direct (one) to a task.
+10.a. to send (a person) back to prison, or to other custody; to recommit.
+10.b. to send in return; to send back.
+10.c. to emit or send out again.
+11.a. Law. to restore to a former and more valid title.
+11.b. to put back into, to admit or consign again to a previous position, state,
+      or condition.
+12.a. to postpone, to put off or defer.
+12.b. to defer the reception of (a person)
+13.a. to refer, assign, or make over to a thing or person.
+13.b. to enter or insert in (or into) a book.
+14.   to send or transmit (money or articles of value) to a person or place.
+15.a. (intr.) to abate, diminish, slacken
+15.b. (intr.) of pain, fever, etc., also in figurative context.
+16.   (intr.) to relax from labour; to give over.
+

@@ -75,3 +75,46 @@ large city from afar.
 Notes:
 
 (1) Example of VERB + virtue: exercise virtue, practice virtue, maintain virtue
+
+
+=============================================
+==   Precis of Rambler #17
+=============================================
+
+para. #1:
+Some eastern monarch had an officer to remind him of his mortality in the
+morning, and Solon of Athens advised us to keep our eyes upon the end of life.
+
+para. #2: 
+A conscious and frequent attention to the end of one's life would keep one
+honest and rational.
+
+para. #3:
+The consideration of our mortality would keep our desires, griefs, and fears
+(which are three disturbers to our happiness) in check, as suggested by
+Epictetus.
+
+
+Johonson's original sentence:
+That the maxim of Epictetus is founded on just observation will easily be
+granted, when we reflect, how that vehemence of eagerness after the common
+objects of pursuit is kindled in our minds.
+
+Rewrite:
+When we reflect, how that vehemence of eagerness after the common objects of
+pursuit is kindled in our minds, it will easily be granted that the maxim of
+Epictetus is founded on just observation.
+
+It will easily be granted that the maxim of Epictetus is founded on just
+observation, when we reflect, how that vehemence of eagerness after the common
+objects of pursuit is kindled in our minds.
+
+It will easily be granted, when we reflect, how that vehemence of eagerness
+after the common objects of pursuit is kindled in our minds, that the maxim of
+Epictetus is founded on just observation.
+
+That the maxim of Epictetus is founded on just observation, when we reflect, how
+that vehemence of eagerness after the common objects of pursuit is kindled in
+our minds, will easily be granted.
+
+
