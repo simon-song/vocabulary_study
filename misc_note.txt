@@ -1,0 +1,277 @@
+
+2017-4-17
+
+study: effective practice, 10,000 hours training
+
+study method: build a framework instead of a lot of isolated knowledge 
+
+the importance of deliberate training
+
+fast feedback
+
+
+==============================================================
+>>>>> reading is more important than listening and speaking:
+==============================================================
+
+(1) practical consideration, for adults it is more difficult to find time to
+practice speaking than reading.
+
+(2) best approach, read text, then listen to the text, finally read again.
+
+kids: can mimick how native speakers, more error tolerant
+adult: no time, mental challenge, need understanding and seeing progress
+
+It is easier to pick up speaking in the environment where you have to speak,
+and difficult to practice it without the environment. On the other hand, 
+one can practice reading without much external dependence.
+
+Speaking is sort of like writing with your mouth.
+
+reading > listening and writing > speaking
+
+
+
+
+
+===========================================================================
+>>>> Topic: does the transcription method work for studying mathematics?
+===========================================================================
+
+
+
+==============================================================
+>>>> method for studying Webster's Dictionary of Synonyms:
+==============================================================
+
+(1) select a discrimination article of interest, do this randomly or
+sequentially?
+
+(2) read the Webster's article
+
+(3) retrieve OED entries of unfamiliar head words in the article and typeset
+using LATEX
+
+(4) write my own discrimination article, incorporating information from OED 
+
+Remark: this method is similar to the one used in studying abstract mathematics,
+i.e. by writing my own proof for all the results in the book and filling any gap
+that encountered on the way
+
+
+==============================================================
+>>>> method for studying vocabulary during reading
+==============================================================
+
+(1) underline unfamiliar words during reading
+
+(2) collect the unfamiliar words into a word list
+
+(3) for words in the list, retrieve explanation and (four) examples from
+vocabulary.com
+
+(4) generate a html file for all the words with explanation and examples
+
+(5) generate a html file with random vocabulary test for the words in the list
+
+(6) quiz myself using the test, go back to read all explantion and examples if
+needed
+
+Alternatively, we can pick random words from Schur's 1000 Most Important Words.
+
+
+
+==============================================================
+>>>> Reading course design
+==============================================================
+
+(1) ask two students to summarize the events of the previous chapter/course
+students should be chosen randomly (or roughly uniformly). 10 minutes
+
+(2) listen to audio by Stephen Fry for the beginning of the new chapter, 
+5 minutes
+
+(3) ask students to explain what the audio has said, 5 minutes
+
+(4) explain the difficult vocabularies and culture references of this part,
+    5 minutes
+
+(5) ask students to read several paragraphs, 5 minutes
+
+(6) ask other students what happens in this passage, 5 minutes
+
+(7) explain the difficult vocabularies and culture references of this passage
+    5 minutes
+
+(8) repeat steps (5)-(7)
+
+(9) break, 5 minutes
+
+(10) ask one student to summarize the story covered by the first session
+
+
+
+==============================================================
+>>>> self-improving tasks
+==============================================================
+
+(1) reading + writing
+
+(1.a) Read first-rate prose, Hooker, Burke, Johnson, Blackstone, Macaulay
+
+(1.b) write a summary for (roughly) every page read
+
+(1.c) paraphrase Hooker
+
+(2) vocabulary building
+
+(2.a) OED study, which words?
+
+(2.b) look up words encountered in reading of step (1.a) (using OED or
+vocabulary.com)
+
+(2.c) Webster Dictionary of Synonyms
+
+(2.d) Q: How to review vocabularies?
+
+(2.e) Q: How much time should be spent on (pure) vocabulary study? Maybe 
+I should focus on reading and writing.
+
+
+==========================================================
+>>>>   study plan
+==========================================================
+
+(1) translate Proust from Francais to English
+
+(2) paraphrase Hooker's Laws
+
+(3) read Macaulay's History of England and write summaries for each page
+
+
+===========================================================
+>>>>>   ideas for study
+===========================================================
+(1) read George Eliot, e.g. Daniel Deronda
+
+(2) copy the sentence with unfamiliar words
+
+(3) search the unfamiliar words in Roget's 21 Century Thesaurus
+
+(4) try to replace these words by its synonyms
+
+  (4.1) why does George Eliot choose this particular word instead of its
+        synonyms?
+
+  (4.2) can you choose better words?
+
+  (4.3) maybe paraphrase the sentence?
+
+
+=========================================================
+==    ideas for interview English
+=========================================================
+Behavior questions:
+
+(1) why do you choose our company?
+(2) why do you leave your previous company?
+(3) shortcomings
+
+
+===========================================================
+===   ideas for study
+===========================================================
+(1) read an entry in Verbal Advantage
+
+(2) for every interesting word encountered (main lemma, synonyms, etc.)
+read corresponding entries in OED and Webster Dictionary of Synonyms
+
+(3) write 3 sentences using the word in step (2)
+
+Sometimes after reading the entries in Webster Dictionary of Synonyms, I still
+could not fully understand the differences of the synonyms, what can I do in
+such cases?
+
+
+===========================================================
+===   2018-3-26  thoughts on writing
+===========================================================
+
+(1) what kind of writing? literary, scientific, persuasive, etc.?
+
+(1.a) How to make sure the process is an active one and there are feedbacks?
+
+(2) translation exercises
+
+(2.a) Proust: Francais->English (original in Francais), 
+      compare vs. Davis's English translation
+
+(2.b) Burke: Francais->English (original in English), 
+      compare vs. Burke's English original
+      Why does Burke write it that way? Why does he use a certain word?
+
+(2.c) Nabokov: Autres Rivages (Francais) -> Speak Memory (English)
+      compare vs. Nabokov's original English
+
+(2.d) Only Proust seems to be accessible. I am not so sure about the quality of
+      the French translation of Burke.
+
+(3) paraphrase exercises
+
+(3.a) Federalist Papers
+
+(3.b) Hooker, Laws of Ecclesiastical Polity
+
+(3.c) Burke, Reflections on the Revolution in France
+
+(4)  Hooker
+
+(4.a) copy a few sentences, twice
+
+(4.b) transcribe from memory the text in step (4.a), then compare against the
+      original
+
+(4.c) repeat step (4.b) till perfection
+
+
+===========================================================
+===   2018-3-27  thoughts on writing
+===========================================================
+
+(1) translation exercise, Proust:Francais->English
+    Side effect will be a deeper understanding of Proust's text.
+
+(2) Hooker, transcription and memorization
+
+(3) Johnson, Rambler, precis writing and paraphrase
+
+(4) precis writing probably helps reading more than writing.
+
+
+===========================================================
+===   2018-4-3  writing sentences
+===========================================================
+
+(1) find good sentences during your reading
+
+(2) analyze the grammatical structure of the sentence
+
+(3) rewriting exercise: periodic<-->balanced, etc.
+
+
+===========================================================
+===   2018-4-13 vocabulary reading using OED (and WDS)
+===========================================================
+
+(1) choose an interesting/important word (from reading, or from
+    WDS)
+
+(2) read OED entry of this word
+
+(3) read OED entries of the synonyms or related words (from WDS)
+    of this word
+
+(4) write a paragraph describing the historical change of the meanings
+    of this word
+
+
