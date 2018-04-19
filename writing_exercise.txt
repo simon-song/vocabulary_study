@@ -721,23 +721,322 @@ P2L5: on serveral material points concerning -> concerning several material
 P3L1: as you wrote -> when you wrote
 
 
+===============================================================
+Burke's text:
+This is one among the revolutions which have given splendor to obscurity and
+distinction to undiscerned merit. Until very lately I do not recollect to have
+heard of this club. I am quite sure that it never occupied a moment of my
+thoughts, -- nor, I believe, those of any person out of their own set.
+
+My first try:
+This is one among the revolutions which have given splendor to obscurity and
+distinction to undiscerned merit. I do not recall having heard about this
+society before writing to you, nor ...
+
+Burke's text again:
+Until very lately I do not recollect to have heard of this club. I am quite sure
+that it never occupied a moment of my thoughts, --nor, I believe, those of any
+person out of their own set.
+
+My second try:
+Until very lately I do not recollect ever have heard of this club. It never
+crossed my mind, --nor anyone else out of their own.
 
 
+===============================================================
+Hooker, Laws of Ecclesiastical Polity
+transcription from memory:
+Howbeit (as evermore the plainer sort are, even when they see no apparent cause,
+jealous notwithstanding over the secret intents and purposes of wiser men) this
+proposition of his did somewhat trouble them. For the ministers themselves which
+had stayed behind in the city when Calvin was gone, some, upon knowledge of the
+people's earnest desire to recall him to his position again, had beforehand
+written him their letters of submission, and assured him of their allegiance 
+for ever after, if it is like him to be hearkened in the public suit.
+
+L1: plainer -> simpler
+L3: For -> Of
+L5: desire -> intent
+L6: position -> place
+L6: written him -> written
+L7: is like -> should like
+L7: be hearkened in the public suit -> hearken unto that public suit
+
+sort (n.) OED 7b, with plural verbs or pronouns.
 
 
+=======================================================
+transcription from memory:
+Howbeit(as evermore the simpler sort are, even when they saw no apparent cause,
+jealous notwithstanding over the secret intents and purposes of wiser men) this
+proposition of his did somewhat trouble them. Of the ministers themselves which
+had stayed behind when Calvin was gone, some, upon knowledge of the people's
+earnest intent to recall him to his place again, had beforehand written their
+letters of submission, and assured him of their allegiance for ever after, if it
+should like him to hearken unto that public suit. But yet misdoubting what might
+happen, if this discipline did go forward; they opposed it the example of other
+reformed churches living quietly and orderly without it.
+Some of chiefest place and countenance of the laity professed with greater
+stomach their judgments, that such a discipline was little better than Popish
+tyranny disguised and tendered unto them under a new form.
 
+L1: saw -> seek
+L8: opposed -> objected against
+L10: of the laity -> amongst the laity
 
+===============================================
+Hooker's original text:
+This sort, it may be, had some fear, that the filling up of the seats in the
+consistory with so great a number of laymen was but to please the minds of the
+people, to the end they might think their own sway somewhat; but when things
+came to trial of practice, their pastors' learning would be at all time of force
+to over-persuade simple men, who knowing the time of their own presidentship to
+be but short would always stand in fear of their ministers' perpetual authority:
 
+My first attempt:
+This sort, it may be, had some fear, that the filling up of the seats in the
+consistory with such a great number of laymen was only to please the minds of
+the people, to the end they might think their own sway somewhat; but when things
+came to the trial of practice, their ministers' learning would be at all 
+times of force to over-persuade simple men, who knowing the time of their
+presidentship would be but short would ......
 
+L2: such a great number -> so great a number
+...... many other corrections
 
+2018-3-13 transcription from memory
+Howbeit (as evermore the simpler sort are, even when they see no apparent cause,
+jealous notwithstanding over the secret intents and purposes of wiser men) this
+proposition of his did somewhat trouble them. Of the ministers themselves which
+had stayed behind in the city when Calvin was gone, some, upon knowledge of the
+people's earnest intent to recall him to his place again, had beforehand written
+their letters of submission, and assured him of their allegiance for ever after,
+if it should like him to hearken unto that public suit. But yet misdoubting what
+might happen, if this discipline did go forward; they objected against it the
+example of other reformed churches living quietly and orderly without it. Some
+of place and countenance of the laity professed with greater stomach their
+judgments, that such a discipline was little better than Popish tyranny
+disguised and tendered unto them under a new form. This sort, it may be, had
+some fear, that the filling up of the seats in the ecclesiastical consisitory
+was but to please the minds of the people, to the end that they might think of
+their own sway somewhat; but when things came to trial of practice, their
+pastors' learning would be at all times of the force to over-persuade simple
+men, who knowing the time of their own presidentship to be but short would
+stand in fear of their ministers' perpetual authority: and among the ministers
+themselves, one being so far in estimation above the rest, the voices of the
+rest would be likely to be given for the most part respectively, with a kind of
+dependency and awe.
 
+L817: place -> chiefest place
+L817: of the laity -> amongst the laity
+L820: ecclesiastical consistory -> consistory with so great a number of laymen
+L821: that they -> they
+L827: would be -> were
 
+2018-3-16 transcription from memory:
+Howbeit (as evermore the simpler sort are, even when they see no apparent cause,
+jealous notwithstanding over the secret intents and purposes of wiser men) this
+proposition of his did somewhat trouble them. Of the ministers themselves which
+had stayed behind when Calvin was gone, some, upon knowledge of the people's
+earnest intent to recall him to his old place again, had beforehand written
+their letters of submission, and assured him of their allegiance for ever after,
+if it should like them to hearken unto that public suit. But yet misdoubting
+what might happen, if this discipline did go forward, they objected against it
+the example of other reformed churches living quietly and orderly without it.
+Some of certain place and countenance of the laity professed with greater
+stomach their judgments, that such a discipline was little better than Popish
+tyranny disguised and tendered unto them under a new form. This sort, it may be,
+had some fear, that the filling up of the seats in the consistory with so great 
+a number of layment was just to please the minds of the people, to the end they
+might think of their own sway somewhat; but when things came to trial of
+practice, their pastors' learning would be at all times of force to
+over-persuade simple men, who knowing the time of their own presidentship to be
+but short would always stand in fear of their ministers' perpetual authority:
+and among the ministers themselves, one being so far in estimation above the
+others, the voices of others were likely to be given for the most part
+respectively, with a kind of dependency and awe: so that in theory a marvellous
+indifferently composed senate ecclesiastical ........., but in effect one only
+man, ........., do all in all.
 
+L846: certain -> chiefest
+L846: of the laity -> amongst the laity
+L856: others -> rest
+L857: in theory -> in show
 
+===========================
+transcription from memory:
+Not many years were over-passed, before these twice-sworn men adventured to give
+their last and hottest assault to the fortress of the same discipline;
+childishly granting by common consent of their whole Senate, and that under
+their town seal, a relaxation to one Bertelier, whom the Eldership had
+excommunicated; further also decreeing, with strange absurdity, that to the same
+Senate it should belong to give final judgment on matter of excommunication:
+clean contrary to their own former deeds and oaths. The report of which decree
+being forthwith brought to Calvin, "Before," saith he, "this decree take place,
+either my blood or banishment shall sign it." Again, two days before the
+communion should be celebrated, his speech was publickly in like sort:"Kill me
+if this hand do reach forth the things that are holy to them whom the Church had
+judged despisers."
 
+L873: should add "and to absolve whom it pleased them,"
+L877: like sort -> like effect
+L878: if -> if ever
+L878: had -> hath
 
+2018-3-23 transcription form memory:
+Not many years were over-passed, before these twice-sworn men adventured to give
+their last and hottest assault to the fortress of the same discipline;
+childishly granting by common consent of the whole senate, and that with their
+town seal, a relaxation to one Bertelier, whom the Eldership had excommunicated;
+further also decreeing, with strange absurdity, that to the same senate should
+belong to give final judgment in matters of excommunication, and to absolve whom
+it pleased them: clean contrary to their own former deeds and oaths. The report
+of which decree being forthwith brought unto Calvin; "Before", saith he, "this
+decree take place, either my blood or banishment shall sign it." Again two days
+before the communion should be celebrated, his speech was publickly to like
+effect:"Kill me if ever this hand reach forth the things that are holy to them
+whom the Church hath judged despisers." Whereupon, for fear of tumult, the
+forenamed Bertelier was by his friends advised at that time not to use the
+liberty granted him by the Senate, nor to present himself in the Church, till
+they saw somewhat further what would ensue.
 
+L899: at that time -> for that time
 
+2018-3-30 transcription from memory:
+Whereupon, for fear of tumult, the forenamed Bertelier was for that time advised
+by his friends to not use the liberty granted him by the Senate, nor to present
+himself in the Church, till they saw somewhat further what would ensue. After
+the communion quietly ministered, and some likelihood of peaceable ending to
+these troubles without any more ado, that very day in the afternoon, besides all
+men's expectation, concluding his ordinary sermon, he telleth them, that because
+he had neither learned nor taught to strive with such as are in authority,
+"therefore", saith he, "the case so standing as now it hath, let me use the
+words of the Apostle unto you, 'I commend you to God and the word of his
+grace'"; and so bade them heartily all adieu.
+
+It sometimes cometh to pass, that the readiest way which a wise man hath to
+conquer, is to fly. This voluntary and unexpected mention of sudden departure
+caused presently the Senate (for according to their wonted manner they still
+continued only constant in unconstancy) to gather themselves together, and for a
+time to suspend their own decree, till they had heard the judgment of four
+Helvetian cities concerning the matter which was in strife. This to have done at
+the first before they gave assent unto any order had shewed some wit and
+discretion in them, but now to do it was as much as to say, that they would play
+their parts on a stage.
+
+L906-907: for that time advised by his friends -> by his friends advised for
+that time
+L909: to -> of
+L912: had neither -> neither had
+L913: use the -> use these
+L921: decree, -> decree, leaving things to proceed as before
+L923: to say, -> to say in effect,
+
+Hooker's original text:
+Calvin therefore dispatched with all expedition his letters unto some principal
+pastor in every of those cities, craving earnestly at their hands, to respect
+this cause as a thing whereupon the whole state of religion and piety in that
+church did so much depend, that God and all good men were now inevitably certain
+to be trampled under foot, unless those four cities by their good means might be
+brought to give sentence with the ministers of Geneva, when the cause should be
+brought before them: yea so to give it, that two things it might effectually
+contain; the one an absolute approbation of the discipline of Geneva as
+consonant unto the word of God, without any cautions, qualifications, ifs or
+ands; the other an earnest admonition not to innovate or change the same.
+
+2018-4-17 transcription from memory:
+It sometimes cometh to pass, that the readiest way which a wise man hath to
+conquer, is to fly. This voluntary and unexpected mention of sudden departure
+caused presently the senate (for according to their wonted manner they still
+continued only constant in unconstancy) to gather themselves together, and for a
+time to supspend their own decree, leaving things to proceed as before till they
+had heard the judgment of the four Helvetian cities concerning the matter which
+was in strife. This to have done at the first before they gave assent unto any
+order had showed some wit and discretion in them, but now to do it was as much
+as to say in effect, that they would play their parts on a stage.
+
+Hooker's original text:
+Calvin therefore dispatched with all expedition his letters unto some principal
+pastor in every of those cities, craving earnestly at their hands, to respect
+this cause as a thing whereupon the whole state of religion and piety in that
+church did so much depend, that God and all good men were now inevitably certain
+to be trampled under foot, unless those four cities by their good means might be
+brought to give sentence with the ministers of Geneva, when the cause should be
+brought before them: yea so to give it, that two things it might effectually
+contain; the one an absolute approbation of the discipline of Geneva as
+consonant unto the word of God, without any cautions, qualifications, ifs or
+ands; the other an earnest admonition not to innovate or change the same.
+
+precis:
+Calvin sent letters to principal pastors of those four Helvitian cities asking
+them to approve the discipline of the Church of Geneva and to object any change
+to it when they were asked for opinions by the Senate of Geneva.
+
+sentence structure:
+(1) Calvin therefore dispatched with all expedition his letters unto some
+    principal pastor in every of those cities, 
+    (2) craving earnestly at their hands,
+        (3) to respect this cause as a thing whereupon the whole state of
+            religion and piety in that church did so much depend,
+            (4) that God and all good men were now inevitably certain to be
+                trampled under foot,
+                (5) unless those four cities by their good means might be
+                    brought to give sentence with the ministers of Geneva,
+                    (6) when the cause should be brought before them:
+                        (7) yea so to give it,
+                        ......
+
+basic structure:
+A did sth (to B) ...
+  craving sth ...
+    to respect sth ...
+      that sth would happen ...
+        unless B did sth ...
+          when sth happened ...
+            first to do sth ...
+            secondly to do sth else ...
+            
+
+Sentence combination:
+Ex. 1:
+
+Finally I awoke, feeling able to talk to him.
+
+Feeling able to talk to him, I finally awoke.
+
+Feeling able to talk to him, I awoke finally.
+
+Finally feeling able to talk to him, I awoke.
+
+I awoke, finally feeling able to talk to him.
+
+Ex. 2:
+
+Gramps had been thrown out of high school for misbehavior by the age of fifteen,
+punching the principal in the nose.
+
+By the age of fifteen, Gramps had been thrown out of high school for
+misbehavior, punching the principal in the nose.
+
+Ex. 3:
+
+When you've finished reading a book, if the pages are filled with notes, you
+know that you read actively.
+
+When you've finished reading a book, you know that you read actively if the
+pages are filled with notes.
+
+If the pages are filled with notes when you've finished reading a book, you know
+that you read actively.
+
+If the pages are filled with notes, you know that you read actively when you've
+finished reading a book.
+
+You know that you read actively when you've finished reading a book, if the
+pages are filled with your notes.
+
+You know that you read actively, if the pages are filled with your notes when
+you've finished reading a book.
 
 
 
