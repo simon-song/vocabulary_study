@@ -1039,6 +1039,51 @@ You know that you read actively, if the pages are filled with your notes when
 you've finished reading a book.
 
 
+=====================================
+Rambler #18, para. 2:
+
+This general unhappiness has given occasion to many sage maxims among the
+serious, and smart remarks among the gay; the moralist and the writer of
+epigrams have equally shewn their abilities upon it; some have lamented, and
+some have ridiculed it; but as the faculty of writing has been chiefly a
+masculine endowment, the reproach of making the world miserable has been always
+thrown upon the women, and the grave and the merry have equally thought
+themselves at liberty to conclude either with declamatory complaints, or
+satirical censure, of female folly or fickleness, ambition or cruelty,
+extravagance or lust.
+
+structural analysis:
+
+... has given general occasion to ... ; ... have equally shown ... upon it ;
+some have ..., and some have ... it; but as ..., the reproach of ... has been
+always thrown upon ..., and ... have thought themselves at liberty to conclude
+either with ..., or ..., of ... or ..., ... or ..., ... or ...
+
+=====================================
+Rambler #18, para. 3:
+
+Led by such a number of examples, and incited by my share in the common
+interest, I sometimes venture to consider this universal grievance, having
+endeavoured to divest my heart of all partiality, and place myself as a kind of
+neutral being between sexes, whose clamours being equally vented on both sides
+with all the vehemence of distress, all the apparent confidence of justice, and
+all the indignation of injured virtue, seem entitled to equal regard.
+
+The mean have, indeed, by their superiority of writing, been able to collect the
+evidence of many ages, and raise prejudices in their favour by the venerable
+testimonies of philosophers, historians, and poets; but the pleas of the ladies
+appeal to passions of more forcible operation than the reverence of antiquity.
+
+If they have not so great names on their side, they have stronger arguments: it
+is to little purpose that Socrates, or Euripides, are produced against the sighs
+of softness, and the tears of beauty.
+
+The most frigid and inexorable judge would at least stand suspended between
+equal powers, as Lucan was perplexed in the determination of the cause, where
+the deities were on one side, and Cato on the other.
+
+
+
 
 
 
