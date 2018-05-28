@@ -1395,15 +1395,158 @@ VII. Indicating the material or substance of which anything is made or consists.
 20a. After verbs signifying to make, to be made, to consist, to be. Hence such
      fig. phrases as to make a fool of, to make much of, make the best of, etc. 
 
+===============================================================
+Rambler #20
+
+Among all my female friends, there was none who gave me more trouble to decypher
+her true character, than Penthesilea, whose letter lay upon my desk three days
+before I could fix upon the real writer. There was a confusion of images, and
+medley of barbarity, which held me long in suspense; till by perseverance I
+disentangled the perplexity, and found that Penthesilea is the son of a wealthy
+stock-jobber, who spends his morning under his father's eye in Changed-Alley,
+dines at a tavern in Covent-Garden, passes his evening in the play-house, and
+part of the night at a gaming-table, and having learned the dialects of these
+various regions, has mingled them all in a studied composition.
+
+===============================================================
+Hooker's text:
+
+Which answer, although not answering unto the former demands, but respecting
+what Master Calvin had judged requisite for them to answer, was notwithstanding
+accepted with any further reply: in as much as they plainly saw, that when
+stomach doth strive with wit, the match is not equal. And so the heat of their
+former contentions began to slake.
+
+The present inhabitants of Geneva, I hope, will not take it in evil parts, that
+the faultiness of their people heretofore is by us so far forth laid open, as
+their own learned guides and pastors have thought necessary to discover it unto
+the world. For out of their books and writings it is that I have collected this
+whole narration, to the end it might thereby appear in what sort amongst them
+that discipline was planted, for which so much contention is raised amongst
+ourselves. The reason which moved Calvin herein to be so earnest, was, as Beza
+himself testifieth, "For that he saw how needful these bridles were, to be put
+in the jaws of that city." That which by wisdom he saw to be requisite for that
+people, was by as great wisdom compassed.
+
+====================================
+transcription from memory:
+
+Which answer, although not answering unto their former demands, but respecting
+what Master Calvin had judged requisite for them to answer, was notwithstanding
+accepted with any further reply: in as much as they plainly saw, when stomach
+doth strive with wit, the match is not equal. So that the heat of their former
+contentions began to slake.
+
+The present inhabitants of Geneva, I hope, will not take evil parts, that the
+faultiness of their people heretofore is by us ... laid open, as their own
+learned guides and pastors have thought proper to discover it unto the world.
+
+===================================
+Hooker's text:
+
+The present inhabitants of Geneva, I hope, will not take it in evil part, that
+the faultiness of their people heretofore is by us so far forth laid open, as
+their own learned guides and pastors have thought necessary to discover it unto
+the world. 
+For out of their books and writings it is that I have collected this
+whole narration, to the end it might thereby appear in what sort amongst them
+that discipline was planted, for which so much contention is raised amongst
+ourselves.
+
+For out of ... it is that ..., to the end it might thereby appear that ... 
+amongst them ..., for which ... amongst ourselves.
+
+=====================================================
+my first try:
+
+For out of their books and writings I have collected this whole narration, to
+the end that thereby it may appear in what manner amongst them that discipline
+was planted, for which so much contention is raised amongst ourselves.
+
+===================================
+Hooker's text:
+
+For out of their books and writings it is that I have collected this whole
+narration, to the end it might thereby appear in what sort amongst them that
+discipline wass planted, for which so much contention is raised amongst
+ourselves.
+
+For out of their books and writings it is that I have collected this whole 
+narration,
+    to the end it might thereby appear in what sort amongst them that discipline 
+    was planted,
+        for which [discipline] so much contention is raised amongst ourselves.
+
+For ... it is that ...,
+    to the end it might ...,
+        for which ...
+
+===============================================
+my second try:
+
+For out of their books and writings it is that I have collected this whole
+narration, to the end that it might thereby appear in what sort amongst them
+that discipline was planted, for which so much contention was raised amongst
+ourselves.
+
+Note that "amongst them ..., ... amongst ourselves" structure.
+
+=================================
+Hooker's text:
+
+The reason which moved Calvin herein to be so earnest, was, as Beza himself
+testifieth, "For that he saw how needful these bridles were, to be put in the
+jaws of that city." That which by wisdom he saw to be requisite for that people,
+was by as great wisdom compassed.
+
+The reason which ..., was, as ... testifieth, "..."
 
 
+=================================
+Hooker's text:
+
+Neither is it altogether without cause that so many do fear the overthrow of all
+learning as a threatened sequel of this your intended discipline. For if "the
+world's preservation" depend upon "the multitude of the wise"; and of that sort
+the number hereafter be not likely to wax overgreat, "when" (that wherewith the
+son of Sirach professeth himself at the heart grieved) "men of understanding
+are" already so "little set by:" how should their minds whom the love of so
+precious a jewel filleth with secret jealousy even in regard of the least things
+which may any way hinder the flourishing estate thereof, choose but misdoubt
+lest this discipline, which always you match with divine doctrine as her natural
+and true sister, be found unto all kinds of knowledge a step-mother; seeing that
+the greatest worldly hopes, which are proposed unto the chiefest kind of
+learning, ye seek utterly to extirpate as weeds, and have grounded your platform
+on such propositions as do after a sort undermine those most renowned
+habitations, where through the goodness of Almighty God all commendable arts and
+sciences are with exceeding great industry hitherto (and so may they for ever
+continue) studies, proceeded in, and professed?
 
 
+structural analysis:
 
+For if "the world's preservation" depend upon "the multitude of the wise;
+and of that sort the number hereafter be not likely to wax great, 
+    "when" (that wherewith the son of Sirach professeth himself at the heart
+     grieved) "men of understanding are" already "so little set by":
+how should their minds
+    whom the love of so precious a jewel filleth with secret jealousy 
+    even in regard of the least things
+        which may any way hinder the flourishing estate thereof,
+choose but but misdoubt lest this discipline,
+    which always you match with divine doctrine
+        as her natural and true sister,
+be found [unto all kinds of knowledge] a step-mother;
+seeing that the greatest worldly hopes, 
+    which are proposed unto the chiefest kind of learning,
+ye seek utterly to extirpate as weeds,
+and have grounded your platform on such propositions as do [after a sort]
+undermine those most renowned habitations,
+    where [through the goodness of Almighty God] all commendable arts and
+    sciences are [with exceeding great industry hitherto (and so may they for
+    ever continue)] studied, proceeded in, and professed?
 
-
-
-
+   
 
 
 

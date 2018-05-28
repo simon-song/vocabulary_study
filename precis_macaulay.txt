@@ -1,7 +1,8 @@
 =====================================================================
-        Precis of Macaulay's History of England 
-Ed. by C.H. Firth, Macmillan 1913-1915, in six volumes.
-From: 2018-3-21   To: 
+=         Precis of Macaulay's History of England 
+=  Ed. by C.H. Firth, Macmillan 1913-1915, in six volumes.
+= 
+=  From: 2018-3-21   To: 
 =====================================================================
 
 ======================
@@ -15,3 +16,6 @@ Chapter II, p.236
 ... 
 
 rank(a.)
+
+p.247
+preponderate(v.)
