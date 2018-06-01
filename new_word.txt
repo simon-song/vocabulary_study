@@ -1358,6 +1358,198 @@ OED 4. Characterized by or apt to produce fretting.
 1852 To pick words out of a dictionary is fretful.
 1890 The fearsome, fretful, forest, dank and deep.
 
+=========================================
+querulous(a.)
+
+ad. late L. querulos-us, f. querulus, f. queri to complain
+
+OED 1. Of persons: Complaining, given to comlaining, full of complaints,
+peevish.
+1594 A people .. by nature hard-hearted, querulous, wrathful.
+1610 These are the manners of a querulous wayward man.
+1651 I would have no godly man be over querulous, when God hath done so much for
+     us.
+1750 The querulous are seldom received with great ardour of kindness.
+1837 He was naturally querulous and jaundiced in his views.
+1879 His sons and nephews were equally querulous and dissatisfied.
+
+OED 1b. Of animals or things: Uttering or producing sounds expressive or
+suggestive of complaint.
+1635 The Lapwing .. is a querulous bird.
+1643 Hither sad Lutes they nightly bring, And gently touch each querulous
+     string.
+1699 Ye purling quer'llous Brooks! o'erchanged with grief.
+1847 One querulous rook, unable to sleep, protested now and then.
+
+OED 2. Of the nature of, characterized by, complaining.
+1540 Querulous repetition, as well of late as of almost forgotten faults.
+1642 French .. hath a whining kind of querulous tone.
+1714 His versification .. should be soft, and all his Numbers flowing and
+     querulous.
+1783 I am almost ashamed of this querulous letter.
+1848 She uttered a querulous cry of disappointment and misery.
+1874 The querulous commonets of old ladies.
+
+====================================
+sullen(a.)
+
+OED 1a. Of persons, their attributes, aspect, actions: Characterized by, or
+indicative of, gloomy ill-humour or moody silence.
+1573 Be lowly not sullen, if ought go amiss.
+1592 Who would have thought civil sir so sullen?
+1641 We are called .. sullen and crabbed pieces.
+1668 Their Saint Penn .. is divelishly cryed up amongest that pervers sullen
+     Faction.
+1680 Because they might not have what they would, grew sullen, and would have
+     nothing.
+1713 These contemplations have made me serious but not sullen.
+1718 In the Middle sits Cato, with a sullen Brow.
+1795 If the better part lies by, in a sullen silence, they still cannot hinder
+     the more factious part both from speaking and from writing.
+1814 Here .. they met, .. flaming Jacobite And sullen Hanoverian!
+1849 The answer of James was a cold and sullen reprimand.
+1879 Some were still sullen, and refused to sue for a forgiveness.
+
+OED 1b. transf. Of animals and inanimate things: Obstinate, refractory;
+stubborn, unyielding.
+1577 Which being well punished with hunger, and thirst, will teach him [sc. a
+     plough-ox] to leave the sullen trick.
+1648 I got up again and spurred my sullen jade.
+1678 Things are Sullen, and will be as they are, what ever we Think them, or
+     Wish them to be.
+1691 The stupid Matter .. would be as sullen as the Mountain was the Mahomet
+     commanded to come down to him.
+1725 The other [bull] proved untractable, sullen, and outrageous.
+1859 As sullen as a beast new-caged.
+
+OED 1c. Holding aloof. Obs.
+1628 Friendship is a sullener thing, as a contracter and taker up of our
+     affections to some few.
+
+OED 1d. fig. Baleful, malignant. Obs.
+1676 Such sullen Planets at my Birth did shine, They threaten every Fortune mixt
+     with mine.
+1679 Ye sullen Pow'rs below.
+1703 Some sullen Influence, a Foe to both.
+
+OED 2. Solemn, serious. Obs.
+1583 So was he free from sullen stern severity.
+1586 Moral Philosophers, whom me thinketh, I see coming towards me with a sullen
+     gravity.
+1640 Some plausible Fancy doth more prevail with tender Wills than a severe and
+     sullen argument.
+1719 In sullen Majesty they stalk along, With Eyes of Indignation, and Despair.
+
+OED 3a. Of immaterial things, actions, conditions: Gloomy, dismal, melancholy;
+sometimes with the notion of 'passing heavily, moving sluggishly'.
+1593 The sullen passage of thy weary steps.
+1604 A salt and sullen rhume.
+1605 To sound The deep reports of sullen Tragedies.
+1648 Where shall we sometimes meet, and by the fire Help was a sullen day.
+1712 No cheerful breeze this sullen region knows.
+1775 The place [sc. Oxford] is now a sullen solitude.
+1816 With spiders I had friendship made, And watch'd them in their sullen trade.
+1858 It was an afternoon of sullen Autumn rain.
+1864 A bleak, sullen day.
+
+OED 3b. Of a sound or an object producing a sound: Of a deep, dull, or mournful
+tone. Chiefly poet.
+1592 Our solemn Hymnes, to sullen Dyrges change.
+1632 I hear the far-off Curfeu sound, .. Swinging slow with sullen roar.
+1742 Where the beetle winds His small but sullen horn.
+1819 The heavy bell .. broke short their argument. One by one the sullen sounds
+     fell successively on the ear.
+1849 The sullen thunder of the unseen surge.
+
+OED 4a. Of sombre hue; of a dull color; hence, of gloomy or dismal aspect.
+1592 Now will he shake his care oppressed head, Then fix his sad eyes on the
+     sullen earth.
+1596 Like bright Metal on a sullen ground.
+1647 Take sullen lead for silver, sounding brass Instead of solid gold.
+1665 A dark sullen violet purple color.
+1710 Two apples that were roasting by a sullen sea coal fire.
+1713 A sort of sullen greenish Wood-like rust.
+1784 I would not yet exchange thy sullen skies .. for warmer France With all her
+     vines.
+1811 All sleeps in sullen shade, or silver glow.
+1818 I look o'erhead, and there is sullen mist.
+1855 The sullen-purple moor.
+1894 The sky to the north-west was dark and sullen.
+
+OED 5. Of water, etc.: Flowing sluggishly. poet.
+1622 Small Cock, a sullen Brook, comes to her succour then.
+1628 Sullen Mole that runneth underneath.
+1814 The larger [stream] was placid, and even sullen in its course.
+1818 Each one lay Sucking the sullen milk away About my frozen heart.
+
+====================================
+glum(a.)
+ 
+OED 1. Of persons: Sullen, frowning; having an air of dejection or displeasure,
+esp. in phr. to look glum; also to look glum on (a person, action, etc.).
+1674 To be Glum, to look sadly or sourly, to frown .. A word common to the
+     vulgar both in North and South.
+1676 You need not look so glum, Sir.
+1678 And not Athens only, but .. so austere and glum a generation as those of
+     Sparta .. agreed the same honour to these Athenian Poets.
+1755 Glum, a low cant word formed by corrupting gloom.
+1771 You all sit as silent and glum -- why, can't you speak out?
+1786 The moment he sees any one that he .. dislikes, he assumes a look of glum
+     distance and sullenness.
+1807 [He] is as glum and grim and cynical as his master.
+1849 I ought not to show you my glum face or my dismal feelings.
+1887 [He] sat glum, and presently grew impatient and went out.
+quasi-adv. 1796 I suppose at that time I might answer rather glum.
+
+OED 2. Of things: Gloomy, dark; dismal. Now only fig. from sense 1.
+1593 The glumest day may darken the sun, but not abate his pride.
+1648 The Glum And horrid beat of Thunders Drum We hear or see.
+1848 We walked in the park .. surveying .. the glum old bridge.
+
+=============================
+morose(a.)
+
+ad. L. moros-us peevish, fretful, wayward, fastidious, scrupulous (transf. of
+things, hard to manage), f. mor-, mos manner.
+
+OED 1. Of persons, their attributes and actions: Sour-tempered, sullen, gloomy,
+and unsocial.
+1609 Morose, a Gentleman that loves no noise.
+1620 Neither .. am I against sauces so morose as that I do altogether deny them.
+1647 He was a man of very morose manners, and a very sour aspect.
+1694 They were .. of very morose countenances, as greatly mortified, and
+     strangers to the world.
+1770 A man should not give way to a morose, captious and cavilling humour and be
+     eager to find fault.
+1775 He way also morose, unsocial, and obstinate. 
+1815 There are very few so obstinately morose, as to be uninfluenced by the
+     opinions of others.
+1849 No man who is correctly informed as to the past will be disposed to take a
+     morose or desponding view of the present.
+1853 She looked stony and stern, almost mortified and morose.
+1907 That great morse genius [sc. Swift].
+
+absol. 1620 This to delight, to move, and to allure with wiles, even the
+            refractory, and morose.
+1762 Let the morose and grave censure an attention to forms and ceremonies.
+
+OED 1b. of opinions, principles, etc.
+1791 His philosophy .. was by no means morose and cynical.
+1838 Morbid and morose philosophy, begot by a proud spirit on a lonely heart.
+1861 Pleasures which a more morose religion would proscribe as dangerous.
+
+OED 1c. transf.
+1658 The carp is a fish complicated of a morose mixture, and a torpid motion.
+1902 Mary's arrival was darkened by the morose climate.
+
+OED 2. Scrupulous, painstaking. Obs.
+1695 He was a very morose interpreter.
+1696 Unworthy of the most cautious and morose searcher of truth.
+
+OED 3. Of a thing: Hard to manage. Obs.
+1652 This knot is somewhat morose, and will not easily be united.
+
+
 
 
 
