@@ -1546,10 +1546,535 @@ undermine those most renowned habitations,
     sciences are [with exceeding great industry hitherto (and so may they for
     ever continue)] studied, proceeded in, and professed?
 
+=================================
+transcription from memory:
+
+Calvin therefore sent with all expedition his letters unto some principal pastor
+in every of those cities, craving earnestly at their hands, to respect this
+cause as a thing whereupon the whole state of religion and piety did so much 
+depend, that God and all good men would be inevitably certain to be trampled 
+under foot, unless those four cities by their good means might be brought to 
+give their sentence with the ministers of Geneva, when the cause should be
+brought before them: yea so to give it, that two things it might effectually
+contain, the one an absolute approbation of the discipline of Geneva as
+consonant to the word of God, without any cautions, qualifications, ifs or ands;
+the other an earnest admonition not to innovate or change the same. His vehement
+request herein concerning both points was satisfied. For albeit the said
+Helvetian churches did never as yet observe that discipline, nevertheless, the
+Senate of Geneva having required their judgment on these three questions: First,
+"About what manner, by God's commandament, according to the scripture and
+unspotted religion, excommunication is to be exercised?" Secondly, "Whether it
+may not be exercised some other way than by the consistory?" Thirdly, "What the
+use of their Churches was to do in this case?" answer was returned from the said
+churches, "that they had already heard of those consistorical laws, and did
+acknowledge them to be godly ordinances drawing towards the prescript of the
+word of God, for which cause they did not think it good for the Church of Geneva
+by innovation to change the same, but rather to keep the things as they were."
+Which answer, although not answering unto the former demands, but respecting
+what Master Calvin had judged requisite for them to answer, was notwithstanding
+accepted without further reply, in as much as they plainly saw, that when
+stomach doth strive with wit, the match is not equal. And so the heat of their
+former contentions begain to slake.
+
+======================================
+transcription from memory:
+
+[Write not what Hooker did not write.]
+
+The present inhabitants of Geneva, I hope, will not take it in evil part, that
+the faultiness of their people heretofore is by us so far forth laid open, as
+their own learned guides and pastors have judged necessary to discover them unto
+the world. For out of their books and writings it is that I have taken this
+narration, to the end that it might appear in what sort amongst them that
+discipline was planted, for which so much contention is raised amongst us.
+
+L1586 judged -> thought, them -> it
+L1587 taken -> collected 
+L1588 narration -> whole narration, might -> might thereby
+
+======================================
+Hooker's original text:
+
+The reason which moved Calvin herein to be so earnest, was, as Beza himself
+testifieth, "For that he saw how needful these bridles were, to be put in the
+jaws of that city." That which by wisdom he saw to be requisite for that people,
+was by as great wisdom compassed.
+
+The reason which ..., was, as ... testifieth, "For ... how needful ... were, to
+be put ...". That which by wisdom ..., was by as great wisdom ...
+
+=======================
+my first try:
+
+The reason which moved Calvin to be so earnest, was, as Beza himself testifieth,
+"That he saw how needful these bridles were, to be put in the jaws of that
+city." That which by great wisdom he judged to be requisite for that people, was
+by as great wisdom compassed.
+
+L1609 Calvin -> Calvin herein
+L1610 That -> For that
+L1611 judged -> saw
+
+======================================
+Hooker's original text:
+
+But wise men are men, and the truth is truth. That which Calvin did for
+establishment of his discipline, seemeth more commendable than that which he
+taught for the countenancing of it established. Nature worketh in us all a love
+to our own counsels. The contradiction of others is a fan to inflame that love.
+Our love set on fire to maintain that which once we have done, sharpeneth the
+wit to dispute, to argue, and by all means to reason for it. Wherefore a marvel
+it were if a man of so great capacity, having such incitements to make him
+desirous of all kind of furtherances unto his cause, could espy in the whole
+Scripture of God nothing which might breed at the least a probable opinion of
+likelihood, that divine authority itself was the same way somewhat inclinable.
+And all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, is no more than that certain speeches
+there are which to him did seem to intimate that all Christian chruches ought to
+have their Elderships endued with power of excommunication, and that a part of
+those Elderships every where should be chosen out from amongst the laity, after
+that form which himself had framed Geneva unto. But what argument are ye able to
+show, whereby it was ever proved by Calvin, that any one sentence of Scripture
+doth necessarily enforce these things, or the rest wherein your opinion
+concurreth with his against the orders of your own church?
+
+======================================
+Hooker's original text:
+
+But wise men are men, and the truth is truth. That which Calvin did for
+establishment of his discipline, seemeth more commendable than that which he
+taught for the countenancing of it established. Nature worketh in us all a love
+to our own counsels. The contradiction of others is a fan to inflame that love.
+Our love set on fire to maintain that which once we have done, sharpeneth the
+wit to dispute, to argue, and by all means to reason for it. Wherefore a marvel
+it were if a man of so great capacity, having such inducements to make him
+desirous of all kind of furtherances unto his cause, could espy in the whole
+Scripture of God nothing which might breed at the least a probable opinion of
+likelihood, that divine authority itself was somewhat inclinable. And all which
+the wit even of Calivin was able from thence to draw, by sifting the very utmost
+sentence and syllable, is no more than that certain speeches there are which to
+him did seem to intimate that all Christian churches ought to have their
+Elderships endued with power of excommunication, and that a part of those
+Elderships every where should be chosen out from amongst the laity, after that
+form which himself had framed Geneva unto. But what argument are ye able to
+show, whereby it was ever proved by Calvin, that any one sentence of Scripture
+doth necessarily enforce these things, or the rest wherein your opinion
+concurreth with his against the orders of your own church?
+
+Wherefore a marvel it were if ..., having such inducements to ..., could espy
+in ... nothing which might ..., that ... 
    
+But wise men are men, and the truth is truth. That which Calvin did for
+establishment of his discipline, seemeth more commendable than that which he
+taught for the countenancing of it established. 
 
+Nature worketh in us all a love to our own counsels.
 
+The contradiction of others is a fan to inflame that love.
 
+Our love set on fire to maintain that which once we have done, sharpeneth the
+wit to dispute, to argue, and by all means to reason for it.
+
+Wherefore a marvel it were if a man of so great capacity, having such
+inducements to make him desirous of all kind of furtherances unto his cause,
+could espy in the whole Scripture of God nothing which might breed at the least a
+probable opinion of likelihood, that divine authority was the same way somewhat
+inclinable.
+
+Wherefore a marvel it were if a man of so great capacity, [having such
+inducements to make him desirous of all kind of furtherances unto his cause,]
+could espy in the whole Scripture of God nothing which might breed [at the
+least] a probable opinion of likelihood, that divine authority was [the same
+way] somewhat inclinable.
+
+Wherefore a marvel it were if a man of so great capacity,
+    having such inducements to make him desirous of all kind of furtherances
+    unto his cause,
+could espy in the whole Scripture of God nothing 
+    which might breed at the least a probable opionion of likelihood,
+        that divine authority was the same way somewhat inclinable.
+    
+==============================
+transcription from memory:
+
+But wise men are men, and the truth is truth. That which Calvin did for
+establishment of his discipline, seemeth more commendable than that which he
+taught of the countenancing of it established. Nature worketh in us all a love
+to our own counsels. The contradiction of others is a fire to inflame that love.
+Our love set on fire to maintain that which once we have done, sharpeneth the
+wit to dispute, to argue, and by all means to reason for it. Wherefore a marvel
+it were if a man of so great capacity, having such inducements to make him
+desirous of all kind of furtherances unto his cause, could espy in the Scripture
+of God nothing which might breed at least a probable opinion of likelihood, that
+the divine authority itself was in some way somewhat inclinable.
+
+L1702: taught of -> taught for
+L1703: fire -> fan
+L1707: Scripture -> whole Scripture
+L1707: at least -> at the least
+L1709: the divine -> divine, in some way -> the same way
+
+==============================
+Hooker's original text:
+
+And all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, is no more than that certain speeches
+there are which to him did seem to intimate that all Christian churches ought to
+have their Elderships endued with power of excommunication, and that a part of
+those Elderships every where should be chosen out from amongst the laity, after
+that form which himself had framed Geneva unto.
+
+And all which ..., by ..., is no more than that ..., and that ..., after that
+form which ...
+
+And all which the wit even of Calvin was able from thence to draw,
+    by sifting the very utmost sentence and syllable,
+is no more than that certain speeches [there are which to him] did seem to 
+intimate
+    that all Christian churches ought to have their Elderships endued with 
+    power of excommunication,
+    and that a part of those Eldership every where should be chose out from 
+    amongst the laity,
+        after that from which himself had framed Geneva unto.
+
+And all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, is no more than that certain speeches
+there are which to him did seem to intimate that all Christian churches ought to
+have their Elderships endued with power of excommunication, and that a part of
+their Elderships every where should be chosen out from amongst the laity, after
+the form which himself had framed Geneva unto.
+
+And all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, is no more than that certain speeches
+there are which to him did seem to intimate that all Christian churches ought to
+have their Elderships endued with power of excommunication, and that a part of
+their Elderships every where should be chosen out of from amongst the laity,
+after the form which himself had framed Geneva unto.
+
+But what argument are ye able to show, whereby it was ever proved by Calvin,
+that any one sentence of Scripture doth necessarily enforce these things, or the
+rest wherein your opinion concurreth with his against the orders of your own
+church?
+
+But what argument are ye able to show, whereby it was ever proved by Calvin,
+that any one sentence of Scripture doth necessarily enforce these things, or the
+rest wherein your opinion concurreth with his against the orders of your own
+church?
+
+And all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, is no more than that certain speeches
+there are which to him did seem to intimate that all Christian churches ought to
+have their Elderships endued with power of excommunication, and that a part of
+their Elderships every where should be chosen out of from amongst the laity,
+after the form which himself had framed Geneva unto.
+But what argument are ye able to show, whereby it was ever proved by Calvin,
+that any one sentence of Scripture doth necessarily enforce these things, or the
+rest wherein your opinion concurreth with his against the orders of your own
+church?
+
+================================
+Hooker's original text:
+
+And all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, is no more than that certain speeches
+there are which to him did seem to intimate that all Christian churches ought to
+have their Elderships enduded with power of excommunication, and that a part of
+those Elderships every where should be chosen out from amongst the laity, after
+that form which himself had framed Geneva unto. 
+But what argument are ye able to show, whereby it was ever proved by Calvin,
+that any one sentence of Scripture doth necessarily enforce these things, or the
+rest wherein your opinion concurreth with his against the orders of your own
+church?
+
+================================
+transcription from memory:
+
+But wise men are men, and the truth is truth. That which Calvin did for
+establishment of his discpline, seemeth more commendable than that which he
+taught for the countenancing of it established. Nature worketh in us all a love
+to our own counsels. The contradiction of others is a fan to inflame that love.
+Our love set on fire to maintain that which once we have done, sharpeneth the
+wit to dispute, to argue, and by all means to reason for it. Wherefore a marvel
+it were if a man of so great capacity, having such inducements to make him
+desirous of all kind of furtherances unto his cause, could espy in the whole
+Scripture of God nothing which would breed at the least a probable opinion of
+likelihood, that divine authority itself was the same way somewhat inclinable.
+But all which the wit even of Calvin was able from thence to draw, by sifting
+the very utmost sentence and syllable, was no more than that certain speeches
+there are which to him did seem to intimate that all Christian churches ought to
+have their Elderships endued with power of excommunication, and a part of those
+Elderships should be chosen out from amongst the laity, after the form which
+himself had framed Geneva unto. And what argument are ye able to shew, whereby
+it was ever proved by Calvin, that any sentence of Scripture doth necessarily
+enforce these things, and the rest wherein your opinion concurreth with his
+against the orders of your own church?
+
+L1800: would -> might
+L1802: But -> And
+L1803: was -> is
+L1805: and -> and that
+L1806: Elderships -> Elderships every where, tho form -> that form
+L1807: And -> But
+L1808: any -> any one
+
+=============================
+Hooker's original text:
+
+We should be injurious unto virtue itself, if we did derogate from them whom
+their industry hath made great. Two things of principal moment there are which
+have deservedly procured him honour throughout the world: the one his exceeding
+pains in composing the Institutions of Christian Religion; the other his no less
+industrious travails for exposition of holy Scripture according unto the same
+Institutions. In which two things whosoever they were that after him bestowed
+their labour, he gained the advantage of prejudice against them, if they
+gainsayed; and of glory above them, if they consented. His writings published
+after the question about that discipline was once begun omit not any the least
+occasion of extolling the use and singular necessity thereof. 
+
+We should be injurious unto virtue itself, if we did derogate from them whom
+their industry hath made great.
+
+Two things ... there are which have ... procured him honour ... : the one 
+his ... pains in composing the Institutions ...; the other his ... travails 
+for exposition of the holy Scripture according to the ... Instititutions.
+
+=============================
+My first try:
+
+We should be injurious unto the virtue itself, if we did derogate from them whom
+their industry had made great.
+Two things of principal moment there are which had deservedly procured him
+honour throughout the world: the one his exceeding pains in composing the
+Institutions of Christian Religion; the other his no less industrious travails
+for exposition of the holy Scriputure according unto the same Institutions.
+
+L1844: the virtue -> virtue
+L1855: had -> hath
+L1846: had -> have 
+
+=============================
+Hooker's original text:
+
+In which two things whosoever they were that after him bestowed their labour, he
+gained the advantage of prejudice against them, if they gainsayed; and of glory
+over them, if they consented.
+
+============================
+My first try:
+
+In which two things whosoever afterward would bestow their labour, 
+he had gained advantage of prejuice over them, if they gainsayed; 
+and of glory above them, if they consented.
+
+==============================
+my second try:
+
+In which two things whosoever they were that after him bestowed their labour, he
+gained advantage of prejudice against them, if they gainsayed; and of glory over
+them, if they consented.
+
+L1873: advantage -> the advantage
+
+======================================
+Transcription from memory:
+
+We should be injurious unto virtue itself, if we did derogate from them whom
+their industry hath made great.
+Two things there are which have deservedly procured him honour throughout the
+world: the one his exceeding pains in composing the Institutions of Christian
+Religion; the other his no less industrious travails for exposition of the holy
+Scripture according unto the same Institutions.
+In which two things whosoever they were that after him bestowed their labour, he
+gained the advantage of prejudice against them, if they gainsayed; and of glory
+over them, if they consented.
+
+L1883: things -> things of principal moment
+
+========================
+Hooker's text:
+
+His writings published after the question about that discipline was once begun
+omit not any the least occasion of extolling the use and singular necessity
+thereof.
+
+===============================
+transcription from memory:
+
+We should be injurious unto virtue itself, if we did derogate from them whom
+their industry hath made great. Two things of principal moment there are
+which have deservedly procured him honour throughout the world: the one his
+exceeding pains in composing the Institutions of Christian Religion, the other
+his no less industrious travails for exposition of the holy Scripture according
+unto the same Institutions. In which two things whosoever they are that after
+him bestowed their efforts, he gained the advantage of prejudice against them,
+if they gainsayed; and of glory above them, if they consented. His writings
+published after the question about that discipline was begun omit not any
+occasion of extolling the use and singular necessity thereof.
+
+L1907: the holy -> holy
+L1909: efforts -> labour
+L1911: was -> was once, any -> any the least
+
+==============================
+Hooker's text:
+
+Of what account the Master of Sentence was in the church of Rome, the same and
+more amongst the preachers of reformed churches Calvin had purchased; so that
+the perfectest divines were judged they, which were skillfullest in Calvin's
+writings.
+
+Of what account ... was ..., the same and more amongst ... Calvin had purchased; 
+so that the perfectest divines were judged they, which were ...
+
+Of what account the Master of Sentence was in the church of Rome, the same and
+more amongst the preachers of reformed churches Calvin had purchased; so that
+the perfectest divines were judged they, which were skillfullest in Calvin's
+writings.
+His books almost the very canon to judge both doctrine and discipline by. 
+French churches, both under others abroad and at home in their own country, all
+cast according to that mould which Calvin had made.
+The Church of Scotland in erecting the fabric of their reformation took the
+selfsame pattern.
+
+========================
+My first try:
+
+Of what account the Master of Sentence had been in the Church of Rome, the same
+and more Calvin had purchased; therefore the best divines in the reformed
+churches were judged they, ...
+
+========================
+Hooker's text:
+
+Of what account the Master of Sentence was in the Church of Rome, the same and
+more amongst the preachers of reformed churches Calvin had purchased; so that
+the perfectest divines were judged they, which were skillfullest in Calvin's
+writings.
+
+================
+my second try:
+
+Of what account the Master of Sentence was in the Church of Rome, the same and
+more amongst the preachers of reformed churches Calvin had purchased; so that
+the perfectest preachers were judged they, which were fullest in Calvin's
+writings.
+
+=====================
+my third attempt:
+
+Of what account the Master of Sentence was in the Church of Rome, the same and
+more amongst the preachers of reformed churches Calvin had purchased; so that
+the perfectest divines were judged they, which were skillfullest in Calvin's
+writing.
+
+==============================
+transcription from memory:
+
+For albeit the said churches did never as yet observe that discipline,
+nevertheless, the Senate of Geneva having required their judgment concerning
+these three questions: Firstly, "After what manner, by God's commandaments,
+according to Scripture and unspotted religion, excommunication is to be
+exercised;" Secondly, "whether it may not be exercised some other way than by
+the Consistory;" And thirdly, "what the use of their churches was to do in this
+case." answer was returned from the said churches, "that they had heard already
+of those consistory laws, and did acknowledge them to be godly ordinances
+drawing towards the prescript of the word of God, for which reason they did not
+think it good to change by innovation the same, but rather keep things as they
+were." Which answer, although not answering unto their formal demands, but
+respecting what Master Calvin had judged requisite for them to answer, was
+notwithstanding accepted without any further reply, in as much as they plainly
+saw, that when stomach doth strive with wit, the match is not equal. And so the
+heat of their former contentions began to slake.
+
+L1973: churches -> Helvitian churches
+L1975: Firstly -> First, commandaments -> commandament
+L1976: Scripture -> the scripture
+L1981: reason -> cause
+L1982: "good for the Church of Geneva by innovation to change the same,"
+       things -> them
+L1983: their -> the
+
+The present inhabitants of Geneva, I hope, will not take it in evil part, that
+the faultiness of their people heretofore is by us so far forth laid open, as
+their own learned guides and pastors had thought necessary to discover it unto
+the world. For from their books and writings it is that I have collected this
+whole narration, to the end that it might appear in what sort amongst them that
+discipline was planted, for which so much contention is raised amongst
+ourselves. The reason which moved Calvin to be so earnest, was, 
+as Beza himself testifieth, that "he saw how needful those bridles were, 
+to be put in the jaws of that city." ...
+
+==============================
+transcription from memory:
+
+We should be injurious unto virtue itself, if we did derogate from them whom
+their industry hath made great. Two things of principal moment there are which
+deservedly procured Calvin honour throughout the world: the one his exceeding
+pains in composing the Institutions of the Christian Religion, the other his no
+less industrious travails for exposition of the Holy Scripture according unto
+the same Institutions. In which two things whosoever they were that after him
+bestowed their efforts, he gained the advantage of prejudice against them, if
+they gainsayed; and of glory above them, if they consented. His writings after
+the question about that discipline was once begun omit not any the least
+occasion of extolling the use and singular necessity thereof. Of what account
+the Master of Sentence was in the Church of Rome, the same and more amongst the
+preachers of reformed churches Calvin had purchased; so that the perfectest
+divines were judged they, which were skillfullest in Calvin's writings. His
+books almost the canon to judge both doctrine and discipline by. French
+churches, both under others abroad and also at home in their own country, all
+cast according to the mould which Calvin had made. The Church of Scotland by
+erecting the fabric of their reformation had taken the selfsame pattern.
+
+L2014: the holy -> holy
+L2016: efforts -> labour
+L2017: after -> published after
+L2023: canon -> very canon
+L2024: and also -> and
+L2025: the mould -> that mould, by -> in
+L2026: had taken -> took
+
+============================
+transcription from memory:
+
+Till at length the discipline, which was at the first so weak, that without the
+staff of their approbation, who were not subject unto it themselves, it had not
+brought others under subjection, began to challenge universal obedience, and to
+come into direct conflict with those very churches, which in desperate extremity
+had been relievers of it.
+
+To one of those churches which lived in the most peaceable sort, and abounded as
+well as with men for their learning in other professions singular, as also with
+divines whose equals were not else where to be found, a church ordered by
+Gualtee's discipline, and not by that which Geneva adoreth; to this church, the
+church of Heidelberg, there cometh one who craving leave to dipute publicly
+defendeth, with open disdain of their government, that "to a minister with his
+Eldership power is given by the law of God to excommunicate whomsoever, yea even
+kings and princes themselves."
+
+L2041: began -> began now
+L2042: direct -> open
+L2045: the most -> most
+L2046: well as -> well
+L2047: else where -> elsewhere
+L2048: to -> unto
+
+==============================
+Hooker's text:
+
+Here were the seeds sown of that controversy which sprang up between Beza and
+Erastus about the matter of excommunication, whether there ought to be in all
+churches an Eldership having power to excommunicate, and a part of that
+Eldership to be of necessity certain chosen out from amongst the laity for that
+purpose. In which disputation they have, as to me it seemeth, divided very
+equally the truth between them; Beza most truly maintaining the necessity of
+excommunication, Erastus as truly the non-necessity of lay elders to be
+ministers thereof.
+
+Here were the seeds sown of that controversy which sprang up between ... and ...
+about ..., whether ..., and ...
+
+seeds sown ... [seeds] sprang up [and became a tree]
+i.e. the source of future controversy
 
 
 

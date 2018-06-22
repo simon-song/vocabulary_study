@@ -306,3 +306,56 @@ sentence structure from the (English) original.
 (2) look up unfamiliar words in OED, read all quotations for the appropriate
 meaning encountered, browse other meanings (without reading quotations for
 them).
+
+==============================
+Cicero, Pro Milone
+
+Etsi    vereor,          judices, ne turpe          sit       
+though  (I) respect                  unseemly       is
+        pres.pass.1.sg.              adj.nom.n.sg.  pres.subj.3.sg
+                                                    sum
+
+pro  fortissimo viro       dicere    incipientem       timere, 
+                man        to speak  begining          to fear 
+                abl.m.sg.  inf.      p.pres.acc.m.sg.  inf.    
+                virus                incipio           timeo
+
+minimeque deceat, 
+least     seems
+          pres.subj.3.sg.
+          decet
+
+cum T. Annius      ipse     magis de  rei        publicae       salute 
+with   i.e. Milon  himself  more      thing                     health
+                                      gen.f.sg.  adj.gen.f.sg.  abl.f.sg.
+                                      res        publicus       salus
+
+quam  de sua  perturbetur,
+than     his  confounds
+              pres.subj.pass.3.sg.
+              perturbo
+
+me ad eius            causam     parem            animi      magnitudinem 
+      his             cause      (I) prepare      mind       magnitude
+      pron.gen.m.sg.  acc.f.sg.  pres.subj.1.sg.  gen.m.sg.  acc.f.sg.
+      is              causa      paro             animus     magnitudo
+
+adferre   non posse,       tamen    haec  novi           judici     
+to carry      to be able   however  this  new            court      
+inf.          inf.                        adj.gen.m.sg.  gen.m.sg.
+affero        possum                      novus          judicium
+
+nova           forma      terret      oculos,       qui,
+new            form       alarms      eyes          which
+adj.nom.f.sg.  nom.f.sg.  pres.3.sg.  acc.m.pl.
+                          terreo      oculus
+
+quocumque  inciderunt, veterem consuetudinem fori         et  
+wherever   light       old     custom        (of) forum
+           perf.3.pl.
+           incido
+
+pristinum morem judiciorum requirunt.
+pristine                   search
+                           pres.3.pl.
+                           requiro
