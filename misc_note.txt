@@ -310,8 +310,8 @@ them).
 ==============================
 Cicero, Pro Milone
 
-Etsi    vereor,          judices, ne turpe          sit       
-though  (I) respect                  unseemly       is
+Etsi    vereor,          iudices, ne turpe          sit       
+though  (I) am afraid                disgraceful    is
         pres.pass.1.sg.              adj.nom.n.sg.  pres.subj.3.sg
                                                     sum
 
@@ -335,27 +335,70 @@ than     his  confounds
               pres.subj.pass.3.sg.
               perturbo
 
-me ad eius            causam     parem            animi      magnitudinem 
-      his             cause      (I) prepare      mind       magnitude
-      pron.gen.m.sg.  acc.f.sg.  pres.subj.1.sg.  gen.m.sg.  acc.f.sg.
-      is              causa      paro             animus     magnitudo
+me ad eius            causam     parem          animi      magnitudinem 
+      his             cause      equal          mind       magnitude
+      pron.gen.m.sg.  acc.f.sg.  adj.acc.f.sg.  gen.m.sg.  acc.f.sg.
+      is              causa      par            animus     magnitudo
 
-adferre   non posse,       tamen    haec  novi           judici     
+adferre   non posse,       tamen    haec  novi           iudici     
 to carry      to be able   however  this  new            court      
 inf.          inf.                        adj.gen.m.sg.  gen.m.sg.
-affero        possum                      novus          judicium
+affero        possum                      novus          iudicium
 
 nova           forma      terret      oculos,       qui,
 new            form       alarms      eyes          which
 adj.nom.f.sg.  nom.f.sg.  pres.3.sg.  acc.m.pl.
                           terreo      oculus
 
-quocumque  inciderunt, veterem consuetudinem fori         et  
-wherever   light       old     custom        (of) forum
-           perf.3.pl.
-           incido
+quocumque  inciderunt, veterem       consuetudinem fori         et  
+wherever   light       old           custom        (of) forum
+           perf.3.pl.  adj.acc.f.sg. acc.f.sg.     gen.n.sg.
+           incido      vetus         consuetudo    forum
 
-pristinum morem judiciorum requirunt.
-pristine                   search
-                           pres.3.pl.
-                           requiro
+pristinum     morem     iudiciorum requirunt.
+pristine                of court   search in vain
+adj.acc.m.sg. acc.ms.g. gen.n.pl.  pres.3.pl.
+pristinus     mos       iudicium   requiro
+
+non enim corona               consessus vester        cinctus            est, 
+    for  circle of bystanders assembly  your          surrounded         is
+         abl.f.sg.            nom.m.sg. adj.nom.m.sg. perf.p.p.nom.m.sg. pres.3.sg.
+         corona               consessus               cingo              sum
+
+ut solebat;    non usitata            frequentia  stipati             sumus; 
+as used to         usual              crowd       attended            (we) are
+   impf.3.sg.      perf.p.p.abl.f.sg. abl.f.sg.   perf.p.p.nom.m.pl.  pres.1.pl.
+   soleo           usitor             frequentia  stipo               sum
+
+non illa           praesidia   quae           pro templis   omnibus       cernitis, 
+    those          guards      which              temples   all           (you) discern
+    pron.acc.n.pl. acc.n.pl.   pron.acc.n.pl.     abl.n.pl. adj.abl.n.pl. pres.2.pl.
+    ille           praesidium  qui                templum   omnis         cerno
+
+etsi     contra   vim        conlocata          sunt, 
+although against  violence   placed             (they) are
+                  acc.f.sg.  perf.p.p.nom.n.pl. pres.3.pl.
+                  vis        loco               sum
+
+non adferunt     tamen   oratori    terroris  aliquid, 
+    (they) bring however orator     terror    something
+    pres.3.pl.           dat.m.sg.  gen.m.sg. acc.n.sg.
+    affero               orator     terror    aliquis
+Do not fail to bring something of terror to the orator.
+
+ut      in foro      et in iudicio,  quamquam praesidiis 
+so that    forum           court     although defences
+           abl.n.sg.       abl.n.sg.          abl.n.pl.
+           forum           iudicium           praesidium  
+
+
+salutaribus   et necessariis   saepti              sumus,
+salutary         necessary     surrounded          (we) are
+adj.abl.n.pl.    adj.abl.n.pl. perf.p.p.nom.m.sg.  pres.1.pl.
+salutaris        necessarius   saepio
+
+tamen ne  non timere quidem    sine    aliquo         timore    possimus. 
+yet   not not fear   entirely  without some           fear      (we) can
+              inf.                     pron.abl.m.sg. abl.m.sg. pres.subj.1.pl.
+                                       aliquis        timor     possum
+      ne ... quidem: not even
