@@ -360,10 +360,10 @@ pristine                of court   search in vain
 adj.acc.m.sg. acc.ms.g. gen.n.pl.  pres.3.pl.
 pristinus     mos       iudicium   requiro
 
-non enim corona               consessus vester        cinctus            est, 
-    for  circle of bystanders assembly  your          surrounded         is
-         abl.f.sg.            nom.m.sg. adj.nom.m.sg. perf.p.p.nom.m.sg. pres.3.sg.
-         corona               consessus               cingo              sum
+1. Non enim corona               consessus vester        cinctus            est, 
+       for  circle of bystanders assembly  your          surrounded         is
+            abl.f.sg.            nom.m.sg. adj.nom.m.sg. perf.p.p.nom.m.sg. pres.3.sg.
+            corona               consessus               cingo              sum
 
 ut solebat;    non usitata            frequentia  stipati             sumus; 
 as used to         usual              crowd       attended            (we) are
@@ -402,3 +402,43 @@ yet   not not fear   entirely  without some           fear      (we) can
               inf.                     pron.abl.m.sg. abl.m.sg. pres.subj.1.pl.
                                        aliquis        timor     possum
       ne ... quidem: not even
+
+3. Quae    si opposita      Miloni putarem,        cederem         tempori, 
+   whereby if against       Milo   (I) believe     yield           time
+              adj.acc.n.pl.        impf.subj.1.sg. impf.subj.1.sg. dat.n.sg.
+              oppositus            puto            cedo            tempus
+
+iudices, nec enim inter tantam        vim       armorum    existimarem 
+         not for        so great      power     of arms    (I) esteem
+                        adj.acc.f.sg. acc.f.sg. gen.n.pl.  impf.subj.1.sg.
+                        tantus        vis       arma       existimo
+
+esse   orationi  locum.
+to be  speech    place
+inf.   dat.f.sg. acc.m.sg.
+       oratio    locus
+
+4. Sed me recreat    et reficit    Cn. Pompei, sapientissimi et iustissimi    
+   but    relieves      restores               wisest           justest       
+          pres.3.sg.    pres.3.sg.                              adj.nom.m.sg.
+          recreo        reficio                                 iustus
+
+viri, consilium, qui profecto  nec     iustitiae suae          putaret         
+man   council?   who certainly neither justice   his           think          
+      nom.n.sg.                        nom.f.pl. adj.gen.f.sg. impf.subj.3.sg. 
+                                       iustitia  suus          puto            
+
+esse,  quem reum            sententiis iudicum     tradidisset, 
+to be  whom accused person  decision   (of) judges had delivered
+inf.        acc.m.sg.       dat.f.pl.  gen.m.pl.   plup.subj.3.sg.
+sum         reus            sententia  iudex       trado
+
+eundem         telis     militum   dedere,   nec sapientiae temeritatem
+the same       weapons   soldiers  to give   nor wisdom     rashness
+pron.acc.m.sg. dat.n.pl. gen.m.pl. inf.          nom.f.pl.  acc.f.sg.
+idem           telum     miles                   sapientia  temeritas
+
+concitatae    multitudinis   auctoritate publica       armare.
+excited       (of) multitude authority   public        to arm
+p.p.gen.f.sg. gen.f.sg.      abl.f.sg.   adj.abl.f.sg. inf.
+concito       mutitudo       auctoritas  publicus      armo
