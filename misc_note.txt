@@ -442,3 +442,28 @@ concitatae    multitudinis   auctoritate publica       armare.
 excited       (of) multitude authority   public        to arm
 p.p.gen.f.sg. gen.f.sg.      abl.f.sg.   adj.abl.f.sg. inf.
 concito       mutitudo       auctoritas  publicus      armo
+
+5. Quam ob rem  illa           arma,     centuriones, cohortes   non periculum 
+   That is why, those          arms      centurions   cohorts        danger
+   wherefore    pron.acc.n.pl. nom.n.pl. nom.m.pl.    nom.f.pl.      acc.n.sg.
+                ille           arma      centurio     cohors         periculum
+
+nobis,          sed praesidium denuntiant,  neque solum ut quieto, 
+ours            but protection declare      not   only  as quiet
+pron.dat.f.pl.      acc.n.sg.  pres.3.pl.                  abl.m.sg.
+nos                 praesidium denuntio                    quietus
+
+sed etiam ut magno         animo     simus           hortantur, 
+but still as great         spirit    (we) are        encourage
+             adj.abl.m.sg. abl.m.sg. pres.subj.1.pl. pres.pass.3.pl.
+             magnus        animus    sum             hortor
+
+nec auxilium  modo   defensioni meae          verum     etiam silentium 
+not help      merely defence    my            true      still silence   
+    acc.n.sg.        dat.f.sg.  adj.dat.f.sg. acc.m.sg.       acc.n.sg. 
+    auxilium         definsio   meus          verus           silentium 
+
+pollicentur. 
+promise
+pres.pass.3.pl
+polliceor
