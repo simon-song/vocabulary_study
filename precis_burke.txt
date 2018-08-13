@@ -29,13 +29,30 @@ p. [1] para. 1:
 descritpion(n.):
 OED 3b, a sort, species, kind, or variety, capable of being so described.
 
-==========================
-precis of p. [1] para. 1:
-
+===============================
+==  precis of p. [1] para. 1:
+===============================
 Dear Sir, --- You sent me a second letter asking for my thoughts on the 
 lastest proceedings in France. The first letter I wrote for
 you and for you only, so shall I be in this one.
 
+[Alternative]: You sent me a second letter asking for my thoughts on the latest
+proceedings in France. I do not think my opionions to be so valuable to be made
+public, and I am writing this second letter (just like the first one) for your
+eyes only.
+
+===============================
+==  precis of p. [1] para. 2:
+===============================
+Although I wish that France may enjoy a rational liberty, yet I have some doubts
+concerning several things of the latest transactions in France.
+
+===============================
+==  precis of p. [2] para. 1:
+===============================
+You imagined that I would heartily approve the latest events in France,
+because it had received sanctions from two London clubs: the Constitutional 
+Society and the Revolution Society.
 
 ================
 p. [2] para. 2:
@@ -48,3 +65,49 @@ p. [2] para. 2:
     constitutional principles.
 (5) I will give you an overview of the two societies [which fit in (4)].
 (6) I am not, and have never been, a member of either of those societies.
+
+===============================
+==  precis of p. [2] para. 2:
+===============================
+I had the honour to belong to several clubs which treasures our Constitution and
+the principles of the Glorious Revolution (in 1688), but I am not, and have
+never been, a member of either of the afore said societies. Before I proceed to
+other things, let me first give you some information about these two clubs.
+
+================
+p. [3] para. 1:
+(1) The first club is called the Constitutional Society, or Society for
+    Constitutional Information, has existed for seven or eight years.
+(2) The main purpose of the club is to circulate books which are not very
+    desirable out of the club.
+(3) Some of those books may have been exported to France and made some impact
+    there.
+(4) But I have never heard any praise on either the publications or the 
+    proceedings of this club.
+
+===============================
+==  precis of p. [3] para. 1:
+===============================
+The first club, called the Constitutional Society, has existed for seven or 
+eight years. Its main purpose is to circulate books which are not very
+desirable outside the club, and some may have been exported to France and made
+an impact there. But I have never heard any praise on either the publications or
+the proceedings of the club.
+
+================
+p. [4] para. 1:
+(1) The National Assembly (of France) has reserved their attention to the second
+    club: the Revolution Society.
+(2) Some members of the Revolution Society also belong to the Constitutional
+    Society.
+(3) This club was adopted by the National Assemby, and they returned the favor
+    by acting as a committe in England for extending the principles of the
+    National Assembly.
+(4) This revolution has given splendor to obscurity and distinction to
+    undiscerned merit.
+(5) The Revolution Society is little known before this.
+(6) The members of this club gathered every year at the anniversarity of the
+    Glorious Revolution, heard a sermon, then spent the rest of the day in the
+    tavern.
+(7) I was shocked to hear the authorative sanction from this club to the
+    proceedings of the National Assembly in France.
