@@ -26,7 +26,7 @@ Origins of the work:
 ================
 p. [1] para. 1:
 
-descritpion(n.):
+description(n.):
 OED 3b, a sort, species, kind, or variety, capable of being so described.
 
 ===============================
@@ -109,5 +109,42 @@ p. [4] para. 1:
 (6) The members of this club gathered every year at the anniversarity of the
     Glorious Revolution, heard a sermon, then spent the rest of the day in the
     tavern.
-(7) I was shocked to hear the authorative sanction from this club to the
+(7) I never heard any public measure or political system discussed by this club.
+(8) I was shocked to hear the authorative sanction from this club to the
     proceedings of the National Assembly in France.
+
+================================
+==  precis of p. [4] para. 1:
+================================
+The National Assembly (of France) had reserved their attention to the second
+club (the Revolution Society) by adopting them, and they returned the favor by
+acting as a committe in England for extending the principles of the National
+Assembly. This club is little known before this, and I have not heard any public 
+measure or political system been discussed in this club, thus I was shocked by
+hearing the authorative sanction from the club to the proceedings of the National 
+Assembly in France.
+
+================
+p. [5] para. 1:
+
+take exception: 
+OED 7.c., to make (an) objection, to object or complain (that).
+
+management:
+OED 2.a. The use of contrivance, prudence, or ingenuity for effecting some
+purpose; often in unfavourable sense, implying deceit or trickery.
+
+(1) I do not object the ancient principles and conduct of the club.
+(2) It is probable that some new members have joined the club for some purpose; 
+    and some Christian politians may have with contrivance used these 
+    principles for their own purposes.
+(3) Though I suspect that there is much private manoeuvre, I will only speak
+    about public issues.
+
+================
+p. [5] para. 2:
+
+to be concerned:
+OED III.11a. (of word "concern"), To be in a relation or practical connection
+with; to have to do with; to have a part or share in; to be engaged in, with.
+
