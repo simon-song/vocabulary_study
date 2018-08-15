@@ -139,7 +139,14 @@ purpose; often in unfavourable sense, implying deceit or trickery.
     and some Christian politians may have with contrivance used these 
     principles for their own purposes.
 (3) Though I suspect that there is much private manoeuvre, I will only speak
-    about public issues.
+    about public issues of this club.
+
+================================
+==  precis of p. [4] para. 1:
+================================
+This strange proceeding may be done by members who joined the club to advance
+their own purposes. In spite of this, I will from now on only talk about public
+issues of the club.
 
 ================
 p. [5] para. 2:
@@ -148,6 +155,18 @@ to be concerned:
 OED III.11a. (of word "concern"), To be in a relation or practical connection
 with; to have to do with; to have a part or share in; to be engaged in, with.
 
+(1) I should be sorry to be connected to this club.
+(2) I have speculated public policies of ancient and modern nations in private.
+(3) I think it improper and irregular to open a formal public correspondence
+    with a foreign government.
+
+================================
+==  precis of p. [4] para. 1:
+================================
+Although I have speculated on the policies of ancient and modern nations in
+private, I think it improper and irregular to open a formal public
+coorespondence with a foreign government.
+
 ================
 p. [6] para. 1:
 
@@ -155,3 +174,21 @@ equivocal(a.):
 OED 2. Of words, phrases, etc.: Having different significations equally
 appropriate or plausible; capable of double interpretation; ambiguous.
 
+instrument:
+OED 5.a. Law. A formal legal document whereby a right is created or confirmed,
+or a fact recorded; a formal writing of any kind, as an agreement, deed,
+charter, or record, drawn up and executed in technical form, so a to be of legal
+validity.
+
+(1) I should be more unwilling to enter into correspondence which would trick
+    others to think that it is from an official source.
+(2) The house of commons would reject all kinds of ambiguous petitions which 
+    your National Assembly had accepted from this society.
+(3) If what the society sent out had been a piece of argument, it does not
+    matter who wrote it.
+(4) The declaration from this society is done by vote and resolution, and bears
+    few signatures.
+(5) Their signatures ought to be annexed to their document, so that we can know
+    their identity, social status, experience, and authority.
+(6) To me, the proceeding looks like a political stratagem to give their public
+    declaration an importance they did not deserve.
