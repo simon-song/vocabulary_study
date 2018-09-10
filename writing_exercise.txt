@@ -3964,14 +3964,184 @@ instructed and are not; by means whereof they daily run themselves, without
 knowing their own hazard, upon the dint of the Apostle's sentence against
 "evil-speakers as touching things wherein they are ignorant."
 
+====================
+His writings published after the question about that discipline was once begun 
+omit not any the least occasion of extolling the use and singular necessity 
+thereof.
+Of what account the Master of Sentences was in the Church of Rome, the same and
+more amongst the preachers of reformed churches Calvin had purchased; so that
+the perfectest divines were judged they, which were skillfullest in Calvin's
+writings.
+His writings almost the very canon to judge both doctrine and discipline by.
+French churches, both under others abroad and at home in their own country, all
+cast according to that mould which Calvin had made.
+The Church of Scotland in erecting the fabric of their reformation took the
+selfsame pattern.
+Till at length the discipline, which was at the first so weak, that without the
+staff of their approbation, who were not subject unto it themselves, it had not
+brought others under subjection, began now to challenge universal obedience, 
+and to enter into open conflict with those very churches, which in desperate 
+extremity had been relievers of it.
 
+But wise men are men, and the truth is truth. 
+That which Calvin did for establishment of his discipline, seemeth more 
+commendable than that which he taught for the countenancing of it established.
+Nature worketh in us all a love for our own counsels.
+The contradiction of others is a fan to inflame that love.
+Our love set on fire to maintain that which once we have done, sharpeneth the
+wit to dispute, to argue, and by all means to reason for it.
 
+===============
+Hooker's text:
+Having gotten thus much sway in the hearts of men, a third step is to propose
+their own form of church-government, as the only sovereign remedy of all evils; 
+and to adorn it with all the glorious titles that may be. 
+And the nature, as of men that have sick bodies, so likewise of the people in
+the crazedness of their minds possessed with dislike and discontentment at
+things present, is to imagine that any thing, (the virtue whereof they hear
+commended,) would help them; but that most, which they least have tried.
 
+============================
+Burke: Italiano -> English
+Scritti Politici di Edmund Burke, a cura di Anna Martelloni, p.152
 
+para 1.1: my attempt
+Sir, you are pleased to call again, and with some earnestness, for my opinions
+on the latest proceedings in France.
 
+para 1.2: my attempts
+I will not give you reason to suppose that I would attribute/bestow/confer
+such value to my opinions to wish to be repeatedly solicited to express them.
+I will not give you reason to think that I assign such value to my opinions as
+to wish to be solicited about them.
 
+Burke's text:
+I will not give you reason to imagine that I think my sentiments of such value
+as to wish myself to be solicited about them.
 
+para 1.3: my attempt
+They are of too little importance to be very anxiously either communicated
+or withheld.
 
+Burke's text:
+They are of too little consequence to be very anxiously either communicated or
+withheld.
+
+para 1.4: my attempt
+It was only from attention to you that I hesitated the first time you asked me.
+
+Burke's text:
+It was from attention to you, and to you only, that I hesitated at the time when
+you first desired to receive them.
+
+para 1.5: my attempt
+In the first letter that I had the honor to write you, and at length I sent, I
+wrote neither for or by the account of others; nor shall I in this one.
+
+Burke's text:
+In the first letter I had the honor to write to you, and which at length I send,
+I wrote neither for nor from any description of men; nor shall I in this.
+
+para 1.6: my attempt
+My errors, if any, are my own, and my reputation only is responsible for them. 
+
+Burke's text:
+My errors, if any, are my own. My reputation alone is to answer for them.
+
+para 2.1: my attempt
+You see, sir, in the long letter that I have sent to you, that although I
+do sincerely wish that France should enjoy a vivid spirit of rational liberty 
+and I believe you deem to provide a permanent assembly in which such liberty may
+reside, and an effective organ upon which it may act, it is my great misfortune 
+to entertain certain doubts on various fundamental aspects of your recent 
+actions.
+
+Burke's text:
+You see, Sir, by the long letter I have transmitted to you, that, though I do
+most heartily wish that France may be animated by a spirit of rational liberty,
+and that I think you bound, in all honest policy, to provide a permanent body in
+which that spirit may reside, and an effectual organ by which it may act, it is
+my misfortune to entertain great doubts concerning several material points in
+your late transactions.
+
+para 3.1: my attempt
+You imagined, when you wrote last, that I might be counted among those who
+will approve the proceedings in France, based on your supposition of
+the solemn seal of public approval from two London clubs, called respectively 
+the Constitutional Society, and the Revolution Society.
+
+Burke's text:
+You imagine, when you wrote last, that I might possibly be reckoned among the
+approvers of certain proceedings in France, from the solemn public seal of
+sanction they have received from two clubs of gentlemen in London, called the
+Constitutional Society, and the Revolution Society.
+
+para 4.1: my attempt
+I certainly have the honor to belong to more clubs than one in which the
+constitution of this kingdom and the principles of our glorious Revolution are
+held in high reverence; and I consider myself among the most enthusiastic
+to defend this constitution and those principles in their uttermost purity and
+vigor.
+
+Burke's text:
+I certainly have the honor to belong to more clubs than one in which the
+Constitution of this kingdom and the principles of the glorious Revolution are
+held in high reverence; and I reckon myself among the most forward in my zeal
+for maintaining that Constitution and those principles in their utmost purity
+and vigor.
+
+para 4.2: my attempt
+It is because I do so, that I think there should be no mistake.
+
+Burke's text:
+It is because I do so that I think it necessary for me that there should be no
+mistake.
+
+para 4.3: my attempt
+Those who treasure the memory of our Revolution and love the Constitution of
+this nation, would take good care not to associate with men who proclaim in high
+voice their fidelity in the Revolution and the Constitution, who frequently
+depart from the true principles of both; men who take all occasions to abandon
+the firm and modest spirit which produced the one and presides in the other.
+
+Burke's text:
+Those who cultivate the memory of our Revolution, and those who are attached to
+the Constitution of this kingdom, will take good care how they are involved with
+persons who, under the pretext of zeal towards the Revolution and Constitution,
+too frequently wander from their true principles, and are ready on every
+occasion to depart from the firm, but cautious and deliberate, spirit which
+produced the one and which presides in the other.
+
+para 4.4: my attempt
+Before I respond the more important points in your letter, please allow
+me to inform you what I am able to obtain of these two clubs which have thought
+it proper to interfere officially with the affairs of France, first assure you
+that I am not and have never been a member of either of those clubs.
+
+Burke's text:
+Before I proceed to answer the more material particulars in your letter, I shall
+beg leave to give you such information as I have been able to obtain of the two
+clubs which have thought proper, as bodies, to interfere in the concerns of
+France, --- first assuring you that I am not, and that I have never been, a
+member of either of those societies.
+
+para 5.1: my attempt
+The first, calling itself the Constitutional Society, or the Society of
+Constitutional Information, or some other similar names, exists, I beleive, for
+seven or eight years now.
+
+Burke's text:
+The first, calling itself the Constitutional Society, or the Society for
+Constitutional Information, or by some such title, is, I believe, of seven or
+eight years standing.
+
+para 5.2: my attempt
+The institution of this association appears to be of a charitable therefore
+laudable nature.
+
+Burke's text:
+The institution of this society appears to be of a charitable, and so far of a
+laudable nature:
 
 
 
