@@ -4009,6 +4009,10 @@ para 1.1: my attempt
 Sir, you are pleased to call again, and with some earnestness, for my opinions
 on the latest proceedings in France.
 
+Burke's text:
+Dear Sir, You are pleased to call again, and with some earnestness, for my
+thoughts on the late proceedings in France.
+
 para 1.2: my attempts
 I will not give you reason to suppose that I would attribute/bestow/confer
 such value to my opinions to wish to be repeatedly solicited to express them.
@@ -4143,6 +4147,9 @@ Burke's text:
 The institution of this society appears to be of a charitable, and so far of a
 laudable nature:
 
+para 5.3: my attempt
+It was established to promote the circulation, at the expense of its members, of
+the books which very few people would otherwise purchase, 
 
 
 
