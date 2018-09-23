@@ -4667,30 +4667,34 @@ serious consequence.
 Burke, Thoughts on the Cause of the Present Discontents
 
 para. 1:
->> It is an undertaking of some degree of delicacy to examine into the cause of
-   public disorders.
-  >> If a man happens not to succeed in such an inquiry, he will be thought weak
-     and visionary;
-  >> If he touches the true grievance, there is a danger that he may come near 
-     to persons of weight and consequence,
-       >> who will rather be exasperated at the discovery of their errors,
-          than thankful for the occasion of correcting them;
-  >> If he should be obliged to blame the favorites of the people, he will be
-     considered as the tool of the power;
-  >> If he censures those in power, he will be looked on as an instrument of the
-     faction.
+>> It is an undertaking of some degree of delicacy 
+      to examine into the cause of public disorders.
+  >>    If a man happens not to succeed in such an inquiry, 
+     he will be thought weak and visionary;
+  >>    If he touches the true grievance, 
+     there is a danger 
+        that he may come near to persons of weight and consequence,
+            who will rather be exasperated at the discovery of their errors,
+                than thankful for the occasion of correcting them;
+  >> If he should be obliged to blame the favorites of the people, 
+     he will be considered as the tool of the power;
+  >> If he censures those in power, 
+     he will be looked on as an instrument of the faction.
 >> But in all exertions of duty something is to be hazarded.
-  >> In case of tumult and disorder, our law has invested every man, in some
-     sort, with the authority of a magistrate.
-  >> When the affairs of the nation are distracted, private people are, 
+  >> In case of tumult and disorder, 
+     our law has invested every man, 
+         in some sort, 
+     with the authority of a magistrate.
+  >> When the affairs of the nation are distracted, 
+     private people are, 
          by the spirit of that law, 
      justified in stepping a little out of their ordinary sphere.
-  >> They enjoy a privilege, of somewhat more dignity and effect, than that of 
-     idle lamentation over the calamities of their country.
+  >> They enjoy a privilege, 
+     of somewhat more dignity and effect, 
+     than that of idle lamentation over the calamities of their country.
   >> They may look into them narrowly; 
      they may reason upon them liberally; 
-     and if they should be so fortunate as to discover the true source of the
-     mischief, 
+     and if they should be so fortunate as to discover the true source of the mischief, 
      and to suggest any probable method of removing it, 
          though they may displease the rulers of the day, 
      they are certainly of service to the cause of the government.
@@ -4704,21 +4708,21 @@ para. 1:
    and as long as opinion,
        the great support of the state,
    depend entirely upon the voice, 
-   it can never be considered as a thing of little consequence either to
-   individuals or to governments.
+   it can never be considered as a thing of little consequence either to individuals or to governments.
 >> Nations are not primarily ruled by laws: less by violence.
 >> Whatever original energy may be supposed either in force or regulation, 
    the operation of both is,
        in truth,
    merely instrumental.
->> Nations are governed by the same methods, and on the same principles, by
-   which an individual without authority is often able to govern those who are
-   his equals or his superiors; 
+>> Nations are governed by the same methods, 
+   and on the same principles, 
+       by which an individual without authority is often able to govern those 
+           who are his equals or his superiors; 
        by a knowledge of their temper, 
        and by a judicious management of it;
    I mean, --- when public affairs are steadily and quietly conducted;
-   not when government is nothing but a continued scuffle between the magistrate
-   and the multitude;
+   not when government is nothing but a continued scuffle 
+       between the magistrate and the multitude;
        in which sometimes the one and some times the other is uppermost;
        in which they alternately yield and prevail;
        in a series of contemptible victories, and scandalous submissions.
@@ -4741,8 +4745,7 @@ para. 2:
    true political sagacity manifests itself in distinguishing that complaint
        which only characterizes the general infirmity of human nature,
    from those 
-       which are symptoms of the particular distemperature of our own air and 
-       season.
+       which are symptoms of the particular distemperature of our own air and season.
 
 para. 3:
 >> Nobody,
@@ -4757,16 +4760,16 @@ para. 3:
    that the laws are despoiled of all their respected and salutary terrors;
    that their inaction is a subject of ridicule, 
        and their exertion of adhorrence;
-   that rank, and office and title, and all the solemn plausibilities of the
-       world, have lost their reverence and effect;
+   that rank, and office and title, and all the solemn plausibilities of the world, 
+       have lost their reverence and effect;
    that our foreign politics are as much deranged as our domestic economy;
-   that our dependencies are slackened in their affection, and loosened from
-       their obedience;
+   that our dependencies are slackened in their affection, 
+       and loosened from their obedience;
    that we know neither how to yield nor how to enforce;
    that hardly anything above or below, abroad or at home, is sound and entire;
-   but that disconnection and confusion, in offices, in parties, in families,
-       in Parliament, in the nation, prevail beyond the disorders of any former
-       time:
+   but that disconnection and confusion, 
+       in offices, in parties, in families, in Parliament, in the nation, 
+   prevail beyond the disorders of any former time:
    these are facts universally admitted and lamented.
    
 para. 4:
@@ -4776,14 +4779,14 @@ para. 4:
    are known to be in a manner entirely dissolved.
 >> No great external calamity has visited the nation;
    no pestilence or famine.
->> We do not labor at present under any scheme of taxation new or oppressive in
-   the quantity or in the mode.
+>> We do not labor at present under any scheme of taxation new or oppressive 
+      in the quantity or in the mode.
 >> Nor are we engaged in unsuccessful war; 
    in which, 
        our misfortunes might easily pervert our judgment;
-   and our minds, 
-       sore from the loss of national glory,
-   might feel every blow of fortune as a crime in government.
+       and our minds, 
+           sore from the loss of national glory,
+       might feel every blow of fortune as a crime in government.
 
 para. 5:
 >> It is impossible that the cause of this strange distemper should not
@@ -4807,8 +4810,113 @@ para. 5:
        and violently borne down the unarmed laws of a free government;
        barriers too feeble against the fury of a populace so fierce and
        licentious as ours.
+>> They contend,
+   that no adequate provocation has been given for so spreading a discontent;
+   our affairs having been conducted throughout with remarkable temper and consummate wisdom.
+>> The wicked industry of some libellers,
+   joined to the intrigues of a few disappointed politicians,
+   have,
+       in their opinion,
+   been able to produce this unnatural ferment in the nation.
 
+para. 6:
+>> Nothing indeed can be more unnatural than the present convulsions of this country,
+       if the above account be a true one.
+>> I confess I shall assent to it with great reluctance,
+       and only on the compulsion of the clearest and firmest proofs;
+   because their account resolves itself into this short, but discouraging propositon,
+       "That we have a very good ministry,
+       but that we are a very bad people";
+   that we set ourselves to bite the hand that feed us;
+   that 
+       with a malignant insanity, 
+   we oppose the measures, 
+   and ungratefully vilify the persons, 
+       of those
+           whose sole object is our own peace and prosperity.
+>>     If a few puny libellers,
+           acting under a knot of factious politicians,
+           without virtue, parts, or character,
+           (such they are constantly represented by these gentlemen,)
+       are sufficient to excite this disturbance,
+   very perverse must be the disposition of that people,
+       amongst whom such a disturbance can be excited by such means.
+>> It is besides no small aggravation of the public misfortune,
+   that the disease,
+       on this hypothesis,
+   appears to be without remedy.
+>>     If the wealth of the nation be the cause of its turbulence,
+   I imagine it is not proposed to introduce poverty,
+      as a constable to keep the peace.
+>> If our dominions abroad are the roots 
+       which feed all this rank luxuriance of sedition,
+   it is not intended to cut them off in order to famish the fruit.
+>> If our liberty has enfeebled the executive power,
+   there is no design,
+       I hope,
+   to call in the aid of despotism, 
+       to fill up the deficiencies of law.
+>>     Whatever may be intended,
+   these things are not yet professed.
+>> We seem therefore to be drived to absolute despair;
+   for we have no other materials to work upon,
+   but those 
+       out of which God has pleased to form the inhabitants of this island.
+>> If these be radically and essentially vicious,
+   all that can be said is,
+      that those men are very unhappy,
+          to whose fortune or duty it falls to administer the affairs of this
+untoward people.
+>> I hear it indeed sometimes asserted, 
+      that a steady perseverance in the present measures,
+      and a rigorous punishment of those 
+          who oppose them,
+      will in course of time infallibly put an end to these disorders.
+>> But this,
+       in my opinion,
+   is said without much observation of our present disposition,
+   and without any knowledge at all of the general nature of mankind.
+>> If the matter 
+       of which this nation is composed
+   be so very fermentable
+       as these gentlemen describe it,
+   leaven never will be wanting to work it up,
+       as long as discontent, revenge, and ambition, have existed in the world.
+>> Particular punishment are the cure for accidental distempers in the state;
+   they inflame rather than allay those heats
+       which arise from the settled mismanagment of the government,
+       or from a natural indisposition in the people.
+>> It is of the utmost moment not to make mistakes in the use of strong measures;
+   and firmness is then only a virtue
+       when it accompanies the most perfect wisdom.
+>> In truth,
+   inconstancy is a sort of natural corrective of folly and ignorance.
 
+para. 7:
+>> I am not one of those who think 
+       that the people are never in the wrong.
+>> They have been so,
+       frequently and outrageously,
+   both in other countries and in this.
+>> But I do say,
+           that in all disputes between them and their rulers,
+       the presumption is at least upon a par in favor of the people.
+>> Experience may perhaps justify me in going further.
+>> When popular discontents have been very prevalent,
+   it may well be affirmed and supported,
+       that there has been generally something found amiss in the constitution,
+       or in the conduct of government.
+>> The people have no interest in disorder.
+>> When they do wrong,
+   it is their error,
+   and not their crime.
+>> But with the governing part of the state,
+   it is for otherwise.
+>> They certainly may act ill by design,
+   as well as by mistake.
+   
+
+   
 
 
 
