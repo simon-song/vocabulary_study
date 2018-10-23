@@ -1678,9 +1678,60 @@ OED
 5. attrib., as in cartel ship, a ship employed in exchanging prisoners; cartel
    clock
 
+===============================
+assiduous, sedulous
 
 
+===================================================================
+Macaulay, History of England, Macmillan 1913-1915, v.1, pp.256-269
+divulge(v.)
+perfidy(n.)
+odious(a.)
+iniquity(n.)
+provision(n.)
+intercede(v.)
+abide(v.)
+incense(v.)
+pedantic(a.)
+frugal(a.)
+libertine(n.)
+ignominious(a.)
+obstinate(a.)
+amnesty(n.)
+vassalage(n.)
+menace(n.)
+malversation(n.) <malverse(v.)
+implacable(a.)
+obliterate(v.)
+prostrate(a.)
 
+=======================================================================
+Macaulay, History of England, Macmillan 1913-1915, v.1, ch.III, pp.270-
+ameliorate(v.)
+profuse(a.)
+conflagration(n.)
+inundation(n.) <inundate(v.)
+pestilence(n.)
+portentous(a.)
+fen(n.)
+straggling(a.)
+thatch(n.)
+garb(n.)
+strenuous(a.)
+morbid(a.)
+hearth(n.)
+inclement(a.)
+marauder(n.)
+squatter(n.)
+levy(n.)
+morass(n.)
+fell(n.)
+dalesman(n.) <dale(n.)
+scald(v.)
+cavalcade(n.)
+promptitude(n.)
+dirk(n.)
+impost(n.)
 
 
 
