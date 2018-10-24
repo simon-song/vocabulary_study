@@ -1874,6 +1874,21 @@ holster(n.)
 carter(n.) <cart+er
 embezzle(v.)
 requite(v.)  --- p.313
+rector(n.)
+averse(a.)
+tonsure(n.)
+legate(n.)
+benefice(n.)
+chaplain(n.)
+canonical(n.)
+levite(n.)
+garret(n.)
+farrier(n.)
+preferment(n.)
+simony(n.)
+scoffer(n.) <scoff(v.)
+inculcate(v.)
+damsel(n.)
 
 
 
