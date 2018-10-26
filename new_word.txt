@@ -1909,6 +1909,16 @@ proscription(n.) <proscribe(v.)
 unmitigated(a.) <mitigate(v.)
 livery(n.)
 crimping(n.) <crimp(v.) --- p.324
+assize(n.)
+millinery(n.) <milliner(n.)
+ludicrous(a.) 
+emporium(n.)
+whittle(n.)
+leet(n.)
+lancet(n.)
+spurious(a.)
+groat(n.)
+demagogue(n.) --- p.332
 
 
 

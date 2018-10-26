@@ -394,7 +394,7 @@ so that    forum           court     although defences
 
 salutaribus   et necessariis   saepti              sumus,
 salutary         necessary     surrounded          (we) are
-adj.abl.n.pl.    adj.abl.n.pl. perf.p.p.nom.m.sg.  pres.1.pl.
+adj.abl.n.pl.    adj.abl.n.pl. perf.p.p.nom.m.pl.  pres.1.pl.
 salutaris        necessarius   saepio
 
 tamen ne  non timere quidem    sine    aliquo         timore    possimus. 
