@@ -1920,20 +1920,25 @@ spurious(a.)
 groat(n.)
 demagogue(n.) --- p.332
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+===   Webster Dictionary of Synonyms  ===
+churl(n.)
+boor(n.)
+lout(n.)
+clodhopper(n.)
+bumpkin(n.)
+hick(n.)
+yokel(n.)
+rube(n.) <reuben(n.)
+churlish(a.)
+boorish(a.)
+loutish(a.)
+curt(a.)
+blunt(a.)
+brusque(a.)
+gruff(a.)
+crusty(a.)
+surly(a.)
+dour(a.)
+gallant(a.)
+suave(a.)
+bland(a.)
