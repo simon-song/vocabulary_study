@@ -1,0 +1,393 @@
+============================
+Burke: Italiano -> English
+Scritti Politici di Edmund Burke, a cura di Anna Martelloni, p.152
+
+para 1.1: my attempt
+Sir, you are pleased to call again, and with some earnestness, for my opinions
+on the latest proceedings in France.
+
+Burke's text:
+Dear Sir, You are pleased to call again, and with some earnestness, for my
+thoughts on the late proceedings in France.
+
+para 1.2: my attempts
+I will not give you reason to suppose that I would attribute/bestow/confer
+such value to my opinions to wish to be repeatedly solicited to express them.
+I will not give you reason to think that I assign such value to my opinions as
+to wish to be solicited about them.
+
+Burke's text:
+I will not give you reason to imagine that I think my sentiments of such value
+as to wish myself to be solicited about them.
+
+para 1.3: my attempt
+They are of too little importance to be very anxiously either communicated
+or withheld.
+
+Burke's text:
+They are of too little consequence to be very anxiously either communicated or
+withheld.
+
+para 1.4: my attempt
+It was only from attention to you that I hesitated the first time you asked me.
+
+Burke's text:
+It was from attention to you, and to you only, that I hesitated at the time when
+you first desired to receive them.
+
+para 1.5: my attempt
+In the first letter that I had the honor to write you, and at length I sent, I
+wrote neither for or by the account of others; nor shall I in this one.
+
+Burke's text:
+In the first letter I had the honor to write to you, and which at length I send,
+I wrote neither for nor from any description of men; nor shall I in this.
+
+para 1.6: my attempt
+My errors, if any, are my own, and my reputation only is responsible for them. 
+
+Burke's text:
+My errors, if any, are my own. My reputation alone is to answer for them.
+
+para 2.1: my attempt
+You see, sir, in the long letter that I have sent to you, that although I
+do sincerely wish that France should enjoy a vivid spirit of rational liberty 
+and I believe you deem to provide a permanent assembly in which such liberty may
+reside, and an effective organ upon which it may act, it is my great misfortune 
+to entertain certain doubts on various fundamental aspects of your recent 
+actions.
+
+Burke's text:
+You see, Sir, by the long letter I have transmitted to you, that, though I do
+most heartily wish that France may be animated by a spirit of rational liberty,
+and that I think you bound, in all honest policy, to provide a permanent body in
+which that spirit may reside, and an effectual organ by which it may act, it is
+my misfortune to entertain great doubts concerning several material points in
+your late transactions.
+
+para 3.1: my attempt
+You imagined, when you wrote last, that I might be counted among those who
+will approve the proceedings in France, based on your supposition of
+the solemn seal of public approval from two London clubs, called respectively 
+the Constitutional Society, and the Revolution Society.
+
+Burke's text:
+You imagine, when you wrote last, that I might possibly be reckoned among the
+approvers of certain proceedings in France, from the solemn public seal of
+sanction they have received from two clubs of gentlemen in London, called the
+Constitutional Society, and the Revolution Society.
+
+para 4.1: my attempt
+I certainly have the honor to belong to more clubs than one in which the
+constitution of this kingdom and the principles of our glorious Revolution are
+held in high reverence; and I consider myself among the most enthusiastic
+to defend this constitution and those principles in their uttermost purity and
+vigor.
+
+Burke's text:
+I certainly have the honor to belong to more clubs than one in which the
+Constitution of this kingdom and the principles of the glorious Revolution are
+held in high reverence; and I reckon myself among the most forward in my zeal
+for maintaining that Constitution and those principles in their utmost purity
+and vigor.
+
+para 4.2: my attempt
+It is because I do so, that I think there should be no mistake.
+
+Burke's text:
+It is because I do so that I think it necessary for me that there should be no
+mistake.
+
+para 4.3: my attempt
+Those who treasure the memory of our Revolution and love the Constitution of
+this nation, would take good care not to associate with men who proclaim in high
+voice their fidelity in the Revolution and the Constitution, who frequently
+depart from the true principles of both; men who take all occasions to abandon
+the firm and modest spirit which produced the one and presides in the other.
+
+Burke's text:
+Those who cultivate the memory of our Revolution, and those who are attached to
+the Constitution of this kingdom, will take good care how they are involved with
+persons who, under the pretext of zeal towards the Revolution and Constitution,
+too frequently wander from their true principles, and are ready on every
+occasion to depart from the firm, but cautious and deliberate, spirit which
+produced the one and which presides in the other.
+
+para 4.4: my attempt
+Before I respond the more important points in your letter, please allow
+me to inform you what I am able to obtain of these two clubs which have thought
+it proper to interfere officially with the affairs of France, first assure you
+that I am not and have never been a member of either of those clubs.
+
+Burke's text:
+Before I proceed to answer the more material particulars in your letter, I shall
+beg leave to give you such information as I have been able to obtain of the two
+clubs which have thought proper, as bodies, to interfere in the concerns of
+France, --- first assuring you that I am not, and that I have never been, a
+member of either of those societies.
+
+para 5.1: my attempt
+The first, calling itself the Constitutional Society, or the Society of
+Constitutional Information, or some other similar names, exists, I beleive, for
+seven or eight years now.
+
+Burke's text:
+The first, calling itself the Constitutional Society, or the Society for
+Constitutional Information, or by some such title, is, I believe, of seven or
+eight years standing.
+
+para 5.2: my attempt
+The institution of this association appears to be of a charitable therefore
+laudable nature.
+
+Burke's text:
+The institution of this society appears to be of a charitable, and so far of a
+laudable nature:
+
+para 5.3: my attempt
+It was established to promote the circulation, at the expense of its members, of
+the books which very few people would otherwise purchase, 
+
+2018-9-11
+
+1st attempt:
+It was from attention to you, and to you only, that I hesitated the first time
+when you asked for them.
+
+2nd attempt:
+It was from attention to you, and to you only, that I hesitated at the time when
+you first desired to receive them.
+
+1st attempt:
+In the first letter I had the honor to write to you, and at length I send, I
+wrote neither for nor from the description of men; nor shall I in this.
+
+2nd attempt:
+In the first letter I had the honor to write to you, and which at length I send,
+I wrote neither for nor from any description of men; nor shall I in this.
+
+1st attempt:
+My errors, if any, are my own. my reputation alone is to answer for them.
+
+1st attempt:
+You see, Sir, in the long letter I have transmitted to you, though I do heartily
+wish France to be animated by a spirit of rational liberty, and I believe you
+bound, in all honest policy, to provide a permanent body in which it may reside,
+and an effectual organ upon which it may act, it is my misfortune to entertain
+great doubts concerning several material points of your latest transactions.
+
+2nd attempt:
+You see, Sir, by the long letter I have transmitted to you, though I do
+heartily wish that France may be animated by a spirit of rational liberty, and
+that I think you bound, in all honest policy, to provide a permanent body in
+which that spirit may reside, and an effectual organ by which it may act, it is
+my misfortune to entertain great doubts concerning several material points in
+your late transactions.
+
+1st attempt:
+You imagined, when I wrote last, that I may be reckoned among the approvers of
+certain proceedings in France, based on the solemn public seal of approval from
+two clubs of gentlemen in London, called the Constitutional Society, and the
+Revolution Society.
+
+2nd attempt:
+You imagined, when you wrote last, that I might possibly be reckoned among the
+approvers of certain proceedings in France, from the solemn public seal of
+approval they have received from two clubs of gentlemen in London, called the
+Constitutional Society, and the Revolution Society.
+
+1st attempt:
+I surely have the honor to belong to more clubs than one in which the
+Constitution of this kingdom, and the principles of the glorious Revolution are
+held in high reverence; and I count myself among the most forward in my zeal to
+maintain that constitution and those principles in their utmost purity and
+vigor.
+
+2nd attempt:
+I certainly have the honor to belong to more clubs than one in which the
+Constitution of this kingdom and the principles of the glorious Revolution are
+held in high reverence; and I reckon myself among the most forward in my zeal
+for maintaining that constitution and those principles in their utmost purity
+and vigor.
+
+1st attempt:
+It is because I do so, that there should be no mistake.
+
+2nd attempt:
+It is because I do so that I think it necessary that there should be no mistake.
+
+3rd attempt:
+It is because I do so that I think it necessary for me that there should be no
+mistake.
+
+1st attempt: 
+Those who value the memory of our Revolution and who love the Constitution of
+this kingdom, would take good care not to association  with persons,
+which under the pretext of zeal too often departed from their true principles,
+and who take all occastions to depart from the firm, but cautious and deliberate 
+spirit, which produced the one and resides in the other.
+
+2nd attempt:
+Those who cultivate the memory of our Revolution, and those who are attached to
+the Constitution of this kingdom, would take good care how to associate with
+persons who, under the pretext of zeal towards the constitution and the
+Revolution, too frequently wandered from the true principles of both; and who
+would take all occasions to depart from the firm but cautions and deliberate
+spirit which produced the one and which resides in the other.
+
+3rd attempt:
+Those who cultivate the memory of our Revolution, and those who are attached to
+the Constitution of this kingdom, would take good care how they are involved
+with persons who, under the pretext of zeal towards the Revolution and 
+Constitution, too frequently wandered from the true principles of both; and who
+are ready in every occasion to depart from the firm, but caustions and
+deliberate spirit whch produced the one and which resides in the other.
+
+==========================
+Burke, Italiano->English
+ 
+1st attempt:
+Before I start to answer some of the more material points in your letter, first
+allow me to take leave to inform you what I have managed to learn about these 
+two clubs which have thought proper, in their pretended capacity of corporation,
+to be officially involved in the affairs of France: First assure you, that I am 
+not, and have never been a member of either of these clubs.
+
+2nd attempt:
+Before I proceed to answer the more material particulars in your letter, I shall
+beg leave to give you information which I have managed to obtain on these two
+clubs which have thought proper, as bodies, to interfere officially the affairs
+of France: first assuring you that I am not, and have never been a member of
+either of these clubs. 
+
+3rd attempt: 
+Before I proceed to answer the more material particulars in your letter, I shall
+beg leave to give you information which I am able to obtain of these two clubs
+which have thought proper, as bodies, to interfere in the concerns of France:
+first assuring you that I am not, and have never been, a member of either of
+those societies.
+
+4th attempt:
+Before I procced to answer the more material particulars in your letter, I shall
+beg leave to give you such information as I have been able to obtain of the two
+clubs which have thought proper, as bodies, to interfere in the concerns of
+France: first assuring you, that I am not, and that I have never been, a member
+of either of those societies.
+
+=============
+1st attempt:
+The first, calling itself the Constitutional Society, or the Society of
+Constitutional Information, or of[?] some other similar title, is, I believe, of
+seven or eight years standing.
+
+2nd attempt:
+The first, calling itself the Constitutional Society, or the Society for
+Constitutional Information, or some other like title, is, I believe, of seven or
+eight years' standing.
+
+3rd attempt:
+The first, calling itself the Constitutional Society, or the Society for
+Constitutional Information, or by some such title, is, I believe, of seven or
+eight years' standing.
+
+=============
+1st attempt:
+The institution of this society seems to be of a charitable hence laudable
+nature: it was intended for the promotion of circulation, at the expense of its
+members, of many books which very few other people are at the risk of buying,
+and thereforef are remaining unsold with the booksellers, at the cost of harming
+an useful group of men.
+
+2nd attempt:
+The institution of this society appears to be of a charitable, and so far of a
+laudable nature: it was intended for the circulation, at the expense of the
+members, of many books which few others are at the expense of buying, and which
+might lie at the hands of the booksellers, to the great loss of an useful
+group of men.
+
+3rd attempt:
+The institution of this society appears to be of a charitable, and so far of a
+laudable nature: it was intended for the circulation, at the expense of the
+members, of many books which few others would be at the expense of buying, and
+which might lie on the hands of the booksellers, to the great loss of an useful
+body of men.
+
+=============
+1st attempt:
+Whether the books so charitably circulated were as charitably read, is more than
+I know.
+
+2nd attempt:
+Whether the books so charitably circulated were as ever charitably read is more
+than I know.
+
+=============
+1st attempt:
+Probably some of them have been exported to France where they, like goods not 
+needed here, have found a favorable market.
+
+2nd attempt:
+Possible several of them have been exported to France, and, like goods not in
+request here, may with you have found a favorable market.
+
+=============
+1st attempt:
+I have often heard spoken of the light of those books which have crossed the
+shores; I do not know what improvement might arise during their cross (like it
+is said that certain liquors might improve by crossing the sea), but I have
+never heard a person equipped with common good sense, or at the least a little
+information, speak a word of praise of that society; nor any act of this society
+have been considered seriously, by anyone but its own members.
+
+2nd attempt:
+I have heard much talk about the lights which can be drawn from the books 
+send from hence. What improvements they might be able to get (as it is said 
+that certain liquors are meliorated by crossing the sea) I cannot tell; but I
+have never heard any man ...
+
+===========================
+Burke: Italiano -> English
+1st attempt:
+I have heard much talk about the light from books sent to such expedition.
+
+2nd attempt:
+I have heard much talk of the lights which could be drawn from the books sent
+from hence.
+
+3rd attempt:
+I have heard much talk of the lights to be drawn from books that are sent from
+hence.
+
+1st attempt:
+What improvement they could get during the crossing (as some say that 
+certain liquors would meliorate by crossing the sea) I cannot tell, but I have
+never heard any man equipped with a common good sense, or the least information, 
+speaks a word in favor of the majority part of those publications circulated by
+that society; nor was any document of this society been considered seriously,
+except by its own members.
+
+2nd attempt:
+What improvements they have had in their passage (as it is said that certain
+liquors are meliorated by crossing the sea) I cannot tell; but I never heard a
+man with common judgment, or the least degree of information, speak a word of
+praise on the greater part of the publications circulated by that society, nor
+has any of their books received, except from its own members, any serious 
+consideration.
+
+3rd attempt:
+What improvements they have had in their passage (as it is said that some
+liquors are meliorated by crossing the sea) I cannot tell; but I never heard a
+man of common judgment or the least degree of information speak a word in praise
+of the greater part of the publications circulated by that society; nor have
+their proceedings been taken, except by some of their own, to be of any serious
+consquence.
+
+4th attempt:
+What improvements they have had in their passage (as it is said that some
+liquors are meliorated by crossing the sea) I cannot tell; but I never heard a
+man of common judgment or the least degree of information speak a word in praise
+of the greater part of the publications circulated by that society; nor have
+their proceedings been accounted, except by some of themselves, as of any
+serious consequence.
+
+
