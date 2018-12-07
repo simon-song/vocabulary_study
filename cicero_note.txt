@@ -1,0 +1,44 @@
+Sentence analysis using Cicero, Pro Milone, tr. by C.D. Yonge (1891)
+cf. Fotheringham, Persuasive Language in Cicero's Pro Milone
+
+>> Although I am afraid, O judges, 
+       that it is a base thing 
+           for one who is beginning to speak for a very brave man to be alarmed, 
+       and though it is far from becoming, 
+               when Titus Annius Milo himself is more disturbed for the safety 
+               of the republic than for his own, 
+           that I should not be able to bring to the cause a similar greatness 
+           of mind, 
+   yet this novel appearance of a new manner of trial alarms my eyes, 
+       which, 
+           wherever they fall, 
+       seek for the former customs of the forum and the ancient practice in 
+       trials. 
+
+>> For your assembly is not surrounded by a circle of bystanders 
+       as usual; 
+   we are not attended by our usual company;
+   For those guards 
+       which you behold in front of all the temples, 
+       although they are placed there as a protection against violence, 
+   yet they bring no aid to the orator, 
+       so that even in the forum and in the court of justice itself, 
+           although we are protected with all military and necessary defences, 
+       yet we cannot be entirely without fear. 
+
+>> But if I thought 
+       this adverse to Milo, 
+   I should yield to the times, O judges, 
+   and among such a crowd of armed men, I should think 
+       there was no room for an orator. 
+
+>> But the wisdom of Cnaeus Pompeius, 
+       a most wise and just man, 
+   strengthens and encourages me, 
+       who would certainly neither think 
+           it suitable to his justice 
+               to deliver that man up to the weapons of the soldiery
+                   whom he had given over as an accused person to the decision 
+                   of the judges, 
+           nor suitable to his wisdom 
+               to arm the rashness of an excited multitude with public authority. 
