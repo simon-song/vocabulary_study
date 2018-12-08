@@ -6,11 +6,14 @@ English text adapted from
   (2) Berry's translation in Cicero Defence Speeches, Oxford World's 
 Classics.
   (3) Roscoe Mongan's translation in Kelly's Keys to Cicero Pro Milone
+  (4) Sabidius's translation at
+http://www.sabidius.com/index.php/component/k2/item/1242-cicero-pro-milone
 
 Sentence structure is compared carefully against the Latin version in
 Fotheringham, Persuasive Language in Cicero's Pro Milone.
 ======================================================================
 
+1.1
 >> Although I am afraid, O judges, 
        that it is a base thing 
            for one who is beginning to speak for a very brave man to be alarmed, 
@@ -25,6 +28,7 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
        seek for the former customs of the forum and the ancient practice in 
        trials. 
 
+1.2-2.0
 >> For your assembly is not surrounded by a circle of bystanders 
        as usual; 
    we are not attended by our usual company;
@@ -36,12 +40,14 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
            although we are protected with all military and necessary defences, 
        yet we cannot be entirely without fear. 
 
->> But if I thought 
-       this adverse to Milo, 
+2.1
+>>     But if I thought 
+           this adverse to Milo, 
    I should yield to the times, O judges, 
    and among such a crowd of armed men, I should think 
        there was no room for an orator. 
 
+2.2
 >> But the wisdom of Cnaeus Pompeius, 
        a most wise and just man, 
    strengthens and encourages me, 
@@ -53,6 +59,7 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
            nor suitable to his wisdom 
                to arm the rashness of an excited multitude with public authority. 
 
+3.1
 >> So that those arms, those centurions, those cohorts, do not announce danger 
    to us, 
    but protection; 
@@ -61,6 +68,7 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
        but even to be courageous, 
    nor do they promise only assistance to my defence but also silence.
 
+3.2
 >> And the rest of the multitude 
        which consists of citizens 
    is wholly ours; 
@@ -68,31 +76,32 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
        whom you see from this place gazing upon us from all sides 
            from which any part of the forum can be seen 
        and watching the result of this trial 
-   who, 
-       while he favours the virtue of Milo, 
-   does not think 
+   who does not only favour the virtue of Milo, 
+   but also does not think 
        that this day in reality his own interests, those of his children, his 
        country, and his fortunes, are at stake.
 
->> There is one class adverse and hostilie to us, those
+3.3
+>> There is one class adverse and hostile to us, those
        whom the madness of Publius Clodius has fed on rapine, on conflagration, 
        and on every sort of public disaster; 
-       and who were, 
-           even in the assembly held yesterday, 
-       exhorted to teach you, by their clamour, 
-           what you were to decide; 
-       but such shouts, 
-           if any reached you,
-       should rather warn you to retain him as a citizen
-           who has always slighted that class of men, and their greatest 
-           clamour, in comparison with your safety.
+       who were incited even at yesterday's assembly
+           to dicate to you
+               what judgment you should give;
+       whose clamour,
+           if any by chance will have reached you,
+       ought to warn you 
+           to retain him as a citizen
+               who has always slighted that type of men and their greatest 
+               clamour in favour of your safety.
 
+4.1
 >> Wherefore, be of good courage, O judges, 
    and lay aside, 
        if indeed you feel any,
-   your alarm. 
+   your fear. 
 
-4.1
+4.2
 >>     For if ever you have the power of judging good and brave men, 
        if you have ever had the power of judging meritorious citizens,
        if ever an opportunity has been given to chosen men of the most 
@@ -121,15 +130,15 @@ than we are,
 
 >> 5.2
     Indeed other storms and hurricanes in these waves of the assemblies
-I always thought
+I have always thought
     Milo had to encounter,
         because he always espoused the cause of the good against the bad; 
     but in a court of justice, and in that council 
         in which the most honourable men of all ranks were to sit as judges, 
 I never imagined 
     that Milo's enemies could have any hope 
-    not only of destroying his safety,
-    but even of sullying his reputation by means of such men.
+    not only of his safety being destroyed,
+    but even of his reputation being diminished at the hands of such men.
     
 
 
