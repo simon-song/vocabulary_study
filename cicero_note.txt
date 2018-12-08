@@ -1,5 +1,12 @@
-Sentence analysis using Cicero, Pro Milone, tr. by C.D. Yonge (1891)
-cf. Fotheringham, Persuasive Language in Cicero's Pro Milone
+======================================================================
+          Sentence analysis of Cicero's Pro Milone. 
+
+English text adapted from C.D. Yonge's (1891) translation and Berry's
+translation (in Cicero Defence Speeches, Oxford World's Classics).
+
+Sentence structure is compared carefully against the Latin version in
+Fotheringham, Persuasive Language in Cicero's Pro Milone.
+======================================================================
 
 >> Although I am afraid, O judges, 
        that it is a base thing 
@@ -44,8 +51,11 @@ cf. Fotheringham, Persuasive Language in Cicero's Pro Milone
                to arm the rashness of an excited multitude with public authority. 
 
 >> So that those arms, those centurions, those cohorts, do not announce danger 
-   to us, but protection; 
-   nor do they expect us only to be calm, but even to be courageous, 
+   to us, 
+   but protection; 
+   nor do they expect 
+       us only to be calm, 
+       but even to be courageous, 
    nor do they promise only assistance to my defence but also silence.
 
 >> And the rest of the multitude 
@@ -74,14 +84,24 @@ cf. Fotheringham, Persuasive Language in Cicero's Pro Milone
            who has always slighted that class of men, and their greatest 
            clamour, in comparison with your safety.
 
+>> Wherefore, be of good courage, O judges, 
+   and lay aside, 
+       if indeed you feel any,
+   your alarm. 
 
-Wherefore, be of good courage, O judges, and lay aside your alarm, if indeed you
-feel any; for if ever you had to decide about good and brave men, and about
-citizens who had deserved well of their country, if ever an opportunity was
-given to chosen men of the most honourable ranks to show by their deeds and
-resolutions that disposition towards brave and good citizens which they had
-often declared by their looks and by their words, all that power you now have,
-when you are to determine whether we who have always been wholly devoted to your
-authority are to be miserable, and to mourn for ever, or whether, having been
-long harassed by the most abandoned citizens, we shall at length he reprieved
-and set up again by you, your loyalty, your virtue, and your wisdom.
+>>     For if ever you have the power of judging good and brave men, 
+       if you have ever had the power of judging meritorious citizens,
+       if ever an opportunity has been given to chosen men of the most 
+       honourable ranks 
+           to show that disposition towards brave and good citizens 
+               which they had often declared by their looks and by their words, 
+           by their actions and votes,
+   all that power you now have,
+       when you are to determine 
+           whether we 
+               who have always been wholly devoted to your authority 
+           are to be miserable for ever, 
+           or whether, 
+               having been long harassed by the most abandoned citizens, 
+           we shall at length be revived by you, your loyalty, your virtue, and 
+           your wisdom.
