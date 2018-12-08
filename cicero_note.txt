@@ -1,8 +1,11 @@
 ======================================================================
           Sentence analysis of Cicero's Pro Milone. 
 
-English text adapted from C.D. Yonge's (1891) translation and Berry's
-translation (in Cicero Defence Speeches, Oxford World's Classics).
+English text adapted from 
+  (1) C.D. Yonge's (1891) translation 
+  (2) Berry's translation in Cicero Defence Speeches, Oxford World's 
+Classics.
+  (3) Roscoe Mongan's translation in Kelly's Keys to Cicero Pro Milone
 
 Sentence structure is compared carefully against the Latin version in
 Fotheringham, Persuasive Language in Cicero's Pro Milone.
@@ -89,6 +92,7 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
        if indeed you feel any,
    your alarm. 
 
+4.1
 >>     For if ever you have the power of judging good and brave men, 
        if you have ever had the power of judging meritorious citizens,
        if ever an opportunity has been given to chosen men of the most 
@@ -105,3 +109,27 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
                having been long harassed by the most abandoned citizens, 
            we shall at length be revived by you, your loyalty, your virtue, and 
            your wisdom.
+
+>> 5.1
+For what, O judges, is more full of labour than we both are, 
+what can be either expressed or imagined more full of anxiety and uneasiness 
+than we are,
+    who 
+        being induced to devote ourselves to the republic by the hope of the 
+        most honourable rewards, 
+    yet cannot be free from the fear of the most cruel punishments? 
+
+>> 5.2
+    Indeed other storms and hurricanes in these waves of the assemblies
+I always thought
+    Milo had to encounter,
+        because he always espoused the cause of the good against the bad; 
+    but in a court of justice, and in that council 
+        in which the most honourable men of all ranks were to sit as judges, 
+I never imagined 
+    that Milo's enemies could have any hope 
+    not only of destroying his safety,
+    but even of sullying his reputation by means of such men.
+    
+
+
