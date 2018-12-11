@@ -1,332 +1,500 @@
-=========================================================
-Burke, Thoughts on the Cause of the Present Discontents
+=============================================================
+  Sentence analysis of Burke's Thoughts on the Cause of the 
+Present Discontents
+=============================================================
 
+==============================
 para. 1:
->> It is an undertaking of some degree of delicacy to examine into the cause of
-   public disorders.
-  >> If a man happens not to succeed in such an inquiry, he will be thought weak
-     and visionary;
-  >> If he touches the true grievance, there is a danger that he may come near 
-     to persons of weight and consequence,
-       >> who will rather be exasperated at the discovery of their errors,
-          than thankful for the occasion of correcting them;
-  >> If he should be obliged to blame the favorites of the people, he will be
-     considered as the tool of the power;
-  >> If he censures those in power, he will be looked on as an instrument of the
-     faction.
->> But in all exertions of duty something is to be hazarded.
-  >> In case of tumult and disorder, our law has invested every man, in some
-     sort, with the authority of a magistrate.
-  >> When the affairs of the nation are distracted, private people are, 
-         by the spirit of that law, 
-     justified in stepping a little out of their ordinary sphere.
-  >> They enjoy a privilege, of somewhat more dignity and effect, than that of 
-     idle lamentation over the calamities of their country.
-  >> They may look into them narrowly; 
-     they may reason upon them liberally; 
-     and if they should be so fortunate as to discover the true source of the
-     mischief, 
-     and to suggest any probable method of removing it, 
-         though they may displease the rulers of the day, 
-     they are certainly of service to the cause of the government.
-  >> Government is deeply interest in everything which,
-         even through the medium of some temporary uneasiness,
-     may tend finally to compose the minds of the subject,
-     and to conciliate their affections.
->> I have nothing to do here with the abstract value of the voice of the people.
->> But as long as reputation,
-       the most precious possession of every individual,
-   and as long as opinion,
-       the great support of the state,
-   depend entirely upon the voice, 
-   it can never be considered as a thing of little consequence either to
-   individuals or to governments.
->> Nations are not primarily ruled by laws: less by violence.
->> Whatever original energy may be supposed either in force or regulation, 
-   the operation of both is,
-       in truth,
-   merely instrumental.
->> Nations are governed by the same methods, and on the same principles, by
-   which an individual without authority is often able to govern those who are
-   his equals or his superiors; 
-       by a knowledge of their temper, 
-       and by a judicious management of it;
-   I mean, --- when public affairs are steadily and quietly conducted;
-   not when government is nothing but a continued scuffle between the magistrate
-   and the multitude;
-       in which sometimes the one and some times the other is uppermost;
-       in which they alternately yield and prevail;
-       in a series of contemptible victories, and scandalous submissions.
->> The temper of the people 
-       amongst whom he presides
-   ought therefore to be the first study of a statesman.
->> And the knowledge of this temper it is by no means impossible for him to
-   attain, 
-       if he has not an interest in being ignorant of what is his duty to learn.
+
+>> 1.1
+It is an undertaking of some degree of delicacy to examine into the cause of
+public disorders.
+
+>> 1.2
+    If a man happens not to succeed in such an inquiry, 
+he will be thought weak and visionary;
+    If he touches the true grievance, 
+there is a danger that he may come near to persons of weight and consequence,
+    who will rather be exasperated at the discovery of their errors,
+    than thankful for the occasion of correcting them;
+    If he should be obliged to blame the favorites of the people, 
+he will be considered as the tool of the power;
+    If he censures those in power, 
+he will be looked on as an instrument of the faction.
+
+>> 1.3
+But in all exertions of duty something is to be hazarded.
+
+>> 1.4
+    In case of tumult and disorder, 
+our law has invested every man, 
+    in some sort, 
+with the authority of a magistrate.
+
+>> 1.5
+    When the affairs of the nation are distracted, 
+private people are, 
+    by the spirit of that law, 
+justified in stepping a little out of their ordinary sphere.
+
+>> 1.6
+They enjoy a privilege, 
+    of somewhat more dignity and effect, 
+    than that of idle lamentation over the calamities of their country.
+
+>> 1.7
+They may look into them narrowly; 
+they may reason upon them liberally; 
+    and if they should be so fortunate as to discover the true source of the
+    mischief, 
+    and to suggest any probable method of removing it, 
+        though they may displease the rulers of the day, 
+they are certainly of service to the cause of the government.
+
+>> 1.8
+Government is deeply interest in everything 
+    which,
+        even through the medium of some temporary uneasiness,
+    may tend finally to compose the minds of the subject,
+    and to conciliate their affections.
+
+>> 1.9
+I have nothing to do here with the abstract value of the voice of the people.
+
+>> 1.10
+    But as long as reputation,
+        the most precious possession of every individual,
+    and as long as opinion,
+        the great support of the state,
+    depend entirely upon the voice, 
+it can never be considered as a thing of little consequence either to 
+individuals or to governments.
+
+>> 1.11
+Nations are not primarily ruled by laws: 
+less by violence.
+
+>> 1.12
+    Whatever original energy may be supposed either in force or regulation, 
+the operation of both is,
+    in truth,
+merely instrumental.
+
+>> 1.13
+Nations are governed by the same methods, and on the same principles, 
+    by which an individual without authority is often able to govern those 
+        who are his equals or his superiors; 
+            by a knowledge of their temper, 
+            and by a judicious management of it;
+I mean, --- 
+    when public affairs are steadily and quietly conducted;
+    not when government is nothing but a continued scuffle between the 
+    magistrate and the multitude;
+        in which sometimes the one and some times the other is uppermost;
+        in which they alternately yield and prevail;
+        in a series of contemptible victories, and scandalous submissions.
+
+>> 1.14
+The temper of the people 
+    amongst whom he presides
+ought therefore to be the first study of a statesman.
+
+>> 1.15
+    And the knowledge of this temper 
+it is by no means impossible for him to attain, 
+    if he has not an interest in being ignorant 
+        of what is his duty to learn.
    
+
+==============================
 para. 2:
->> To complain of the age we live in,
-   to murmur at the present possessors of power,
-   to lament the past,
-   to conceive extravagant hopes of the future, 
-       are the common dispositions of the greatest part of mankind;
-       indeed the necessary effects of the ignorance and levity of the vulgar.
->> Such complaints and humors have existed in all times;
-   yet as all times have not been alike,
-   true political sagacity manifests itself in distinguishing that complaint
-       which only characterizes the general infirmity of human nature,
-   from those 
-       which are symptoms of the particular distemperature of our own air and 
-       season.
 
+>> 2.1
+To complain of the age 
+    we live in,
+to murmur at the present possessors of power,
+to lament the past,
+to conceive extravagant hopes of the future, 
+    are the common dispositions of the greatest part of mankind;
+    indeed the necessary effects of the ignorance and levity of the vulgar.
+
+>> 2.2
+Such complaints and humors have existed in all times;
+    yet as all times have not been alike,
+true political sagacity manifests itself in distinguishing that complaint
+    which only characterizes the general infirmity of human nature,
+    from those 
+        which are symptoms of the particular distemperature of our own air and 
+        season.
+
+
+==============================
 para. 3:
->> Nobody,
-       I believe,
-   will consider it merely as the language of spleen or disappointment,
-   if I say,
-       that there is something particularly alarming in the present conjuncture.
->> There is hardly a man,
-       in or out of power,
-   who holds any other language.
->> That government is at once dreaded and contemned;
-   that the laws are despoiled of all their respected and salutary terrors;
-   that their inaction is a subject of ridicule, 
-       and their exertion of adhorrence;
-   that rank, and office and title, and all the solemn plausibilities of the
-       world, have lost their reverence and effect;
-   that our foreign politics are as much deranged as our domestic economy;
-   that our dependencies are slackened in their affection, and loosened from
-       their obedience;
-   that we know neither how to yield nor how to enforce;
-   that hardly anything above or below, abroad or at home, is sound and entire;
-   but that disconnection and confusion, in offices, in parties, in families,
-       in Parliament, in the nation, prevail beyond the disorders of any former
-       time:
-   these are facts universally admitted and lamented.
+
+>> 3.1
+Nobody,
+    I believe,
+will consider it merely as the language of spleen or disappointment,
+    if I say,
+that there is something particularly alarming in the present conjuncture.
+
+>> 3.2
+There is hardly a man,
+    in or out of power,
+    who holds any other language.
+
+>> 3.3
+    That government is at once dreaded and contemned;
+    that the laws are despoiled of all their respected and salutary terrors;
+    that their inaction is a subject of ridicule, and their exertion of 
+    adhorrence;
+    that rank, and office and title, and all the solemn plausibilities of the
+    world, have lost their reverence and effect;
+    that our foreign politics are as much deranged as our domestic economy;
+    that our dependencies are slackened in their affection, and loosened from
+    their obedience;
+    that we know neither how to yield nor how to enforce;
+    that hardly anything above or below, abroad or at home, is sound and entire;
+    but that disconnection and confusion, 
+        in offices, in parties, in families, in Parliament, in the nation, 
+    prevail beyond the disorders of any former time:
+these are facts universally admitted and lamented.
    
+==================
 para. 4:
->> This state of things is the more extraordinary,
-   because the great parties 
-       which formerly divided and agitated the kingdom 
-   are known to be in a manner entirely dissolved.
->> No great external calamity has visited the nation;
-   no pestilence or famine.
->> We do not labor at present under any scheme of taxation new or oppressive in
-   the quantity or in the mode.
->> Nor are we engaged in unsuccessful war; 
-   in which, 
-       our misfortunes might easily pervert our judgment;
-   and our minds, 
-       sore from the loss of national glory,
-   might feel every blow of fortune as a crime in government.
 
+>> 4.1
+This state of things is the more extraordinary,
+    because the great parties 
+        which formerly divided and agitated the kingdom 
+    are known to be in a manner entirely dissolved.
+
+>> 4.2
+No great external calamity has visited the nation;
+no pestilence or famine.
+
+>> 4.3
+We do not labor at present under any scheme of taxation new or oppressive in
+the quantity or in the mode.
+
+>> 4.4
+Nor are we engaged in unsuccessful war; 
+    in which, 
+        our misfortunes might easily pervert our judgment;
+        and our minds, 
+            sore from the loss of national glory,
+        might feel every blow of fortune as a crime in government.
+
+===========================
 para. 5:
->> It is impossible that the cause of this strange distemper should not
-   sometimes become a subject of discourse.
->> It is a compliment due,
-      and which I willingly pay,
-   to those who administer our affairs,
-      to take notice in the first place of their speculation.
->> Our ministers are of opinion, 
-       that the increase of our trade and manufactures,
-       that our growth by colonization, and by conquest,
-           have concurred to accumulate immense wealth in the hands of some
-           individuals;
-       and this again 
-           being dispersed among the people,
-       has rendered them universally proud, ferocious, and ungovernable;
-       that the insolence of some from their enormous wealth,
-       and the boldness of others from a guilty poverty,
-           have rendered them capable of the most atrocious attempts;
-       so that they have trampled upon all subordination,
-       and violently borne down the unarmed laws of a free government;
-       barriers too feeble against the fury of a populace so fierce and
-       licentious as ours.
 
+>> 5.1
+It is impossible 
+    that the cause of this strange distemper should not sometimes become a 
+    subject of discourse.
 
+>> 5.2
+It is a compliment due,
+   and which I willingly pay,
+to those who administer our affairs,
+   to take notice in the first place of their speculation.
+
+>> 5.3
+Our ministers are of opinion, 
+    that the increase of our trade and manufactures,
+    that our growth by colonization, and by conquest,
+        have concurred to accumulate immense wealth in the hands of some
+        individuals;
+    and this again 
+        being dispersed among the people,
+    has rendered them universally proud, ferocious, and ungovernable;
+    that the insolence of some from their enormous wealth,
+    and the boldness of others from a guilty poverty,
+        have rendered them capable of the most atrocious attempts;
+    so that 
+        they have trampled upon all subordination,
+        and violently borne down the unarmed laws of a free government;
+            barriers too feeble against the fury of a populace so fierce and
+            licentious as ours.
+
+============================
 para. 6:
->> Nothing indeed can be more unnatural than the present convulsions of this
-   country, 
-       if the above account be a true one.
->> I confess 
-       I shall assent to it 
-           with great reluctance, 
-           and only on the compulsion of the clearest and firmest proofs; 
-   because their account resolves itself into this short, but discouraging 
-   proposition, 
-       "That we have a very good ministry, but that we have a very bad people"; 
-       that we set ourselves to bite the hand that feed us;
-       that 
-           with a malignant insanity, 
-       we oppose the measures, 
-       and ungratefully vilify the persons, 
-           of those whose sole object is our own peace and prosperity.
->> If a few puny libellers,
-      acting under a knot of factious politicians,
-          without virtue, parts, or character,
-          (such they are constantly represented by these gentlemen,)
-   are sufficient to exicite this disturbance, 
-   very perverse must be the disposition of that people,
-       amongst whom such a disturbance can be excited by such means.
->> It is besides no small aggravation of the public misfortune, 
-      that the disease,
-          on this hypothesis,
-      appears to be without remedy.
->> If the wealth of the nation be the cause of this turbulence,
-   I imagine it is not proposed to introduce poverty,
-       as a constable to keep the peace.
->> If our dominions abroad are the roots which feed all this rank luxuriance of
-   sedition,
-   it is not intended to cut them off in order to famish the fruit.
->> If our liberty has enfeebled the executive power,
-   there is no design,
-       I hope,
-   to call in the aid of despotism,
-   to fill up the deficiencies of law.
->> Whatever may be intended,
-   these things are not yet professed.
->> We seem therefore to be driven to absolute despair;
-   for we have no other materials to work upon,
-   but those out of which God has been pleased to form the inhabitants of this
-   land.
->> If these be radically and essentially vicious, 
-   all that can be said is,
-       that those men are very unhappy,
-           to whose fortune or duty it falls to administer the affairs of this
-           untoward people.
->> I hear it indeed sometimes asserted,
-       that a steady perseverance in the present measures,
-       and a rigorous punishment of those who oppose them,
-       will in course of time infallibly put an end to these disorders.
->> But this, 
-       in my opinion,
-   is said without much observation of our present disposition,
-       and without any knowledge at all of the general nature of mankind.
->> If the matter 
-       of which this nation is composed
-   be so very fermentable as these gentlemen describe it,
-   leaven never will be wanting to work it up,
-       as long as discontent, revenge, and ambition, have existence in the
-       world.
->> Particular punishments are the cure for accidental distempers in the state;
-   they inflame rather than allay those heats
-       which arise from the settled mismanagement of the government,
-                   or from a natural indisposition in the people.
->> It is of the utmost moment not to make mistakes in the use of strong
-   measures;
-   and firmness is then only a virtue
-       when it accompanies the most perfect wisdom.
->> In truth, inconstancy is a sort of natural corrective of folly and ignorance.
 
+>> 6.1
+Nothing indeed can be more unnatural than the present convulsions of this
+country, 
+    if the above account be a true one.
+
+>> 6.2
+I confess 
+    I shall assent to it 
+        with great reluctance, 
+        and only on the compulsion of the clearest and firmest proofs; 
+    because their account resolves itself into this short, but discouraging 
+    proposition, 
+        "That we have a very good ministry, but that we have a very bad people"; 
+        that we set ourselves to bite the hand that feed us;
+        that 
+            with a malignant insanity, 
+        we oppose the measures, and ungratefully vilify the persons, 
+            of those whose sole object is our own peace and prosperity.
+
+>> 6.3
+    If a few puny libellers,
+       acting under a knot of factious politicians,
+           without virtue, parts, or character,
+           (such they are constantly represented by these gentlemen,)
+    are sufficient to exicite this disturbance, 
+very perverse must be the disposition of that people,
+    amongst whom such a disturbance can be excited by such means.
+
+>> 6.4
+It is besides no small aggravation of the public misfortune, 
+   that the disease,
+       on this hypothesis,
+   appears to be without remedy.
+
+>> 6.5
+    If the wealth of the nation be the cause of this turbulence,
+I imagine 
+    it is not proposed to introduce poverty,
+        as a constable to keep the peace.
+
+>> 6.6
+    If our dominions abroad are the roots 
+        which feed all this rank luxuriance of sedition,
+it is not intended to cut them off 
+    in order to famish the fruit.
+
+>> 6.7
+    If our liberty has enfeebled the executive power,
+there is no design,
+    I hope,
+to call in the aid of despotism,
+to fill up the deficiencies of law.
+
+>> 6.8
+    Whatever may be intended,
+these things are not yet professed.
+
+>> 6.9
+We seem therefore to be driven to absolute despair;
+    for we have no other materials to work upon,
+but those 
+    out of which God has been pleased to form the inhabitants of this land.
+
+>> 6.10
+    If these be radically and essentially vicious, 
+all that can be said is,
+    that those men are very unhappy,
+        to whose fortune or duty it falls to administer the affairs of this
+        untoward people.
+
+>> 6.11
+I hear it indeed sometimes asserted,
+    that a steady perseverance in the present measures, and a rigorous 
+    punishment of those 
+        who oppose them,
+    will in course of time infallibly put an end to these disorders.
+
+>> 6.12
+But this, 
+    in my opinion,
+is said without much observation of our present disposition,
+    and without any knowledge at all of the general nature of mankind.
+
+>> 6.13
+    If the matter 
+        of which this nation is composed
+    be so very fermentable 
+        as these gentlemen describe it,
+leaven never will be wanting to work it up,
+    as long as discontent, revenge, and ambition, have existence in the
+    world.
+
+>> 6.14
+Particular punishments are the cure for accidental distempers in the state;
+they inflame rather than allay those heats
+    which arise from the settled mismanagement of the government,
+    or from a natural indisposition in the people.
+
+>> 6.15
+It is of the utmost moment not to make mistakes in the use of strong measures;
+and firmness is then only a virtue
+    when it accompanies the most perfect wisdom.
+
+>> 6.16
+In truth, inconstancy is a sort of natural corrective of folly and ignorance.
+
+==============================
 para. 7:
->> I am not one of those
-       who think that the people are never in the wrong.
->> They have been so,
-       frequently and outrageously,
-       both in other countries and in this.
->> But I do say,
-       that in all disputes between them and their rulers,
-       the presumtption is at least upon a par in favor of the people.
->> Experience may perhaps justify me in going further.
->>     When popular discontents have been very prevalent,
-   it may well be affirmed and supported,
-       that there has been generally something found amiss 
-           in the constitution,
-           or in the conduct of the government.
->> When they do wrong,
-   it is their error, and not their crime.
->> But with the governing part of the state, it is otherwise.
->> They certainly may act ill by design, as well as by mistake.
->> “Les révolutions 
-       qui arrivent dans les grands états 
-   ne sont point un effect du hazard, 
-       ni du caprice des peuples. 
-   Rien ne révolte les grands d’un royaume comme un gouvernement foible et dérangé.
-       Pour la populace,
-   ce n’est jamais par envie d’attaquer 
-       qu’elle se soulève, 
-   mais par impatience de souffrir.”
->> These are the words of a great man;
-       of a minister of state;
-       and a zealous assertor of monarchy.
->> They are applied to the system of favoritism
-       which was adopted by Henry the Third of France,
-   and to the dreadful consequences it produces.
->> What he says of revolution, is equally true of all great disturbances.
->> It this presumption in favor of the subjects against the trustees of power be
-   not the more probable,
-   I am sure 
-       it is the more comfortable speculation;
-       because it is more easy to change an administration,
-           than to reform a people.
 
+>> 7.1
+I am not one of those
+    who think that the people are never in the wrong.
+
+>> 7.2
+They have been so,
+    frequently and outrageously,
+    both in other countries and in this.
+
+>> 7.3
+But I do say,
+        that in all disputes between them and their rulers,
+    the presumtption is at least upon a par in favor of the people.
+
+>> 7.4
+Experience may perhaps justify me in going further.
+
+>> 7.5
+    When popular discontents have been very prevalent,
+it may well be affirmed and supported,
+    that there has been generally something found amiss 
+        in the constitution,
+        or in the conduct of the government.
+
+>> 7.6
+    When they do wrong,
+it is their error, 
+    and not their crime.
+
+>> 7.7
+But with the governing part of the state, it is otherwise.
+
+>> 7.8
+They certainly may act ill by design, as well as by mistake.
+
+>> 7.9
+“Les révolutions 
+    qui arrivent dans les grands états 
+ne sont point un effect du hazard, 
+    ni du caprice des peuples. 
+Rien ne révolte les grands d’un royaume comme un gouvernement foible et dérangé.
+    Pour la populace,
+ce n’est jamais par envie d’attaquer 
+    qu’elle se soulève, 
+    mais par impatience de souffrir.”
+
+>> 7.10
+These are the words of a great man;
+    of a minister of state;
+    and a zealous assertor of monarchy.
+
+>> 7.11
+They are applied to the system of favoritism
+    which was adopted by Henry the Third of France,
+and to the dreadful consequences it produces.
+
+>> 7.12
+What he says of revolution, is equally true of all great disturbances.
+
+>> 7.13
+    If this presumption in favor of the subjects against the trustees of power 
+    be not the more probable,
+I am sure 
+    it is the more comfortable speculation;
+        because it is more easy to change an administration,
+            than to reform a people.
+
+===========================
 para. 8:
->> Upon a supposition, 
-       therefore,
-   that,
-       in the opening of the cause,
-   the presumptions stand equally balanced between the parties,
-   there seems sufficient ground to entitle any person to a fair hearing,
-       who attempts some other scheme beside the easy one 
-           which is fashionable in some fashionable companies,
-   to account for the present discontents.
->> It is not to be argued
-       that we endure no grievance,
-   because our grievances are not of the same sort with those
-       under which we labored formerly;
-   not precisely those 
-       which we bore from the Tudors,
-       or vindicated on the Stuarts.
->> A great change has taken place in the affairs of this country.
->> For in the silent lapse of events 
-       as material alterations have been insensibly brought about in policy and
-       charactrer of governments and nations,
-       as those which have been marked by the tumult of public revolutions.
 
+>> 8.1
+    Upon a supposition, 
+        therefore,
+    that,
+        in the opening of the cause,
+    the presumptions stand equally balanced between the parties,
+there seems sufficient ground to entitle any person to a fair hearing,
+    who attempts some other scheme beside the easy one 
+        which is fashionable in some fashionable companies,
+    to account for the present discontents.
+
+>> 8.2
+It is not to be argued
+    that we endure no grievance,
+    because our grievances are not of the same sort with those
+        under which we labored formerly;
+    not precisely those 
+        which we bore from the Tudors,
+        or vindicated on the Stuarts.
+
+>> 8.3
+A great change has taken place in the affairs of this country.
+
+>> 8.4
+    For in the silent lapse of events 
+as material alterations have been insensibly brought about in policy and
+charactrer of governments and nations,
+as those 
+    which have been marked by the tumult of public revolutions.
+
+===============================
 para. 9:
->> It is very rare indeed for men to be wrong in their feelings 
-       concerning public misconduct;
-   as rare to be right in their speculation upon the cause of it.
->> I have constantly observed,
-       that the generality of people are fifty years,
-           at least,
-       behindhand in their politics.
->> There are but very few
-       who are capable of comparing and digesting 
-           what passes before their eyes
-               at different times and occasions,
-       so as to form the whole into a distinct system.
->> But in books everything is settled for them,
-       without the exertion of any considerable diligence or sagacity.
->>     For which reason
-   men are wise with but little reflection,
-   and good with little self-denial,
-       in the business of all times except their own.
->> We are very uncorrupt and tolerably enlightened judges of the transactions of
-   past ages;
-       where no passions deceive,
-       and where the whole train of circumstances,
-           from the trifling cause to the tragical event,
-       is set in an orderly series before us.
->> Few are the partisans of departed tyranny;
-   and to be a Whig on the business of an hundred years ago,
-   is very consistent with every advantage of present servility.
->> This retrospective wisdom, and historical patriotism,
-   are things of wonderful convenience,
-   and serve admirably to reconcile the old quarrel between speculation and
-   practice.
->> Many stern republican,
-       after gorging himself with a full feast of admiration of the Grecian
-       commonwealth and of our true Saxon constitution,
-       and discharging all the splendid bile of his virtuous indignation on King
-       John and King James,
-   sits down perfectly satisfied to the coarsest work and homeliest job of the
-   day he lived in.
->> I believe there was no professed admirer of Henry the Eighth among the
-   instruments of the last King James;
-   nor in the court of Henry the Eighth was there,
-       I dare say,
-   to be found a single advocate for the favorites of Richard the Second.
+
+>> 9.1
+It is very rare indeed for men to be wrong in their feelings 
+    concerning public misconduct;
+as rare to be right in their speculation upon the cause of it.
+
+>> 9.2
+I have constantly observed,
+    that the generality of people are fifty years,
+        at least,
+    behindhand in their politics.
+
+>> 9.3
+There are but very few
+    who are capable of comparing and digesting 
+        what passes before their eyes
+            at different times and occasions,
+            so as to form the whole into a distinct system.
+
+>> 9.4
+But in books everything is settled for them,
+    without the exertion of any considerable diligence or sagacity.
+
+>> 9.5
+    For which reason
+men are wise with but little reflection,
+and good with little self-denial,
+    in the business of all times except their own.
+
+>> 9.6
+We are very uncorrupt and tolerably enlightened judges of the transactions of
+past ages;
+    where no passions deceive,
+    and where the whole train of circumstances,
+        from the trifling cause to the tragical event,
+    is set in an orderly series before us.
+
+>> 9.7
+Few are the partisans of departed tyranny;
+and to be a Whig on the business of an hundred years ago,
+    is very consistent with every advantage of present servility.
+
+>> 9.8
+This retrospective wisdom, and historical patriotism,
+are things of wonderful convenience,
+and serve admirably to reconcile the old quarrel between speculation and
+practice.
+
+>> 9.9
+Many stern republican,
+    after gorging himself with a full feast of admiration of the Grecian
+    commonwealth and of our true Saxon constitution,
+    and discharging all the splendid bile of his virtuous indignation on King
+    John and King James,
+sits down perfectly satisfied to the coarsest work and homeliest job of the
+day he lived in.
+
+>> 9.10
+I believe 
+    there was no professed admirer of Henry the Eighth among the
+    instruments of the last King James;
+nor in the court of Henry the Eighth was there,
+    I dare say,
+to be found a single advocate for the favorites of Richard the Second.
 
 
 
