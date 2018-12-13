@@ -1705,8 +1705,8 @@ implacable(a.)
 obliterate(v.)
 prostrate(a.)
 
-=======================================================================
-Macaulay, History of England, Macmillan 1913-1915, v.1, ch.III, pp.270-
+===========================================================================
+Macaulay, History of England, Macmillan 1913-1915, v.1, ch.III, pp.270-332
 ameliorate(v.)
 profuse(a.)
 conflagration(n.)
@@ -1942,3 +1942,10 @@ dour(a.)
 gallant(a.)
 suave(a.)
 bland(a.)
+
+=======================================================================
+Macaulay, History of England, Macmillan 1913-1915, v.1, ch.III, pp.332-
+grouse(n.)
+quay(n.)
+bark(n.)
+
