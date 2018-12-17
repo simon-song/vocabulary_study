@@ -1948,4 +1948,13 @@ Macaulay, History of England, Macmillan 1913-1915, v.1, ch.III, pp.332-
 grouse(n.)
 quay(n.)
 bark(n.)
+rafter(n.)
+reglae(v.)
+viand(n.)
+quail(n.)
+chaffer(v.)
+voluptuary
+milliner(n.)
+basset(n.)
+fiddle(n.)
 
