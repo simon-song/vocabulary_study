@@ -1,0 +1,199 @@
+======================================================================
+=  sentence analysis of Hooker's Of the Laws of Ecclesiastical Polity
+=
+=  lable: e.g. 2.1.3 means book II, section 1, sentence 3
+======================================================================
+
+==============
+Preface
+
+>> 0.1.1
+    Though for no other cause,
+    yet for this,
+that posterity may know 
+    we have not loosely through silence permited things to pass away 
+        as in a dream,
+there shall be for men's information extant thus much concerning the present
+state of the Church of God established amongsth us,
+and their careful endeavour 
+    which would upheld the same.
+
+>> 0.1.2
+At your hands,
+    beloved in our Lord and Saviour Jesus Christ,
+    (for in him the love we bear unto all 
+         that would but seem to be born of him,
+    it is not the sea of your gall and bitterness that shall ever drown,)
+I have no great cause to look for other than the selfsame portion and lot
+    which your manner hath been to lay on them
+        that concur not in opinion and sentence with you.
+
+>> 0.1.3
+But our hope is,
+    that the God of peace shall,
+        (notwithstanding man's nature too impatient of contumelious
+        malediction,)
+    enable us quietly even gladly to suffer all things,
+        for that work sake 
+            which we covet to perform.
+
+>> 0.1.4
+The wonderful zeal and fervour
+    wherewith ye have withstood the received order of this church,
+was the first thing 
+    which caused me to enter into consideration,
+    whether,
+        as all your published books and writings peremptorily maintain,
+    every Christian man,
+        fearing God,
+    stand bound to join with you for the furtherance of that
+        which ye term the Lord's discipline.
+
+>> 0.1.5
+Wherein I must plainly confess unto you,
+    that 
+        before I examined your sundry declaration in that behalf,
+    it could not settle in my head to think,
+        but that undoubtedly such number of otherwise right well-affected and 
+        most religiously inclined minds had some marvellous reasonable
+        inducements
+            which led them with so great earnestness that way.
+
+>> 0.1.6
+But when once,
+    as near as my slender ability would serve,
+I had with travail and care performed that part of the Apostle's advice and
+consul,
+    whereby he willeth to try all things,
+and was come at the length so far,
+    that there only remaineth the other clause to be satisfied,
+    wherein he concludeth 
+        what good is must be held;
+there was in my poor understanding no remedy, 
+but to set down this as my final resolution:
+    surely the present form of church-government,
+        which the laws of this land have established,
+    is such,
+        as no law of God, nor reason of man, hath hitherto been of force
+        sufficient to prove they do ill,
+        who to the uttermost of their power withstand the alteration thereof;
+    contrariwise, the other,
+        which 
+            instead of it we are required to accept,
+        is only by error and misconceit named the ordinance of Jesus Christ,
+        no one proof as yet brought forth,
+            whereby it may clearly appear to be so.
+    
+>> 0.1.7
+The explication of which two things
+     I have here thought good to offer into your own hands,
+     heartily beseeching you even by the meekness of Jesus Christ,
+         whom I trust ye love;
+     that,
+         as ye tender the peace and quietness of this church,
+             if there be in you that gracious humility 
+                 which hath ever been the crown and glory of a Christianly-
+                 disposed mind,
+             if your own souls, hearts, and consciences
+                 (the sound integrity whereof can but hardly stand with the
+                 refusal of truth in personal respects)
+             be,
+                 as I doubt not but they are,
+             things most dear and precious unto you:
+     let "not the faith 
+         which ye have in our Lord Jesus Christ"
+     be blemished "with partialities",
+     regard not who it is that speaketh, but weigh what is spoken.
+
+>> 0.1.8
+Think not 
+    that ye read the words of one
+        who bendeth himself as an adversary against the truth
+            which ye have already embraced;
+but the words of one
+    who desires even to embrace together with you the selfsame truth,
+        if it be the truth;
+and for that cause
+    (for no other, God he knoweth)
+hath undertaken the burdensome labour of this painful kind of conference.
+
+>> 0.1.9
+    For the plainer access thereunto,
+let it be lawful for me to rip up to the very bottom,
+    how and by whom this discipline was planted,
+    at such time as this age we live in began to make first trial thereof.
+
+>> 0.2.1
+A founder it had,
+    whom,
+        for mine own parts,
+     I think incomparably the wisest man
+        that ever the French church did enjoy,
+        since the hour it enjoyed him.
+
+>> 0.2.2
+His bringing up was in the study of the civil law.
+
+>> 0.2.3
+Divine knowledge he gathered,
+    not by hearing or reading so much,
+    as by teaching others.
+
+>> 0.2.4
+    For,
+        though thousands were debtors to him,
+            as touching knowledge in that kind;
+    yet he to none but only to God,
+        the author of that most blessed fountain, the Book of Life,
+        and the admirable dexterity of wit,
+    together with the helps of other learning 
+        which were his guides:
+    till being occasioned to leave France,
+he fell at the length upon Geneva;
+    which city the bishop and clegy had a little before
+        (as some do affirm)
+    forsaken,
+        being of likelihood frightened with the people's sudden attempt for
+        abolishment of popish religion:
+            the event of which enterprise 
+                they thought it not safe for themselves to wait for in that 
+                place.
+
+>> 0.2.5
+    At the coming of Calvin thither,
+the form of their civil regiment was popular,
+    as it continueth at this day:
+neithr king, nor duke, nor nobleman of any power or authority over them,
+but officers chosen by the people yearly out of themselves,
+    to order all things with public consent.
+
+>> 0.2.6
+    For spiritual government,
+they had no laws at all agreed upon,
+but did what the pastors of their souls by persuasion could win them unto.
+
+>> 0.2.7
+Calvin,
+    being admitted one of their preachers, and a divinity reader amongst them,
+considered how dangerous it was
+    that the whole estate of that church should hang still on so slender a 
+    thread
+        as the liking of an ignorant multitude is,
+        if it have the power to change whatsoever itself listeth.
+
+>> 0.2.8
+Wherefore
+    taking unto him two of the other ministers for more countenance of the 
+    action,
+    (albeit the rest were all against it,)
+they moved,
+and in the end persuaded 
+    with much ado,
+the people to bind themselves by solemn oath,
+    first never to admit the Papacy amongst them again;
+    and secondly,
+        to live in obedience unto such orders
+            concerning the exercise of their religion and the form of their 
+            ecclesiastical government,
+        as those their true and faithful ministers of God's word had agreeably 
+        to scripture set down for that end and purpose.
