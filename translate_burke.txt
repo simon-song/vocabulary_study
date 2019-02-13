@@ -1,6 +1,9 @@
-============================
-Burke: Italiano -> English
-Scritti Politici di Edmund Burke, a cura di Anna Martelloni, p.152
+====================================================================
+          Burke: Italiano -> English
+
+Italian translation taken from
+  Scritti Politici di Edmund Burke, a cura di Anna Martelloni, p.152
+====================================================================
 
 para 1.1: my attempt
 Sir, you are pleased to call again, and with some earnestness, for my opinions
