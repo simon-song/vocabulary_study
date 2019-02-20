@@ -899,5 +899,11 @@ St. Paul's rule therefore generally is:
     "Let every man in his own heart be fully conviced of that thing
          which he either alloweth or doth."
 
+>> 0.3.9
+Some things are so familiar and plain,
+    that truth from falsehood, and good from evil, is most easily discerned in
+    them,
+        even by men of no deep capacity.
+
 
 
