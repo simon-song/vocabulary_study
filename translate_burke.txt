@@ -395,5 +395,38 @@ serious consequence.
 
 ======================
 1st attempt:
-It seems that your assembly has almost the same opinion as mine concerning this
-poor charitable club.
+It seems that your National Assembly has almost the same opinion as mine 
+concerning this poor charitable club.
+
+2nd attempt:
+Your National Assembly seems to entertain much the same opinion conerning
+this poor charitable club.
+
+3rd attempt:
+Your National Assembly seems to entertain much the same opinion that I do of
+this poor charitable club.
+
+======================
+1st attempt:
+As a country, you have reserved your more eloquent thanks towards the 
+Revolution Society, although in equity, some members of the Constitutional 
+Society deserved a share.
+
+2nd attempt:
+As a nation, you reserved the more eloquent thanks for the Revolution Society,
+when members of the Constitutional Society in equity deserved some share.
+
+3rd attempt:
+As a nation, you reserved a great part of your eloquent acknowledgements for the
+Revolution Society, when their associates in the Constitutional Society in
+equity deserved some share.
+
+4th attempt:
+As a nation, you reserved the whole stock of your eloquent acknowledgements for
+the Revolution Society, when their fellows in the Constitutional in equity were
+entitled with some share.
+
+5th attempt:
+As a nation, you reserved the whole stock of your eloquent acknowledgements for
+the Revolution Society, when their fellows in the Constitutional were in equity
+entitled to some share.
