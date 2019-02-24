@@ -3,6 +3,10 @@
 
 Italian translation taken from
   Scritti Politici di Edmund Burke, a cura di Anna Martelloni, p.152
+
+French translation (1823) par J.-A. A***
+
+Chinese translation by 何兆武
 ====================================================================
 
 para 1.1: my attempt
@@ -501,3 +505,92 @@ In fact, up until now I do not remember ever have heard about this club, and I
 can assure you that it had never for once crossed my mind, nor, I believe, the
 minds of any one out of their own circle.
 
+2nd attempt:
+Up till the present time I do not recollect to have heard of this club. I can
+assure you that it had never for a moment occupied my thoughts, -- nor, as I
+believe, the thoughts of any person out of their own set.
+
+3rd attempt:
+Till very lately I do not recollect to have heard of this society. I am sure it
+had not occupied a moment of my thoughts, -- nor, as I believe, those of any
+person out of their own set.
+
+4th attempt:
+Till very lately I do not recollect to have heard of this club. I am quite sure
+it never occupied a moment of my thoughts, -- nor, as I believe, those of any
+person out of their own set.
+
+5th attempt:
+Until very lately I do not recollect to have heard of this club. I am quite sure
+that it never occupied a moment of my thoughts, -- nor, I believe, those of any
+person out of their own set.
+
+=================
+1st attempt:
+
+What I was able to discover was that for a long time a group of dissenters, of
+what confession I know not, has the habit of gathering at one of their chapels
+every year at the aniversary of the Revolution in 1688 to hear one sermon, after 
+which the members would spend the morning joyfully at the tavern, like other
+clubs did.
+
+2nd attempt:
+I find, upon inquiry, that every year at the anniversary of the Revolution of
+1688, a group of dissenters, of what denomination I know long, has long had the
+custom of hearing a sermon in their own church, and afterwards would spend the
+day cheerfully, like other clubs did, at the tavern.
+
+3rd attempt:
+I find, upon inquiry, on the anniversary of the Revolution in 1688, a club of
+dissenters, of what denomination I know not, have long had the custom of hearing
+a sermon in one of their churches, and that afterwards they spent the day
+cheerfully, as other clubs did, at the tavern.
+
+4th attempt:
+I find, upon inquiry, that, on the anniversary of the Revolution in 1688, a club
+of dissenters, but of what denomination I know not, have long had the custom of
+hearing a sermon in one of their churches, and that afterwards they spend the
+day cheerfully, as other clubs do, at the tavern.
+
+==================
+1st attempt:
+But I have never heard of anything speaking that on these celebrations anything has
+been formally discussed about public issues or political systems, and even less the merit
+of the constitution of a foreign country; till at last, with my inexpressible
+surprise, I see them, almost in a public mandate, give authorative sanction to
+the acts of the National Assembly of France through the remission of a
+resolution of praise.
+
+2nd attempt:
+But I never heard of anything of public measure or political system, much less
+the merits of the constitution of a foreign nation, being a formal proceeding in
+any of their festivals; until, to my inexpressible surprise, I see them under a
+sort of public account, through an address of congratulation, giving an
+authorative sanction to the acts of the National Assembly of France.
+
+3rd attempt:
+But I never heard that anything of public measure or political system, much less 
+the merits of the constitution of a foreign nation, had ever been a subject of
+formal proceeding at their festivals; until, to my inexpressible surprise, I
+found them in a sort of public capacity, in a congratulatory address, giving an
+authoritative sanction to the proceedings of the National Assembly of France.
+
+4th attempt:
+But I never heard that any public measure or political system, much less that
+the merits of the constitution of any foreign nation, had been a subject of
+a formal proceeding at their festivals, until, to my inexpressible surprise, I
+found them in a sort of public capacity, by a congratulatory address, giving an
+authoritative sanction to the proceedings of the National Assembly of France.
+
+=================
+1st attempt:
+In the ancient principles and conducts of this club, at least those that are
+public, I see not anything to reprove. 
+
+2nd attempt:
+In the ancient principles and conduct of the club, at least those that are
+publicly declared, I see nothing to which I could take exception.
+
+3rd attempt:
+In the ancient principles and conduct of the club, so far at least as they were
+declared, I see nothing to which I could take exception.
