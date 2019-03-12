@@ -4458,11 +4458,246 @@ extremity had been relievers of it.
 Hooker's text:
 Thirdly, whereas it is the error of the common multitude to consider only what
 hath been of old, and if the same were well, to see whether still it continue;
-if not, to condemn that prepsently which is, and never to search upon what 
+if not, to condemn that presently which is, and never to search upon what 
 ground or consideration the change might grow: such rudeness cannot be in you so 
 well borne with, whom learning and judgment hath enabled much more soundly to 
 discern how far the times of the Church and the orders thereof may alter without
 offence.
 
 error multitude only old, learning discern far
+
+Thirdly, whereas it is the error of the common multitude to consider only what
+hath been of old, and if the same were well, to see whether still it continue;
+if not, to condemn that presently which is, and never to search upon what ground
+and or consideration the change might grow: such rudeness cannot be in you so
+well borne with, whom learning and judgment hath enabled much more soundly to
+discern how far the times of the Church and the orders thereof may alter without
+offence.
+
+my attempt:
+Thirdly, whereas it is an error of the common multitude to consider only what
+
+hath been of old, and if it were well, to see whether still it continue; if not,
+
+to condemn that presently which is, and never to search upon what ground or
+
+consideration the situation might depend: such rudeness should not be in you so
+                  [changes might grow]                  [cannot]
+
+well borne with, whom learning and judgment had equipped to discern how far
+                                            [hath enabled much more soundly]
+
+forth the discipline can go back without offence.
+[the times of the Church and the orders thereof] [may alter]
+
+keywords: changes, enabled, soundly, times, orders
+
+my attempt:
+Thirdly, whereas it is the error of the common multitude to consider only what
+
+hath been of old, and if the same were well, to see whether still it continue;
+
+if not, to condemn that presently which is, rather than ponder upon what ground
+                                                        [search]
+
+or consideration the changes may take[?]: such rudeness cannot be in you so well
+                             [might grow]
+
+borne with, whom learning and judgment hath enabled much more soundly to discern
+
+how far the times of the Church and the orders thereof may alter without
+
+offence. 
+
+Thirdly, whereas it is an error of the common multitude to consider only that
+                       [the]                                             [what]
+
+hath been of old, and if it were well, to see whether still it continue; if not,
+                         [the same]
+
+to condemn that presently which is, and not to search upon what ground or
+                                        [never]
+
+consideration the changes might grow: this rudeness cannot be in you so well
+                  [change] 
+
+borne with, whom learning and judgment hath enabled much more soundly to discern
+
+how far the times of the Church and the orders thereof may go without offence.
+                                                           [alter]
+
+==================
+Hooker's text:
+True it is, the ancienter, the better ceremonies of religion are; howbeit, not
+absolutely true and without exception: but true only so far forth as those
+different ages do agree in the state of those things, for which at the first
+those rites, orders, and ceremonies, were institued.
+
+paraphrase:
+It is true that the ancienter the better ceremonies of religion are; however,
+this is not absolutely true and without exception; it is true only if those
+different ages do agree in the state for which those rites, orders, and
+ceremonies were first institued.
+
+state of things:
+OED 5.a. the way in which events or circumstances stand disposed (at a
+particular time or within a particular sphere)
+
+True it is, the ancienter, the better ceremonies of religion are; howbeit, not
+absolutely true and without exception: but true only so far forth as those
+different ages do agree on the state of those things, for which at the first
+those rites, orders, and ceremonies were instituted.
+
+1st attempt:
+True it is, the ancienter, the better ceremonies of religion are; but not
+                                                                  [howbeit],
+
+absolutely and without exception: but is true so far forth as those ages do agree
+                                      [true only]                  ^different
+
+on the state of those things, for which at the first those rites, orders, and 
+[in] 
+
+ceremonies were instituted.
+          [,]
+
+2nd attempt:
+True it is, the ancienter, the better ceremonies of religion are; howbeit, not
+absolutely true and without exception: but true so far forth as those different
+                                               ^only
+
+ages do agree in the state of those things, for which at the first those rites,
+orders, and ceremonies, were instituted.
+
+================
+Hooker's text:
+In the Apostles' times that was harmless, which being now revived would be
+scandalous; as their oscula sancta. Those feasts of charity, which being
+instituted by the Apostles, were retained in the Church long after, are not now
+thought any where needful.
+
+In the Apostles' times that was harmless, which being now revived would be
+scandalous; as their oscula sancta. Those feasts of charity, which being
+instituted by the Apostles, were retained in the Church long after, are not now
+thought any where needful.
+
+my 1st attempt:
+In the Apostles' time that was harmless, which being now revived would be
+
+scandalous; as their oscula sancta. Their feasts of charity, which being
+                                    [Those]
+
+instituted by the Apostles, were kept long after in the Church, are 
+                                 [retained in the Church long after]
+
+now not thought any where needful.
+[not now]
+
+2nd attempt:
+In the Apostles' times that was necessary, which being now revived would be
+                                [harmless]
+
+scandalous; as their oscula sancta. Those feasts of charity, which being
+instituted by the Apostles, were retained in the Church long after, are not now
+thought any where needful.
+
+====================
+Hooker's text:
+What man is there of understanding, unto whom it is not manifest how the way of
+providing for the clergy by tithes, the device of almshouses for the poor, the
+sorting out of the people into their several parishes, together with sundry
+other things which the Apostles' times could not have, (being now established,)
+are much more convenient and fit for the Church of Christ, than if the same
+should be taken away for conformity's sake with the ancientest and first times?
+
+structural analysis:
+What man is there [of sth], unto whom it is not [adj] how the way of [sth],
+the [sth] of [sth], ..., together with [adj] [adj] things [which ...], are
+much more [adj] and [adj] for [sth] than if [...]?
+
+my 1st attempt (using analysis):
+What man is there of understanding, unto whom it is not manifest how the way of
+providing for the clergy by thithes, the device of almshouses for the poor,
+the sorting out of the people into their several parishes, together with sundry
+other things which the Apostles' times could not have, (being now established,)
+are much more convenient and fit for the Church of Christ, than if the same
+should be taken away for conformity's sake with the ancientest and first times?
+
+2nd attempt (this time without consulting any thing):
+What man is there of understanding, unto whom it is not manifest how the way of
+providing for the clergy by tithes, the device of almshouses for the poor, the
+sorting out of the people by their several parishes, together with sundry other
+things which the Apostles' times could not have, (being now established,) are
+much more convenient and fit than if the same should be taken away for
+                            ^[for the Church of Christ,]
+
+conformity's sake with the ancientest and first times?
+
+====================
+Hooker's text:
+The orders therefore, which were observed in the Apostles' times, are not to be
+urged as a rule universally either suffient or necessary. If they be,
+nevertheless on your part it still remaineth to be better proved, that the form
+of discipline, which ye entitle apostolical, was in the Apostles' times
+exercised.
+
+analysis:
+The [sth] therefore, which were [pp] in [...], are not to be [pp] as a [sth]
+[adv] either [adj] or [adj]. If they [v], nevertheless [...] it still [v] to be
+[adv] [pp], that [sth] of [sth], which [sb] [v.] [adj], was in [...] [pp].
+
+1st attempt using analysis:
+The orders therefore, which were in the Apostles' times oberserved, are not to
+                                 [observed in the Apostles' times]
+
+be urged as a rule universally either suffient or necessary. If they be,
+nevertheless on your part it still remaineth to be better proved, that the form
+
+of discipline, which ye entitle apostolic, was in the Apostles' times exercised.
+                                [apostolical]
+
+2nd attempt (consulting nothing):
+The orders therefore, which were observed in the Apostles' times, are not to be
+
+urged in a way universally either sufficient or necessary. If they be,
+      [as a rule]
+
+nevertheless on your part it still remaineth to be better proved, that the form
+of discipline, which ye entitle apostolical, was in the Apostles' times
+exercised.
+
+====================
+Hooker's text:
+For of this very thing ye fail even touching that which ye make most account of,
+as being matter of substance in discipline, I mean the power of your lay-elders,
+and the difference of your Doctors from the Pastors in all churches.
+
+analysis:
+For of [pron] [adj] [n] [sb] [v] even [p.pres] that which [sb] [v] most [sth]
+[prep], as [p.pres] [sth] in [sth], I [v] the [sth] of your [sb], and the [sth]
+of your [sb] from [sb] in [sth].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
