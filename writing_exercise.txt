@@ -4677,6 +4677,127 @@ For of [pron] [adj] [n] [sb] [v] even [p.pres] that which [sb] [v] most [sth]
 [prep], as [p.pres] [sth] in [sth], I [v] the [sth] of your [sb], and the [sth]
 of your [sb] from [sb] in [sth].
 
+===========================
+transcription from memory:
+Thirdly, whereas it is the error of the common multitude to consider only what
+hath been of old, and if the same were well, to see whether still it continue;
+if not, to condemn that presently which is, and never to search upon the ground
+or consideration the change might grow: such rudeness cannot be in you so well
+borne with, whom learning and judgment hath enabled much more soundly to discern 
+how far the times of the Church and the oreders thereof may alter without
+offence.
+True it is, the ancienter, the better ceremonies of religion are; but not
+absolutely tree and without exception: it is true so far forth as those ages do
+agree ...
+
+================
+Hooker's text:
+True it is, the ancienter, the better ceremonies of religion are; howbeit, not
+absolutely true and without exception: but true only so far forth as those
+different ages do agree in the state of things, for which at the first those
+rites, orders and ceremonies, were instituted.
+
+analysis:
+[adj] it is, the [adj], the [adj] [sth] are; [adv], not [adv] [adj] and without
+[n]: but [adj] [adv] [...] as [sth] do [v] [prep] [sth], [prep] [pron] [...]
+those [sth], [sth], and [sth], [v] [pp].
+
+1st attempt:
+True it is, the ancienter, the better ceremonies of religion are; howbeit, not
+absolutely true and without exception: but true only so far forth as those
+different ages do agree in the state of things, for which at the first those
+rites, orders, and ceremonies, were instituted.
+
+2nd attempt:
+True it is, the ancienter, the better ceremonies of religion are; howbeit, not
+absolutely true and without exception, but true only so far forth as those
+                                     [:]
+
+different ages do agree in the state of things, when at the first those rites, 
+                                       ^[those] [for which]
+
+orders, and ceremonies, were instituted.
+
+===================
+Hooker's text:
+In the Apostles' times that was harmless, which being now revived would be
+scandalous; as their oscula sancta. Those feasts of charity, which being
+instituted by the Apostles, were retained in the Church long after, are not now
+thought any where needful.
+
+analysis:
+In [st] that was [adj], which [p.pres] [adv] [pp] would be [adj]; as their
+[sth]. Those [sth], which [p.pres] [pp] by [sb], were [pp] in [sth] [adv], are
+not [adv] [pp] [adv] [adj].
+
+1st attempt:
+In the Apostles' times that was harmless, which being now revived would be
+scandalous; as their oscula sancta. Those feasts of charity, which being
+instituted by the Apostles, were retained in the Church long after, are not now
+thought any where needful.
+
+2nd attempt:
+In the Apostles' times that was harmless, which being now revived would be
+scandalous; as their oscula sancta. Those feasts of charity, which being
+instituted by the Apostles, were retained in the Church long after, are not now
+thought any where needful.
+
+================
+Hooker's text:
+What man is there of understanding, unto whom it is not manifest how the way of
+providing for the clegy by tithes, the device of almshouses for the poor, the
+sorting out of the people into their several parishes, together with sundry
+other things which the Apostles' times could not have, (being now established,)
+are much more convenient and fit for the Church of Christ, than if the same
+should be taken away for conformity's sake with the ancientest and first times?
+
+analysis:
+What [sb] is there of [sth], [prep] [pron] it is not [adj] how [sth] of [p.pres]
+for [sb] by [sth], the [sth] of [sth] for [sb], the [p.pres] of [sb] into [sth],
+together with [sth] which [sth] could not have, (being now [pp]) are much more
+[adj] and [adj] for [sth], than if [sth] should be [pp] for [sth] [prep] the
+[adj] and [adj] [sth]?
+
+1st attempt:
+What man is there of understanding, unto whom it is not manifest how the form of
+                                                                         [way]
+
+providing for the clergy by tithes, the form of almshouses for the poor, the
+                                        [device] 
+
+sorting out of the people into their several parishes, together with sundry
+other things which the Apostles' times could not have, (being now established,)
+are much more convenient and fit for the Church of Christ, than if the same
+should be taken away for conformity's sake with the ancientest and first times?
+
+2nd attempt:
+What man is there of understanding, unto whom it is not manifest how the way of
+providing for the clergy by tithes, the device of almshouses for the poor, the
+sorting out of the people into their several parishes, together with sundry
+other things which the Apostles' times could not have, (being now established,)
+are much more convenient and fit for the Church of Christ, than if the same 
+should be taken away for conformity'sake with the ancientest and first times?
+
+================
+Hooker's text:
+The orders therefore, which were observed in the Apostles' times, are not to be
+urged as a rule universally either sufficient or necessary. If they be,
+nevertheless on your part it still remaineth to be better proved, that the form
+of discipline, which ye entitle apostolical, was in the Apostles' times
+exercised.
+
+analysis:
+The [sth] therefore, [pron] were [p.p] in [stime], [v] not to be [p.p] [...]
+[adv] either [adj] or [adj]. If they [v.], [adv] [adv.p] it still [v.] to be
+[adv] [p.p], that [sth] of [sth], which [sb] [v.] [adj], [v] [stime] [p.p].
+
+1st attempt:
+
+
+
+
+
+
 
 
 
