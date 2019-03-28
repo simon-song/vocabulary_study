@@ -4792,9 +4792,124 @@ The [sth] therefore, [pron] were [p.p] in [stime], [v] not to be [p.p] [...]
 [adv] [p.p], that [sth] of [sth], which [sb] [v.] [adj], [v] [stime] [p.p].
 
 1st attempt:
+The orders therefore, which were observed in the Apostles' times, are not to be
+urged as a rule universally either sufficient or necessary. If they be,
+nevertheless on your part it still remaineth to be better proved, that the form
+of discipline, which ye entitle apostolical, was in the Apostles' times
+exercised.
+
+2nd attempt:
+The orders therefore, which were observed in the Apostles' times, are not to be
+
+recommended universally either sufficient or necessary.
+[urged]    ^[as a rule]
+
+If they be, nevertheless for your part it still remaineth to be better proved,
+                         [on]
+
+that the form of discipline, which ye entitle apostolical, was in the Apostles'
+
+times exercised.
+
+3rd attempt:
+The orders therefore, which were observed in the Apostles' times, are not to be
+urged as a rule universally either sufficient or necessary. 
+If they be, nevertheless on your part it still remaineth to be better proved,
+that the form of discipline, which ye entitle apostolical, was in the Apostles'
+times exercised.
+
+===============
+Hooker's text:
+For of this very thing ye fail even touching that which ye make most account of,
+as being matter of substance in discipline, I mean the power of your lay-elders,
+and the difference of your Doctors from the Pastors in all churches.
+
+analysis:
+[prep] of this very [n] ye [v.] [adv] [p.pres] that which ye [v.] most [n.]
+[prep], as being [sth] of [sth] in [sth], I [v.] the [sth] of your [sb], and the
+[sth] of your [sb] from the [sb] in all [sth].
+
+1st attempt:
+For of this very thing ye fail even mentioning that which ye make most ... of,
+                                    [touching]                        [account]
+
+as being matter of essence in discipline, I mean the power of your lay-elders, 
+                   [substance] 
+
+and the differences of your Doctors from the Pastors in all churches.
+
+2nd attempt:
+For of this very thing ye fail even touching that which ye make most account of,
+
+I mean the power of your lay-elders, and the differences of your Doctors from
+^[as being matter of substance in discipline]
+
+the Pastors of all churches.
 
 
+3rd attempt:
+For of this very thing ye fail even touching that which ye make most account of,
+as being matter of substance in discipline, I mean the power of your lay-elders,
+and the differences of your Doctors from the Pastors in all churches.
 
+==================
+Hooker's text:
+So that in sum, we may be bold to conclude, that besides these last times, which
+for solency, pride, and egregious contempt of all good order, are the worst,
+there are none wherein ye can truly affirm, that the complete form of your
+discipline, or the substance thereof, was practised.
+
+analysis:
+[adv.phr.] in [n.], we may be [adj] to [v], that [prep] these [stime], which
+[prep] [sth], [sth], and [adj] [sth] of all [adj] [sth], are the [adj], there
+are [n] [pron] ye can [adv] [v], that the [adj] [sth] of your [sth], or the
+[sth] [prep], [v] [pp].
+
+1st attempt:
+So that in sum, we may be bold to conclude, that before these last times, which
+                                                 [besides]
+
+for insolency, ... , and egregious contempt of all good orders, are the worst,
+               [pride]                                  [order]
+
+there are ...  wherein ye can truly affirm, that the very form of your
+          [none]                                     [complete]
+
+discipline, or the substance thereof, was practised.
+
+analysis:
+[adv.phr.] in [n.], [sb] [v] [v] [adj] to [v], that [prep] these [stime], [pron]
+[prep] [sth], [sth], and [adj] [sth] of all [adj] [sth], [v] the [adj], [pron]
+[v] [n] [pron] [sb] [v] [adv] [v], [pron] the [adj] [sth] of your [sth], or the
+[sth] [prep], [v] [pp].
+
+2nd attempt:
+So that in sum, we may be bold to conclude, that besides these last times, which
+for insolency, pride, and egregious contempt of all good order, are the worst,
+there are none wherein ye can truly affirm, that the complete form of your
+discipline, or the substance thereof, was practised.
+
+[adv.phr.] in [n.], [sb] [v] [v] [adj] to [v], that [prep] these [stime], [pron]
+[prep] [sth], [sth], and [adj] [sth] of all [adj] [sth], [v] the [adj], [pron]
+[v] [n] [pron] [sb] [v] [adv] [v], [pron] the [adj] [sth] of your [sth], or the
+[sth] [prep], [v] [pp].
+
+3rd attempt:
+So that in sum, we may be bold to conclude, that besides these last times, which
+for insolency, pride, and egregious contempt of all good order, are the worst,
+there are none which ye are ... affirm, that the exact form of your discipline,
+               [wherein] [can truly]             [complete]
+
+or the substance thereof, are practised.
+                          [was]
+
+4th attempt:
+So that in sum, we may be bold to conclude, that besides these last times, which
+for insolency, pride, and egregious contempt of all good order, are the worst,
+there was none wherein ye can truly affirm, that the complete form of your
+      [are]
+
+discipline, or the substance thereof, was practised.
 
 
 

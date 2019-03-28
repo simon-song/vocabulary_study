@@ -69,7 +69,7 @@ p. [2] para. 2:
 ===============================
 ==  precis of p. [2] para. 2:
 ===============================
-I had the honour to belong to several clubs which treasures our Constitution and
+I had the honour to belong to several clubs which treasure our Constitution and
 the principles of the Glorious Revolution (in 1688), but I am not, and have
 never been, a member of either of the afore said societies. Before I proceed to
 other things, let me first give you some information about these two clubs.
@@ -142,7 +142,7 @@ purpose; often in unfavourable sense, implying deceit or trickery.
     about public issues of this club.
 
 ================================
-==  precis of p. [4] para. 1:
+==  precis of p. [5] para. 1:
 ================================
 This strange proceeding may be done by members who joined the club to advance
 their own purposes. In spite of this, I will from now on only talk about public
@@ -165,7 +165,7 @@ with; to have to do with; to have a part or share in; to be engaged in, with.
 ================================
 Although I have speculated in private on the policies of ancient and modern 
 nations, I think it improper and irregular to open a formal public
-coorespondence with a foreign government.
+coorespondence with a foreign government (as a private citizen).
 
 ================
 p. [6] para. 1:
@@ -226,6 +226,9 @@ its distinguishing color and discriminating effect.
 
 ================
 p. [8] para. 1:
+
+principle(n.):
+OED I. Origin, source; source of action.
 
 Considerations before making judgment on liberty:
 
@@ -288,10 +291,9 @@ to use the epistolary form. I will start with the affairs concerning the
 Revolution Society, but will move on to the French Revolution itself, which is
 the most astonishing event ever happened in the world. 
 
-
-================
-p. [12] para. 1:
-
+================================
+==  precis of p. [12] para. 1:
+================================
 Some other people treated the French Revolution with exultation and rapture.
 
 ================
@@ -300,9 +302,23 @@ p. [12] para. 2:
 The resolution of the Revolution Society to the National Assembly originated
 from a sermon by Dr. Richard Price given on Nov. 4th last year.
 
-================
-p. [13] para. 1:
-TODO
+================================
+==  precis of p. [12] para. 2:
+================================
+On November 4th last year, Dr. Richard Price, a famous non-conforming minister, 
+preached a miscellaneous sermon, whereof the central topic was the Revolution in
+France. This I believe was the origin of the resolution of the Revolution
+Society transmitted to the National Assembly of France.
+
+================================
+==  precis of p. [13] para. 1:
+================================
+In my opinion, this sermon is the public declaration of a well-connected
+nonconformist.
+
+philippize:
+OED To favor, or take the side of,Philip of Macedon; also gen. to speak or write
+as one is corruptly 'inspired' or influenced.
 
 ================
 p. [13] para. 2:
@@ -314,3 +330,14 @@ p. [13] para. 2:
 strain:
 OED 9.b. A kind, class, or grade (of things). Obs.
 
+================================
+==  precis of p. [13] para. 2:
+================================
+Dr. Price's sermon was in a pulpit style no longer used in this country and
+showed little moderation. Even if it did, a church is the place for charity
+and should not be used for preaching political agendas.
+
+================
+p. [14] para. 1:
+
+(1) Dr. Price advised non-conformists to set up their own churches.
