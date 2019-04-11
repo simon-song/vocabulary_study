@@ -96,10 +96,14 @@ the proceedings of the club.
 
 ================
 p. [4] para. 1:
+
+equity:
+OED I.1: The quality of being equal or fair; fairness, impartiality; evenhanded
+dealing.
+
 (1) The National Assembly (of France) has reserved their attention to the second
     club: the Revolution Society.
-(2) Some members of the Revolution Society also belong to the Constitutional
-    Society.
+(2) The Constitutional Society deserves some credit from the National Assembly.
 (3) This club was adopted by the National Assemby, and they returned the favor
     by acting as a committe in England for extending the principles of the
     National Assembly.
@@ -136,7 +140,7 @@ purpose; often in unfavourable sense, implying deceit or trickery.
 
 (1) I do not object the ancient principles and conduct of the club.
 (2) It is probable that some new members have joined the club for some purpose; 
-    and some Christian politians may have with contrivance used these 
+    and some Christian politicians may have with contrivance used these 
     principles for their own purposes.
 (3) Though I suspect that there is much private manoeuvre, I will only speak
     about public issues of this club.
@@ -144,9 +148,13 @@ purpose; often in unfavourable sense, implying deceit or trickery.
 ================================
 ==  precis of p. [5] para. 1:
 ================================
-This strange proceeding may be done by members who joined the club to advance
-their own purposes. In spite of this, I will from now on only talk about public
-issues of the club.
+//This strange proceeding may be done by members who joined the club to advance
+//their own purposes. In spite of this, I will from now on only talk about public
+//issues of the club.
+I have no problem with the ancient principles of the club. It is probable some
+new members were used by certain Christian politicians to advance their own
+agenda. In spite of this, I will from now on only speak of the public dealings
+of the club.
 
 ================
 p. [5] para. 2:
@@ -180,7 +188,7 @@ or a fact recorded; a formal writing of any kind, as an agreement, deed,
 charter, or record, drawn up and executed in technical form, so a to be of legal
 validity.
 
-(1) I should be more unwilling to enter into correspondence which would trick
+(1) I should be more unwilling to enter into a correspondence which would trick
     others to think that it is from an official source.
 (2) The house of commons would reject all kinds of ambiguous petitions which 
     your National Assembly had accepted from this society.
@@ -196,8 +204,9 @@ validity.
 ================================
 ==  precis of p. [6] para. 1:
 ================================
-I should be more unwilling to enter into correspondence under an equivocal
-description. This kind of petitions will be firmly rejected by the House of
+I should be more unwilling to enter into a correspondence under an equivocal
+description which might trick others to think that it comes from an official
+source. This kind of petitions will be firmly rejected by the House of
 Commons, but in this case it had been accepted with open arms by your National
 Assembly. Since the declaration from this society is done by vote and 
 resolution, the signatures of all their participants should be annexed, so that 
@@ -222,7 +231,10 @@ p. [7] para. 1:
 Although I love a manly, moral, regulated liberty, I do not envy the liberty in
 other nations. I cannot give judgment to human actions and concerns based only
 on the abstract view. Circumstances give in reality to every political principle
-its distinguishing color and discriminating effect.
+its distinguishing color and discriminating effect. Abstractedlly speaking,
+government and liberty is good, but I could not really congratulate France for
+her government ten years ago or her liberty now, without carefully the
+circumstances then and now.
 
 ================
 p. [8] para. 1:
@@ -256,6 +268,9 @@ power.
 
 ================
 p. [10] para. 1:
+
+apprehension:
+OED 12. Fear as to what may happen; dread.
 
 (1) I got the publication of the Revolution Society with Dr. Price's sermon and
     several other documents annexed.
@@ -299,6 +314,10 @@ Some other people treated the French Revolution with exultation and rapture.
 ================
 p. [12] para. 2:
 
+reek:
+OED 2.b, To emit hot vapour or steam; to smoke with heat; to exhale vapour (or
+fog). Of persons and animals in a heated and perspiring state.
+
 The resolution of the Revolution Society to the National Assembly originated
 from a sermon by Dr. Richard Price given on Nov. 4th last year.
 
@@ -340,4 +359,76 @@ and should not be used for preaching political agendas.
 ================
 p. [14] para. 1:
 
-(1) Dr. Price advised non-conformists to set up their own churches.
+hortus siccus
+garden dry
+
+polemic:
+OED A. Of or pertaining to controversy; controversial, disputatious.
+
+(1) Dr. Price's pulpit style showed a dangerous novelty.
+(2) Dr. Price advised non-conformists to set up their own churches.
+(3) This is strange as Dr. Price does not seem to care about what doctrine is
+preached in those new churches.
+(4) It is unlikely such a system will produce any religion rational and manly.
+
+================================
+==  precis of p. [14] para. 1:
+================================
+This new pulpit style of Dr. Price's shows a dangerous novelty. Dr. Price advised 
+the non-conformists to set up their own churches, but he did not seem to care 
+what doctrine should be preached in them. In my opinion, it is unlikely such a
+system will produced the religion rational and manly as Dr. Price had claimed.
+
+================
+p. [16] para. 1:
+
+Utinam   nugis        tota illa dedisset tempora saevitiae:
+if only! (to) trifles all       give up  time    (of) violence 
+
+fulminating,
+OED 2. fig. That thunders or hurls forth censures, denunciations, or the like;
+also, that is thundered forth.
+
+innoxious
+OED 1. Not noxious or hurtful; harmless, innocuous.
+
+(1) Dr. Price proclaimed (in his sermon) that George III is the only lawful 
+king in the world, because he is the only one who owes his crown to the 
+choice of the people.
+(2) It is important for us to consider seriously the validity of these
+propositions.
+
+================================
+==  precis of p. [16] para. 1:
+================================
+Dr. Price proclaimed (in his sermon) that George III is the only lawful 
+king in the world, because he is the only one who owes his crown to the 
+choice of the people. It is thus important for us to consider seriously 
+the validity of these propositions.
+
+================
+p. [17] para. 1:
+
+Condo     et compono     quae mox  depromere passim.
+(I) amass    (I) arrange so   soon to fetch  every where
+
+policy:
+OED I.3. Political sagacity; prudence, skill, or consideration of expediency in
+the conduct of public affairs; statecraft, diplomacy; in bad sense, political
+cunning.
+
+security:
+OED I.2. Freedom from doubt; confidence, assurance. Now chiefly, well-founded
+confidence, certainty.
+
+(1) This doctrine, as applied to the present king of Britain, is either
+nonsense, or unfounded, dangerous, illegal, and unconstitutional.
+(2) The king of Britain does not owe his crown to any form of popular election.
+(3) Dr. Price hopes to propogate his doctrine without affecting the English
+king.
+
+
+================================
+==  precis of p. [17] para. 1:
+================================
+
