@@ -309,11 +309,12 @@ them).
 
 ==============================
 Cicero, Pro Milone
+Sentence numbering follows that of Persuasive Language in Cicero's Pro Milone.
 
-Etsi    vereor,          iudices, ne turpe          sit       
-though  (I) am afraid                disgraceful    is
-        pres.pass.1.sg.              adj.nom.n.sg.  pres.subj.3.sg
-                                                    sum
+1.1 Etsi    vereor,          iudices, ne turpe          sit       
+    though  (I) am afraid                disgraceful    is
+            pres.pass.1.sg.              adj.nom.n.sg.  pres.subj.3.sg
+                                                        sum
 
 pro  fortissimo viro       dicere    incipientem       timere, 
                 man        to speak  begining          to fear 
@@ -360,10 +361,10 @@ pristine                of court   search in vain
 adj.acc.m.sg. acc.ms.g. gen.n.pl.  pres.3.pl.
 pristinus     mos       iudicium   requiro
 
-1. Non enim corona               consessus vester        cinctus            est, 
-       for  circle of bystanders assembly  your          surrounded         is
-            abl.f.sg.            nom.m.sg. adj.nom.m.sg. perf.p.p.nom.m.sg. pres.3.sg.
-            corona               consessus               cingo              sum
+1.2 Non enim corona               consessus vester        cinctus            est, 
+        for  circle of bystanders assembly  your          surrounded         is
+             abl.f.sg.            nom.m.sg. adj.nom.m.sg. perf.p.p.nom.m.sg. pres.3.sg.
+             corona               consessus               cingo              sum
 
 ut solebat;    non usitata            frequentia  stipati             sumus; 
 as used to         usual              crowd       attended            (we) are
@@ -403,10 +404,10 @@ yet   not not fear   entirely  without some           fear      (we) can
                                        aliquis        timor     possum
       ne ... quidem: not even
 
-3. Quae    si opposita      Miloni putarem,        cederem         tempori, 
-   whereby if against       Milo   (I) believe     yield           time
-              adj.acc.n.pl.        impf.subj.1.sg. impf.subj.1.sg. dat.n.sg.
-              oppositus            puto            cedo            tempus
+2.1 Quae    si opposita      Miloni putarem,        cederem         tempori, 
+    whereby if against       Milo   (I) believe     yield           time
+               adj.acc.n.pl.        impf.subj.1.sg. impf.subj.1.sg. dat.n.sg.
+               oppositus            puto            cedo            tempus
 
 iudices, nec enim inter tantam        vim       armorum    existimarem 
          not for        so great      power     of arms    (I) esteem
@@ -418,14 +419,14 @@ to be  speech    place
 inf.   dat.f.sg. acc.m.sg.
        oratio    locus
 
-4. Sed me recreat    et reficit    Cn. Pompei, sapientissimi et iustissimi    
-   but    relieves      restores               wisest           justest       
-          pres.3.sg.    pres.3.sg.                              adj.nom.m.sg.
-          recreo        reficio                                 iustus
+2.2 Sed me recreat    et reficit    Cn. Pompei,       sapientissimi et iustissimi    
+    but    relieves      restores       (of) Pompeius wisest           justest       
+           pres.3.sg.    pres.3.sg.     gen.m.sg.     adj.nom.m.sg.    adj.nom.m.sg
+           recreo        reficio        Pompeius                       iustus
 
 viri, consilium, qui profecto  nec     iustitiae suae          putaret         
 man   council?   who certainly neither justice   his           think          
-      nom.n.sg.                        nom.f.pl. adj.gen.f.sg. impf.subj.3.sg. 
+      nom.n.sg.                        gen.f.sg. adj.gen.f.sg. impf.subj.3.sg. 
                                        iustitia  suus          puto            
 
 esse,  quem reum            sententiis iudicum     tradidisset, 
@@ -435,7 +436,7 @@ sum         reus            sententia  iudex       trado
 
 eundem         telis     militum   dedere,   nec sapientiae temeritatem
 the same       weapons   soldiers  to give   nor wisdom     rashness
-pron.acc.m.sg. dat.n.pl. gen.m.pl. inf.          nom.f.pl.  acc.f.sg.
+pron.acc.m.sg. dat.n.pl. gen.m.pl. inf.          gen.f.sg.  acc.f.sg.
 idem           telum     miles                   sapientia  temeritas
 
 concitatae    multitudinis   auctoritate publica       armare.
@@ -443,10 +444,10 @@ excited       (of) multitude authority   public        to arm
 p.p.gen.f.sg. gen.f.sg.      abl.f.sg.   adj.abl.f.sg. inf.
 concito       mutitudo       auctoritas  publicus      armo
 
-5. Quam ob rem  illa           arma,     centuriones, cohortes   non periculum 
-   That is why, those          arms      centurions   cohorts        danger
-   wherefore    pron.acc.n.pl. nom.n.pl. nom.m.pl.    nom.f.pl.      acc.n.sg.
-                ille           arma      centurio     cohors         periculum
+3.1 Quam ob rem  illa           arma,     centuriones, cohortes   non periculum 
+    That is why, those          arms      centurions   cohorts        danger
+    wherefore    pron.acc.n.pl. nom.n.pl. nom.m.pl.    nom.f.pl.      acc.n.sg.
+                 ille           arma      centurio     cohors         periculum
 
 nobis,          sed praesidium denuntiant,  neque solum ut quieto, 
 ours            but protection declare      not   only  as quiet
@@ -467,3 +468,70 @@ pollicentur.
 promise
 pres.pass.3.pl
 polliceor
+
+3.2 Reliqua       vero multitudo, quae           quidem est        civium, 
+    rest of            multitude  which          indeed is         citizen
+    adj.nom.f.sg.      nom.f.sg.  pron.nom.f.sg. adv.   pres.3.sg. gen.m.pl.
+    reliquus           multitudo  qui                   sum        civis
+
+tota          nostra         est,       nec eorum          quisquam       
+all           ours           is         not of them        any            
+adj.nom.f.sg. pron.nom.f.sg. pres.3.sg.     pron.gen.m.pl. pron.nom.m.sg. 
+totus         noster         sum            is             quisquam
+
+quos           undique      intuentis,          unde   aliqua           fori      pars 
+whom           on all sides gazing              whence in any direction forum     part
+pron.acc.m.pl. adv.         pres.part.acc.m.pl  adv.   adv.             gen.n.sg. nom.f.sg
+quis                        intueor                             forum     pars
+
+aspici         potest,    et huius          exitum    iudici    exspectantis 
+see            can           of this        result    trial     waiting for
+pres.pass.inf. pres.3.sg.    pron.gen.n.sg. acc.m.sg. gen.n.sg. pres.part.acc.m.pl
+aspicio        possum        hic            exitus    iudicium  exspecto
+
+videtis,   non cum virtuti   Milonis favet,      tum  de se, de liberis   suis, 
+(you) see          virtus    of Milo favours     then    him    children  his
+pres.2.pl          dat.m.sg.         pres.3.sg.  adv.           abl.m.pl.
+video              vitus             faveo                      liberi
+
+de patria,   de fortunis  hodierno   die       decertari      putat.
+   country      fortunes  this (day) day       fight out      thinks
+   abl.f.sg.    abl.f.pl.            abl.m.sg. pres.pass.inf. pres.3.sg.
+   patria       fortuna              dies      decerto        puto
+
+3.3 unum          genus     est        adversum      infestumque   nobis eorum 
+    one           sort      is         adverse       hostile       us    those
+    adj.nom.n.sg. nom.n.sg. pres.3.sg. p.p.nom.n.sg. adj.nom.n.sg.       pron.gen.n.pl
+    unus          genus     sum        advero        infestus            is
+
+quos           P. Clodi      furor     rapinis   et incendiis et omnibus 
+whom              of Clodius fury      rapine       arson        all     
+pron.acc.m.pl.               nom.m.sg. abl.f.pl.    abl.n.pl.    adj.abl.f.pl
+quis                         furor     rapina       incendium    omnis
+
+exitiis     publicis      pavit;      qui            hesterna  etiam contione 
+destruction public        feed        who            yesterday even  assembly
+abl.n.pl.   adj.abl.n.pl. perf.3.sg.  pron.nom.m.pl.                 abl.f.sg.
+exitium     publicus      pasco       qui                            contio
+
+incitati      sunt       ut      vobis voce      praeirent      quid iudicaretis;
+incited       are        so that your  voice     go before      what judge,decide
+p.p.nom.m.pl. pres.3.pl. adv.          abl.f.sg. impf.subj.3.pl.     impf.subj.2.pl
+incito        sum                      vox       praeeo              iudico
+
+quorum         clamor    si qui forte     fuerit,         admonere vos      debebit 
+whose                    if     by chance have            warn     you      ought to
+pron.gen.m.pl. nom.m.sg.        abl.f.sg. perf.subj.3.sg. inf.     acc.m.pl fut.3.sg.
+quis           clamor           fors      sum                      tu       debeo
+
+ut   eum            civem     retineatis      qui semper genus     illud 
+that him            citizen   retain          who always sort      that
+     pron.acc.m.sg. acc.m.sg. pres.subj.2.pl.            acc.n.sg. pron.acc.n.sg.
+     is             civis     retineo                    genus     ille
+
+hominum   clamoresque maximos       prae   vestra salute    neglexit.
+men       clamor      greatest      before your   safety    slight
+gen.m.pl. acc.m.pl.   adj.acc.m.pl. adv.          abl.m.sg. perf.3.sg.
+homo      clamor      magnus                      salus     neglego
+
+

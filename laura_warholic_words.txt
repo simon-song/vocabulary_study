@@ -10,7 +10,7 @@ shill(n.)
 conniving
 imbecile(n.)
 dunce(n.)
-surreptious(a.)
+surreptitious(a.)
 feign(v.)
 mallard(n.)
 swivel(v.)
