@@ -335,6 +335,10 @@ Society transmitted to the National Assembly of France.
 In my opinion, this sermon is the public declaration of a well-connected
 nonconformist.
 
+oracle:
+OED 7. A person of great wisdom or knowledge, whose opinions or decisions are
+generally accepted; an authority reputed or affecting to be infallible.
+
 philippize:
 OED To favor, or take the side of,Philip of Macedon; also gen. to speak or write
 as one is corruptly 'inspired' or influenced.
@@ -348,6 +352,10 @@ p. [13] para. 2:
 
 strain:
 OED 9.b. A kind, class, or grade (of things). Obs.
+
+fetter:
+OED 1. A chain or shackle for the feet of a human being or animal; hence gen. a
+bond, shackle. (rare in sg.)
 
 ================================
 ==  precis of p. [13] para. 2:
@@ -364,6 +372,10 @@ garden dry
 
 polemic:
 OED A. Of or pertaining to controversy; controversial, disputatious.
+
+stipulate:
+OED 4. intr. To make an express demand for something as a condition of
+agreement.
 
 (1) Dr. Price's pulpit style showed a dangerous novelty.
 (2) Dr. Price advised non-conformists to set up their own churches.
@@ -391,6 +403,9 @@ also, that is thundered forth.
 
 innoxious
 OED 1. Not noxious or hurtful; harmless, innocuous.
+
+anathema:
+OED I.1. Any thing accursed, or consigned to damnation.
 
 (1) Dr. Price proclaimed (in his sermon) that George III is the only lawful 
 king in the world, because he is the only one who owes his crown to the 
