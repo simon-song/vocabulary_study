@@ -432,6 +432,18 @@ OED I.3. Political sagacity; prudence, skill, or consideration of expediency in
 the conduct of public affairs; statecraft, diplomacy; in bad sense, political
 cunning.
 
+whilst:
+=while OED B.2.a. As long as, so long as (implying 'provided that', 'if only').
+..., whilst the king of Great Britain was not affected by it.
+
+soothe:
+OED 4.a. To confirm, encourage, or humour (a person) in something by expressing
+assent or approval.
+
+reservation:
+OED 3.a. The action or factor of reserving (for oneself or another) some right,
+power, priviledge, etc.; a right, etc., thus reserved.
+
 security:
 OED I.2. Freedom from doubt; confidence, assurance. Now chiefly, well-founded
 confidence, certainty.
@@ -487,21 +499,54 @@ Surely, at some time, all the founders of dynasties were chosen by those who
 called them to govern. But despite whatsoever origin of the crown, the king of
 Britain today is chosen by a fixed rule of succession, according to the laws of
 the country. The Revolution Society (to their contempt) has no vote for the 
-present king, nor will them for any future ones.
+present king, nor will they for any future ones.
 
 ================
 p. [20] para. 1:
 
-(1) Their insinuation of election is based on the principle of a right in the
+bottom:
+OED 2.c. intr. (for refl.) To rest as upon a foundation; to be based, grounded.
+lit. and fig.
+
+(1) Nothing can evade their declaration concerning the principle of a right in 
+the people to choose.
+(2) Their insinuation of election is based on the principle of a right in the
 people to choose their kings.
-(2) Dr. Price claims that the people have a right (1) "to choose our own 
+(3) Dr. Price claims that the people have a right (1) "to choose our own 
 governors"; (2) "to cashier them for misconduct"; (3) "to frame a government 
 for ourselves."
-(3) The people have nothing to do with this unheard-of bill of rights.
+(4) The people have nothing to do with this unheard-of bill of rights.
 
 ================================
 ==  precis of p. [20] para. 1:
 ================================
+Nothing can evade their declaration concerning the principle of a right in 
+the people to choose. Their insinuation of election is based on this propostion.
+Dr. Price claims that the people have a right (1) "to choose our own 
+governors"; (2) "to cashier them for misconduct"; (3) "to frame a government 
+for ourselves." This unheard-of bill of rights the people of England want 
+nothing to do with.
+
+================
+p. [21] para. 1:
+
+(1) These gentlemen confound together the three revolutions, i.e. the English 
+Revolution of the 1640s, the Glorious Revolution of 1688, and the French 
+Revolution.
+(2) We should separate what they confound.
+(3) The principles of the Revolution of 1688 can be found in the statute called
+the Declaration of Right (i.e. Bill of Rights), in which none of the rights 
+claimed by Dr. Price is either said or suggested.
+
+================================
+==  precis of p. [21] para. 1:
+================================
+
+
+
+
+
+
 
 
 
