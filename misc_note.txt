@@ -534,4 +534,15 @@ men       clamor      greatest      before your   safety    slight
 gen.m.pl. acc.m.pl.   adj.acc.m.pl. adv.          abl.m.sg. perf.3.sg.
 homo      clamor      magnus                      salus     neglego
 
+4.1
+Quam ob rem adeste animis, iudices, et timorem, si quem habetis, deponite. 
+
+nam si umquam de bonis et fortibus viris, si umquam de bene meritis civibus
+potestas vobis4 iudicandi fuit, si denique umquam locus amplissimorum ordinum
+delectis viris datus est ut sua studia erga fortis et bonos civis5, quae voltu
+et verbis saepe significassent, re et sententiis declararent, hoc profecto
+tempore eam potestatem omnem vos habetis ut statuatis utrum nos qui semper
+vestrae auctoritati dediti fuimus semper miseri lugeamus an diu vexati a
+perditissimis civibus aliquando per vos ac per vestram fidem, virtutem
+sapientiamque recreemur
 
