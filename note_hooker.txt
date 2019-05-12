@@ -1,7 +1,9 @@
 ======================================================================
-=  sentence analysis of Hooker's Of the Laws of Ecclesiastical Polity
+=    Notes on Hooker's Of the Laws of Ecclesiastical Polity
 =
-=  lable: e.g. 2.1.3 means book II, section 1, sentence 3
+=  lable: 
+=    e.g. 0.1.1 means Preface, section 1, sentence 1
+=    e.g. 2.1.3 means book II, section 1, sentence 3
 ======================================================================
 
 ==============
@@ -905,8 +907,33 @@ Some things are so familiar and plain,
     them,
         even by men of no deep capacity.
 
+==================================
+Preface, IV.2
+
+nothing less:
+OED B.3(adv.) least of all things, anything rather (than the thing in question)
 
 ==================================
+Preface, IV.3
+
+    Were it for the glory of God and the good of his Church
+indeed that the clergy should be left even as bare as the Apostles 
+    when they had neither staff nor scrip,
+that God,
+    which should lay upon them the condition of his Apostles,
+would
+    I hope
+endue them with the selfsame affection 
+    which was in that holy Apostle,
+        whose words 
+            concerning his own right virtuous contentment of heart,
+        "as how well how to want, as how to abound,"
+        are a most fit episcopal emprese.
+
+
+==================================
+Preface, IV.4
+
 Thirdly,
     whereas it is the error of the common multitude to consider only
         what hath been of old,
@@ -966,6 +993,9 @@ together with [sth] which [sth] could not [v](being now [pp],)
 are much more [adj] and [adj] for [sth],
 than if [sth] should be [pp] for [sth]'s sake with [sth]?
 
+==================================
+Preface, IV.5
+
 The orders therefore, 
     which were observed in the Apostles' times,
 are not to be urged as a rule universally either suffient or necessary.
@@ -993,6 +1023,9 @@ we may be bold to conclude,
         wherein ye can truly affirm,
             that the complete form of your discipline, or the substance thereof,
             was practised.
+
+==================================
+Preface, IV.6
 
     The evidence therefore of antiquity failing you,
 ye fly to the judgments of such learned men,
