@@ -181,7 +181,7 @@ considered how dangerous it was
     that the whole estate of that church should hang still on so slender a 
     thread
         as the liking of an ignorant multitude is,
-        if it have the power to change whatsoever itself listeth.
+            if it have the power to change whatsoever itself listeth.
 
 >> 0.2.8
 Wherefore
@@ -1032,3 +1032,33 @@ ye fly to the judgments of such learned men,
     as seem by their writings to be of opinion,
         that all Christian churches should receive your discipline, and abandon
         ours.
+
+==================================
+Preface, V.3
+
+in this behalf
+OED 2.c. in respect of, in regard to, in reference to this; in this matter, or
+aspect of the matter.
+
+forasmuch as
+OED a. In consideration that, seeing that, inasmuch as.
+
+I wish that proof were made by conference in orderly fashion, provided that
+(1) Ye take only the plaintiff's or opponent's role;
+(2) all issues are throughly and orderly disputed;
+(3) Ye agree to choose one man to represent you;
+(4) Ye and we agree to write an authorized account afterwards.
+
+    Notwithstanding,
+        forasmuch as the cause
+            we maintain
+        is
+            (God be thanked)
+        such as needeth not to shun any trial,
+    might it please them
+        on whose approbation the matter dependeth
+    to condescend so far unto you in this behalf,
+I wish heartily that proof were made even by solemn conference in orderly and
+quiet sort,
+    whether you would yourselves be satisfied,
+    or else could by satisfying others draw them to your part.
