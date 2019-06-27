@@ -9,16 +9,75 @@
 ==============
 Preface
 
+==============
+Preface I.1
+
 >> 0.1.1
     Though for no other cause,
     yet for this,
 that posterity may know 
     we have not loosely through silence permited things to pass away 
         as in a dream,
-there shall be for men's information extant thus much concerning the present
-state of the Church of God established amongsth us,
-and their careful endeavour 
-    which would upheld the same.
+there shall be 
+    for men's information 
+extant thus much concerning 
+    the present state of the Church of God established amongsth us,
+    and their careful endeavour 
+        which would upheld the same.
+
+Though:
+OED B.II.2.a. Introducing a subordinate clause expressing a supposition or
+possibility: Even if; even supposing that; granting that. b. With ellipsis.
+
+for(prep.):
+OED VII.21 Because of, on account of.
+
+no(a.):
+OED 2. Qualifying a noun and adj. in close connection, usually implying that an
+adj. of an opposite meaning would be more correct or appropriate.
+
+other(a.):
+OED 5. Existing besides, or distinct from, that already mentioned or implied;
+not this, not the same, different in identity; further, additional.
+5.b with sing. n. qualifed by an, any, some, no, or preceded by a negative
+expressed or implied.
+
+cause:
+OED 3. A fact, condition of matters, or consideration, moving a person to
+action; ground of action; reason for action, motive.
+
+yet:
+OED III.9.a. as conjunctive adv. or conj., introducing an additional fact or
+circumstance which is adverse to, or the contrary of what would naturally be
+expected from, that just mentioned: In spite of that, nevertheless,
+notwithstanding. Sometimes strengthended by nevertheless, etc. Often correlative
+to though, etc.
+More emphatically adversative than BUT conj. 24, and freer in construction;
+formerly sometimes placed after, and still sometimes in the midst of, its
+clause; and or but may precede yet. Nearly equivalent to STILL adv. 6b; but
+still indicates mainly that the fact or condition remains unaltered by the
+adverse one; yet usually expresses some degree of surprise at it as something
+unexpected.
+
+this(pron.):
+OED B.I.1.d Pointing to a statement, proposal, or question which immediately
+follows.
+
+that (conj.):
+OED I.1.a. Introducing a dependent substantive-clause, as subject, object, or
+other element of the principal clause, or as complement of a n. or adj., or in
+apposition with a n. therein.
+
+posterity:
+OED 2.b. All succeeding generations (collectively).
+
+
+
+Simon says:
+This evocation of prosperity is somewhat unexpected as Hooker is supposed to
+address the puritans directly.
+
+
 
 >> 0.1.2
 At your hands,
@@ -1062,3 +1121,54 @@ I wish heartily that proof were made even by solemn conference in orderly and
 quiet sort,
     whether you would yourselves be satisfied,
     or else could by satisfying others draw them to your part.
+
+    In this sort to broach my private conceit for the ordering of a public action
+I should be loth
+    (albeit I do it not otherwise than under correction of them
+        whose gravity and wisdom ought in such cases to overrule,)
+but that so venturous boldness I see is a thing now general;
+and am thereby of good hope,
+    that 
+        where all men are licensed to offend,
+    no man will shew himself a sharp accuser.
+
+broach:
+OED 6. To give vent or publicity to; to give out; to begin conversation or
+discussion about, introduce, moot.
+
+==================================
+Preface, VI.1
+
+I would therefore know,
+    whether for the ending of these irksome strifes,
+        wherein you and your followers do stand thus formally diveded agasinst
+        the authorized guides of this church,
+        and the rest of the subject unto their charge;
+    whether I say 
+        ye be content to refer your cause to any other higher judgment than your
+        own,
+        or else intend to persist and proceed as ye have begun,
+            till yourselves can be persuaded to condemn yourselves.
+
+==================================
+Preface, VI.3
+
+Ye will perhaps make answer,
+    that 
+        being persuaded already as touching the truth of your cause,
+    ye are not to hearken unto any sentence,
+        no not though Angels should define otherwise,
+            as the blessed Apostle's own example teacheth:
+again, that men, yea councils, may err;
+and that,
+    unless the judgment given do satisfy your minds,
+    unless it be such as ye can by no further argument oppugn,
+    in a word, unless you perceive and acknowledge it yourselves consonant with
+    God's word;
+to stand unto it not 
+    allowing it 
+were to sin against your own conscience.
+
+stand to (also unto) it
+OED. 76.c to fight stoutly; also, to toil without flagging at painful or severe
+labour.
