@@ -76,11 +76,59 @@ OED 5. Expressing subjective possiblity, i.e. the admissibility of a
 supposition. a. (with pres. inf.) In relation to the future (may='perhaps
 will').
 
+know:
+OED 11. To be cognizant, conscious, or aware of (a fact); to be informed of, to
+have learned; to appehend (with the mind), to understand.
+a. with dependent statement, usually introduced by that.
+
+we:
+OED 1.f. used indefinitely in general statement in which the speaker or writer
+includes those whom he addresses, his contemporaries, his fellow-countrymen, or
+the like.
+[It is unclear what does Hooker mean by we here.]
+
+have:
+OED II. As an auxilary verb. As in the other Germanic (and Romanic) languages,
+the various moods and tenses of have are used with the past participle of
+another verb, to form a series of compound or 'perfect' tenses of the latter,
+expressing action already finished at the time indicated, and answering to the
+Latin perfect tneses dedi, dederam, dedero, dedisse, etc.
+
+loosely:
+OED 2. Without care, strictness, or rigour; not strictly, carelessly,
+negligently, laxly. Said esp. of thought or its expression.
+
+through (prep.):
+OED 7.a. Indicating medium, means, agency, or instrument: By means of; by the
+action of, by. Now spec. By the instrumentality of.
+
+silence:
+OED 1.a. The fact of abstaining or forbearing from speech or utterance
+(sometimes with reference to a particular matter); the state or condition
+resulting from this; muteness, reticence, taciturnity. Occa. with a or in pl.
+
+permit
+OED 2.a. With the agent etc. as direct object: To allow, give leave to (a person
+or thing) to do (or undergo) something. With inf. act. or pass. (rarely without
+to); sometimes ellipt. with simple obj.
+
+thing:
+OED 3.a. That with which one is concerned (in action, speech, or thought); an
+affair, business, concern, matter, subject; pl. affairs, concerns, matters. (In
+early use sometimes sing. in collective sense.)
+
+to:
+
+
+
 
 Simon says:
 This evocation of prosperity is somewhat unexpected as Hooker is supposed to
 address the puritans directly.
 
+Paraphrase:
+[I write for many causes.] Even if for no other cause, yet I still write for
+this cause: that ...
 
 
 >> 0.1.2
