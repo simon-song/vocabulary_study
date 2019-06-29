@@ -117,14 +117,42 @@ OED 3.a. That with which one is concerned (in action, speech, or thought); an
 affair, business, concern, matter, subject; pl. affairs, concerns, matters. (In
 early use sometimes sing. in collective sense.)
 
-to:
+to (prep.):
+OED B. before an infinitive. I. With infinitive in adverbial relation. 1.a.
+(Indicating purpose or intention) Dependent on a verb, to with inf. = in order
+to; equivalent to that or in order that with subjunctive, or to for or for the
+purpose of with gerund.
+The implied subject of the inf. may be either a subject or an object of the
+principal clause.
+
+pass:
+OED 60. pass away. e. Of things: to pass out of existence, come to an end, cease
+to be, be dissolved, perish.
+
+as:
+OED B.10.a. With the subordinate clause abbreviated: In the same way as, as if,
+as it were.
+
+in:
+OED 8. With non-physical realms, regions of thoughts, departments of faculties
+of the mind, spheres of action, etc., treated as having extension or content.
+
+a:
+indefinite article
+
+dream:
+OED 1.a. A train of thoughts, images, or fancies passing through the mind during
+sleep; a vision during sleep; the state in which this occurs.
 
 
 
 
 Simon says:
-This evocation of prosperity is somewhat unexpected as Hooker is supposed to
+(1) This evocation of prosperity is somewhat unexpected as Hooker is supposed to
 address the puritans directly.
+(2) "through silence" may also complement "pass away", as "we have not loosely
+permitted things to pass away [through silence] as in a dream".
+
 
 Paraphrase:
 [I write for many causes.] Even if for no other cause, yet I still write for
