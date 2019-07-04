@@ -218,14 +218,30 @@ the Tower, the Abbey, the River, the Channel, the Flood, the Reformation, the
 Revolution, the Englightenment.
 
 Church:
+OED 6. Frequently (esp. in later use with capital initial. a. Chiefly with the.
+The ecclesiastical and clerical organization of Christianity, or of a particular
+large body of Christians (such as a nation or denomination), as exercising
+religious authority and upholding ecclesiastical law. Also: the clergy and
+officials of this organization collectively or as a corporation owning property,
+collecting dues, etc., and (esp. in early use) as an estate of the realm.
+In this sense the Church is sometimes opposed to the State or the political
+organization, the civil government.
 
 of:
 OED 35.a. Belonging to a person or thing, as something that he, she, or it has
 or possesses (=the possessive genitive, and akin to the subjective, sense 15).
 
 God:
+OED 5. Especially in Judaism, Christianity, and Islam: the Supreme Being,
+regarded as the creator and ruler of the universe.
 
-established:
+established: <establish(v.)
+OED 7. From 16th century often used with reference to ecclesiastical ceremonies
+or organization, and to the recognized national church or its religion; in early
+use chiefly passive in sense 2 (esp. in phrase by law established, i.e.
+'prescribed or settled by law'), but sometimes with mixture of sense 3-5. Hence
+in recent use: To place (a church or a religious body) in the position of a
+national or state church.
 
 amongst:
 
