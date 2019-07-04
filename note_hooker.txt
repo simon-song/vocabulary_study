@@ -189,7 +189,25 @@ conerning(prep.):
 OED 1.a. As regards; as relates to. Chiefly in as concerning: as far as
 concerns; as to.
 
-the:
+the (adj.):
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
+
+present(adj.):
+OED II.6. Existing or occuring now; that is or is so at this time; current,
+contemporary; in use or vogue at this time, modern. Opposed to past and future.
+
+state(n.):
+OED I.1.a. The combination of circumstances or attributes belonging at a
+particular time to a person or thing; a particular manner or way of existing as
+defined by the presence of certain circumstances or attributes; a condition.
+Frequently with of.
+
+of (prep.):
+OED VIII. Indicating the subject matter of thought, feeling, or action.
+26. Following nouns. Now chiefly limited to nouns of knowing, narrating,
+informing, and the like.
+
 
 
 
