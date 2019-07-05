@@ -10,7 +10,7 @@
 Preface
 
 ==============
-Preface I.1
+Preface I.1.1
 
 >> 0.1.1
 Though for no other cause,
@@ -59,6 +59,9 @@ still indicates mainly that the fact or condition remains unaltered by the
 adverse one; yet usually expresses some degree of surprise at it as something
 unexpected.
 
+for(prep.):
+OED VII.21 Because of, on account of.
+
 this(pron.):
 OED B.I.1.d Pointing to a statement, proposal, or question which immediately
 follows.
@@ -88,11 +91,15 @@ the like.
 [It is unclear what does Hooker mean by we here.]
 
 have:
-OED II. As an auxilary verb. As in the other Germanic (and Romanic) languages,
+OED II. As an auxiliary verb. As in the other Germanic (and Romanic) languages,
 the various moods and tenses of have are used with the past participle of
 another verb, to form a series of compound or 'perfect' tenses of the latter,
 expressing action already finished at the time indicated, and answering to the
 Latin perfect tneses dedi, dederam, dedero, dedisse, etc.
+
+not:
+OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
+auxiliary or not).
 
 loosely:
 OED 2. Without care, strictness, or rigour; not strictly, carelessly,
@@ -244,12 +251,59 @@ in recent use: To place (a church or a religious body) in the position of a
 national or state church.
 
 amongst:
+OED 6. = among prep.7,8
+Of the relation of joint action to the various actors: By the joint action of.
 
 us:
+OED A. pron. The objective case of the first personal plural pronoun WE pron.,
+representing the old English accusative and dative.
 
+and (conj.):
+OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
+to be taken side by side with, along with, or in addition to, that which
+precedes it.
+7. Connecting coordinate clauses or sentences. a. Simple connective.
 
+their:
+OED 3. As antecedent to a following relative clause, equivalent to 'of those'.
+Now rare.
 
+careful:
+OED 7.b Showing care, done or performed with care.
 
+endeavour:
+OED 1.a. The action of endeavouring; effort, or pains, directed to attain an
+object; a strenuous attempt or enterprise.
+
+which:
+OED 7. pron. The ordinary relative pronoun introducing an additional statement
+about the antecedent, the sense of the principal clause being complete without
+the relative clause; thus sometimes equivalent to 'and that (it, they, etc.).
+b. As subject or object of a verb.
+
+would <will
+OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
+the 2nd or 3rd persons, expressing merely a possibility or contingency in the
+supposed case.
+
+have:
+OED II. As an auxiliary verb. As in the other Germanic (and Romanic) languages,
+the various moods and tenses of have are used with the past participle of
+another verb, to form a series of compound or 'perfect' tenses of the latter,
+expressing action already finished at the time indicated, and answering to the
+Latin perfect tneses dedi, dederam, dedero, dedisse, etc.
+
+upheld <uphold:
+OED 2.a. To support, sustain, maintain, by aid or assistance; to preserve
+unimpaired or intact.
+
+the (adj.):
+OED A.I Definite article (determiner). Refering to an individual item (or
+items). b. Placed before pronouns and determiners.
+
+same (pron.):
+OED B.2.a. The same thing.Formerly also that same, this same.
+cf. A.2.a With backward reference: Identical with what has been indicated.
 
 
 Simon says:
@@ -257,12 +311,15 @@ Simon says:
 address the puritans directly.
 (2) "through silence" may also complement "pass away", as "we have not loosely
 permitted things to pass away [through silence] as in a dream".
-
+(3) "the same" refers to "the Church of God established amongst us".
 
 Paraphrase:
 [I write for many causes.] Even if for no other cause, yet I still write for
 this cause: that ...
 
+
+==============
+Preface I.1.2
 
 >> 0.1.2
 At your hands,
@@ -273,6 +330,32 @@ At your hands,
 I have no great cause to look for other than the selfsame portion and lot
     which your manner hath been to lay on them
         that concur not in opinion and sentence with you.
+
+at:
+
+your:
+
+hands:
+
+beloved:
+
+in:
+ 
+our:
+
+Lord:
+
+and:
+
+Saviour:
+
+Jesus:
+
+Christ:
+
+
+==============
+Preface I.1.3
 
 >> 0.1.3
 But our hope is,
