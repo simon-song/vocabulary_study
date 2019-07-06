@@ -25,30 +25,30 @@ yet for this,
             and their careful endeavour 
                 which would have upheld the same.
 
-Though:
+Though (conj.):
 OED B.II.2.a. Introducing a subordinate clause expressing a supposition or
 possibility: Even if; even supposing that; granting that. b. With ellipsis.
 
-for(prep.):
+for (prep.):
 OED VII.21 Because of, on account of.
 
-no(a.):
+no (adj.):
 OED 3.a. Modifying an adjective and singular noun and negating the adjective
 rather than the whole noun phrase (usually implying that an adjective of an
-opposite meaning would be more correct or appropriate.
+opposite meaning would be more correct or appropriate).
 
-other(a.):
+other (adj.):
 OED 5. Existing besides, or distinct from, that already mentioned or implied;
 not this, not the same, different in identity; further, additional.
 5.b with sing. n. qualifed by an, any, some, no, or preceded by a negative
 expressed or implied.
 
-cause:
+cause (n.):
 OED 3.a. A fact, condition of matters, or consideration, moving a person to
 action; ground of action; reason for action, motive.
 
-yet:
-OED III.10. In spite of that, for all that, (but) nevertheless. Sometimes 
+yet (adv.):
+OED A.III.10. In spite of that, for all that, (but) nevertheless. Sometimes 
 strengthened by nevertheless, notwithstanding, and often correlative to though. 
 Yet, in this sense, is similar in meaning to but conj. 11b; however it is more 
 emphatic and freer in construction, and may be preceded by and or but. This 
@@ -56,10 +56,10 @@ sense of yet is nearly equivalent to STILL adv. 6b; but still indicates mainly
 that the fact or condition remains unaltered by the adverse one, whereas yet 
 usually indicates that it is in some degree surprising or unexpected.
 
-for(prep.):
+for (prep.):
 OED VII.21 Because of, on account of.
 
-this(pron.):
+this (pron.):
 OED I.1.d Pointing to a statement, proposal, or question which immediately
 follows.
 
@@ -71,7 +71,7 @@ apposition with a n. therein.
 posterity:
 OED 2.b. All succeeding generations (collectively).
 
-may:
+may (v.):
 OED 7. Expressing present subjective possibility, i.e. the admissibility 
 of a supposition, in a direct or indirect statement.
 a. In relation to the future and in general predictions (I may be or do 
@@ -193,7 +193,7 @@ OED 3. Qualifying an adj. or adv.: To this extent, number, or degree; as .. as
 this; so; esp. thus far, to this point (often used to indicate the end of a
 quotation); thus much, so much, as much as this.
 
-conerning(prep.):
+concerning (prep.):
 OED 1.a. As regards; as relates to. Chiefly in as concerning: as far as
 concerns; as to.
 
@@ -205,7 +205,7 @@ present(adj.):
 OED II.6. Existing or occuring now; that is or is so at this time; current,
 contemporary; in use or vogue at this time, modern. Opposed to past and future.
 
-state(n.):
+state (n.):
 OED I.1.a. The combination of circumstances or attributes belonging at a
 particular time to a person or thing; a particular manner or way of existing as
 defined by the presence of certain circumstances or attributes; a condition.
