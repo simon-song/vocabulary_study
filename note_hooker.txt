@@ -33,8 +33,9 @@ for(prep.):
 OED VII.21 Because of, on account of.
 
 no(a.):
-OED 2. Qualifying a noun and adj. in close connection, usually implying that an
-adj. of an opposite meaning would be more correct or appropriate.
+OED 3.a. Modifying an adjective and singular noun and negating the adjective
+rather than the whole noun phrase (usually implying that an adjective of an
+opposite meaning would be more correct or appropriate.
 
 other(a.):
 OED 5. Existing besides, or distinct from, that already mentioned or implied;
@@ -43,27 +44,23 @@ not this, not the same, different in identity; further, additional.
 expressed or implied.
 
 cause:
-OED 3. A fact, condition of matters, or consideration, moving a person to
+OED 3.a. A fact, condition of matters, or consideration, moving a person to
 action; ground of action; reason for action, motive.
 
 yet:
-OED III.9.a. as conjunctive adv. or conj., introducing an additional fact or
-circumstance which is adverse to, or the contrary of what would naturally be
-expected from, that just mentioned: In spite of that, nevertheless,
-notwithstanding. Sometimes strengthended by nevertheless, etc. Often correlative
-to though, etc.
-More emphatically adversative than BUT conj. 24, and freer in construction;
-formerly sometimes placed after, and still sometimes in the midst of, its
-clause; and or but may precede yet. Nearly equivalent to STILL adv. 6b; but
-still indicates mainly that the fact or condition remains unaltered by the
-adverse one; yet usually expresses some degree of surprise at it as something
-unexpected.
+OED III.10. In spite of that, for all that, (but) nevertheless. Sometimes 
+strengthened by nevertheless, notwithstanding, and often correlative to though. 
+Yet, in this sense, is similar in meaning to but conj. 11b; however it is more 
+emphatic and freer in construction, and may be preceded by and or but. This 
+sense of yet is nearly equivalent to STILL adv. 6b; but still indicates mainly 
+that the fact or condition remains unaltered by the adverse one, whereas yet 
+usually indicates that it is in some degree surprising or unexpected.
 
 for(prep.):
 OED VII.21 Because of, on account of.
 
 this(pron.):
-OED B.I.1.d Pointing to a statement, proposal, or question which immediately
+OED I.1.d Pointing to a statement, proposal, or question which immediately
 follows.
 
 that (conj.):
@@ -75,27 +72,28 @@ posterity:
 OED 2.b. All succeeding generations (collectively).
 
 may:
-OED 5. Expressing subjective possiblity, i.e. the admissibility of a
-supposition. a. (with pres. inf.) In relation to the future (may='perhaps
-will').
+OED 7. Expressing present subjective possibility, i.e. the admissibility 
+of a supposition, in a direct or indirect statement.
+a. In relation to the future and in general predictions (I may be or do 
+= 'it is possible that I will be' or 'do').
 
 know:
-OED 11. To be cognizant, conscious, or aware of (a fact); to be informed of, to
-have learned; to appehend (with the mind), to understand.
-a. with dependent statement, usually introduced by that.
+OED 11. To be aware or apprised of (something, typically a fact expressed 
+propositionally), esp. through observation, inquiry, or information. In early 
+use sometimes: to get to understand, to find out, learn (obsolete).
+a. transitive. With an indirect statement. (a) With clause as object, usually 
+introduced by that. Sometimes (now only in passive) with it (or that) followed 
+by that-clause.
 
 we:
-OED 1.f. used indefinitely in general statement in which the speaker or writer
-includes those whom he addresses, his contemporaries, his fellow-countrymen, or
-the like.
+OED 1.d. Used indefinitely in general statements in which the speaker or writer 
+includes those addressed, i.e. his or her contemporaries, compatriots, fellow 
+human beings, etc.
 [It is unclear what does Hooker mean by we here.]
 
 have:
-OED II. As an auxiliary verb. As in the other Germanic (and Romanic) languages,
-the various moods and tenses of have are used with the past participle of
-another verb, to form a series of compound or 'perfect' tenses of the latter,
-expressing action already finished at the time indicated, and answering to the
-Latin perfect tneses dedi, dederam, dedero, dedisse, etc.
+OED VI. As an auxiliary verb, used with the past participle of another verb 
+to form the perfect. 30. With a transitive verb.
 
 not:
 OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
@@ -106,20 +104,19 @@ OED 2. Without care, strictness, or rigour; not strictly, carelessly,
 negligently, laxly. Said esp. of thought or its expression.
 
 through (prep.):
-OED 7.a. Indicating medium, means, agency, or instrument: By means of; by the
-action of, by. Now spec. By the instrumentality of.
+OED III.12.a. By means of; by the intermediate agency of; with the aid of; 
+via. In early use also: †by the primary agency or action of (obsolete).
 
 silence:
 OED 1.a. The fact of abstaining or forbearing from speech or utterance
 (sometimes with reference to a particular matter); the state or condition
 resulting from this; muteness, reticence, taciturnity. Occa. with a or in pl.
 
-permit
-OED 2.a. With the agent etc. as direct object: To allow, give leave to (a person
-or thing) to do (or undergo) something. With inf. act. or pass. (rarely without
-to); sometimes ellipt. with simple obj.
+permitted <permit(v.):
+OED 3.a. Transitive. To allow or give consent to (a person or thing) to do or 
+undergo something. Chiefly with infinitive.
 
-thing:
+things <thing:
 OED 3.a. That with which one is concerned (in action, speech, or thought); an
 affair, business, concern, matter, subject; pl. affairs, concerns, matters. (In
 early use sometimes sing. in collective sense.)
@@ -132,13 +129,13 @@ purpose of with gerund.
 The implied subject of the inf. may be either a subject or an object of the
 principal clause.
 
-pass:
-OED 60. pass away. e. Of things: to pass out of existence, come to an end, cease
-to be, be dissolved, perish.
+pass away <pass:
+OED PV1.a. intransitive. Of a thing: to cease to exist; to perish or disappear; 
+to be dissolved.
 
-as:
-OED B.10.a. With the subordinate clause abbreviated: In the same way as, as if,
-as it were.
+as (conj.):
+OED B.II.6.a. With the subordinate clause consisting only of an adverbial or 
+complement: in the same way as, as if, as it were.
 
 in:
 OED 8. With non-physical realms, regions of thoughts, departments of faculties
@@ -147,9 +144,13 @@ of the mind, spheres of action, etc., treated as having extension or content.
 a:
 indefinite article
 
-dream:
+dream (n.2):
 OED 1.a. A train of thoughts, images, or fancies passing through the mind during
 sleep; a vision during sleep; the state in which this occurs.
+OED A.1.a. A series of images, thoughts, and emotions, often with a story-like 
+quality, generated by mental activity during sleep; the state in which this 
+occurs. Also: a prophetic or supernatural vision experienced when either 
+awake or asleep.
 
 there:
 OED B.4. Used unemphatically to introduce a sentence or clause in which, for the
@@ -167,14 +168,14 @@ shall:
 OED B.5 In commands or instructions. b. In the third person.
 
 be:
-OED B.I. absolutely: To have or take place in the world of fact, to exist,
-occur, happen.
+OED I. Without required complement: To have or take place in the world of 
+fact, to exist, occur, happen.
 
 for:
 OED 21. Because of, on account of: c. On account of one's regard for. So in for
-the sake of, used synonymously with for in this sense.
+the sake of, used synonymously with for in this sense and in senses A.7, A.8.
 
-man:
+men's <man:
 OED I.1.b. As a general or indefinite designation, esp. with determiners such as
 every, any, no, etc., and in plural, esp. with all, any, some, many, few, etc.:
 a person.
@@ -187,7 +188,7 @@ extant:
 OED A.2. Standing forth to view; in early use, with phrase extant to the sight,
 to be seen: prominent, conspicuous, manifest. Now arch. rare.
 
-thus:
+thus much <thus:
 OED 3. Qualifying an adj. or adv.: To this extent, number, or degree; as .. as
 this; so; esp. thus far, to this point (often used to indicate the end of a
 quotation); thus much, so much, as much as this.
@@ -332,6 +333,10 @@ I have no great cause to look for other than the selfsame portion and lot
         that concur not in opinion and sentence with you.
 
 at:
+OED 11. Determining the source from which anything comes, and at which we seek
+it: eg. To ask, inquire, seek, learn, take, get, obtain, find, have, receive,
+buy, earn, win, suffer, at. Obsolete or dialect (repl. by of, from) except in
+(b.) the expanded phrases at the mouth or at the hands of.
 
 your:
 
