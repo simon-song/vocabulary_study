@@ -330,15 +330,21 @@ I have no great cause to look for other than the selfsame portion and lot
     which your manner hath been to lay on them
         that concur not in opinion and sentence with you.
 
-at:
+at (prep.):
 OED 11. Determining the source from which anything comes, and at which we seek
 it: eg. To ask, inquire, seek, learn, take, get, obtain, find, have, receive,
 buy, earn, win, suffer, at. Obsolete or dialect (repl. by of, from) except in
 (b.) the expanded phrases at the mouth or at the hands of.
 
-your:
+your (adj.):
+OED B. adj. The possessive adjective corresponding to ye, you.
+1.a. Belonging or relating to the person or people being addressed; which you
+have, hold, or possess.
 
-hands:
+hands <hand:
+OED P1.a.(b) at the hand(s) of, at a person's hand(s). (i) From the hands of;
+from. Used to express the immediate source, after such verbs as receive, take,
+find, seek, require, etc. (see AT prep.11). Now somewhat rare.
 
 beloved:
 
@@ -355,6 +361,47 @@ Saviour:
 Jesus:
 
 Christ:
+
+for:
+
+in:
+
+him:
+
+the:
+
+love:
+
+which:
+
+we:
+
+bear:
+
+unto:
+
+all:
+
+that:
+
+would:
+
+but:
+
+seem:
+
+to:
+
+be:
+
+born:
+ 
+of:
+OED III.8.a. Expressing ancestral or local origin, descent, etc.: following
+arise, be, come, descend, spring, etc.; be born, be bred, be derived, be
+propagated, etc.
+
+him:
 
 
 ==============
@@ -1215,7 +1262,7 @@ discipline.
 
 (1) The first mean to judge good from evil is our own discretion.
 (2) Some things are too intrincate to be understood by simple men.
-(3) 
+(3) The reservation of some laity refuted.
 
 >> 0.3.1
 The first mean 
