@@ -346,21 +346,38 @@ OED P1.a.(b) at the hand(s) of, at a person's hand(s). (i) From the hands of;
 from. Used to express the immediate source, after such verbs as receive, take,
 find, seek, require, etc. (see AT prep.11). Now somewhat rare.
 
-beloved:
+beloved (n.):
+OED B. A person who is (dearly) loved, a loved one; (also) beloved people as a
+class. Frequently with possessive adjective.
 
 in:
+OED 23. In spiritual or mystical union with.
  
-our:
+our (adj.):
+OED B.1. Belonging to or associated with the speaker and one or more other
+people prviously mentioned or easily identified; belonging to or associated with
+people in general.
 
 Lord:
+OED 6.b. (A title or name for) Jesus. Frequently with the. Also in Lord Jesus
+(Christ) or Lord Christ.
 
-and:
+and (conj.):
+OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
+to be taken side by side with, along with, or in addition to, that which
+precedes it.
 
 Saviour:
+OED 1.a. God or (more usually) Christ, conceived of as offering salvation to
+mankind and redemption from sin. Frequently with our, the. In later use chiefly
+with capital initial.
 
 Jesus:
 
 Christ:
+OED 2.a. The title given to Jesus of Nazareth, as embodying the fulfilment of
+Messianic prophecy and expectation; since the earliest Christian times treated
+as a proper name.
 
 for:
 
