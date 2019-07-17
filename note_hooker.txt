@@ -277,7 +277,7 @@ object; a strenuous attempt or enterprise.
 which:
 OED 7. pron. The ordinary relative pronoun introducing an additional statement
 about the antecedent, the sense of the principal clause being complete without
-the relative clause; thus sometimes equivalent to 'and that (it, they, etc.).
+the relative clause; thus sometimes equivalent to 'and that (it, they, etc.)'.
 b. As subject or object of a verb.
 
 would <will
@@ -379,19 +379,38 @@ OED 2.a. The title given to Jesus of Nazareth, as embodying the fulfilment of
 Messianic prophecy and expectation; since the earliest Christian times treated
 as a proper name.
 
-for:
+for (conj.):
+OED B.1. Introducing the cause of a fact, the statement of which precedes or
+follows.
 
 in:
+OED 23. In spiritual or mystical union with.
 
-him:
+him (pron.):
+OED A. The objective case of the masculine third person singular pronoun,
+corresponding to the subjective HE pron. (in original use as a dative also to IT
+pron.)
 
 the:
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
 
 love:
+OED 2. In religious use: the benevolence and affection of God towards an
+individual or towards creation; (also) the affectionate devotion due to God from
+an individual; regard and consideration of one human being towards another
+prompted by a sense of a common relationship to God. 
 
 which:
+OED 7. pron. The ordinary relative pronoun introducing an additional statement
+about the antecedent, the sense of the principal clause being complete without
+the relative clause; thus sometimes equivalent to 'and that (it, they, etc.)'.
+b. As subject or object of a verb.
 
 we:
+OED 1.d. Used indefinitely in general statements in which the speaker or writer 
+includes those addressed, i.e. his or her contemporaries, compatriots, fellow 
+human beings, etc.
 
 bear:
 
