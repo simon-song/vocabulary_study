@@ -14,6 +14,18 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
 ======================================================================
 
 1.1
+>> Etsi vereor, iudices,
+       ne turpe sit
+           pro fortissimo viro dicere incipientem timere,
+       minimeque deceat,
+               cum T. Annius ipse magis de rei publicae salute quam de sua
+               perturbetur,
+           me ad eius causam parem animi magnitudinem adferre non posse,
+   tamen haec novi iudici nova forma terret oculos,
+       qui,
+           quocumque inciderunt,
+       veterem consuetudinem fori et pristinum morem iudiciorum requirunt.
+
 >> Although I am afraid, O judges, 
        that it is a base thing 
            for one who is beginning to speak for a very brave man to be alarmed, 
@@ -29,34 +41,63 @@ Fotheringham, Persuasive Language in Cicero's Pro Milone.
        trials. 
 
 1.2-2.0
->> For your assembly is not surrounded by a circle of bystanders 
-       as usual; 
-   we are not attended by our usual company;
-   For those guards 
-       which you behold in front of all the temples, 
-       although they are placed there as a protection against violence, 
-   yet they bring no aid to the orator, 
-       so that even in the forum and in the court of justice itself, 
-           although we are protected with all military and necessary defences, 
-       yet we cannot be entirely without fear. 
+>> Non enim corona consessus vester cincus est,
+       ut solebat;
+   non usitata frequentia stipati sumus;
+   non illa praesidia
+       quae pro templis omnibuws cernitis,
+       etsi contra vim conlocata sunt,
+   non adferunt tamen oratori terroris aliquid,
+       ut in foro et in iudicio,
+           quamquam praesidiis salutaribus et necessariis saepti sumus,
+       tamen ne non timere quidem sine aliquo timore possimus.
+
+>> For not by a circle of bystanders is your assembly surrounded,
+       as it used to be;
+   not by our usual company are we attended,
+   not those guards
+       which you behold in front of all temples,
+       although they are placed there as a protection against violence,
+   not bring some terror to the orator,
+       so that in the forum and in the court of justice,
+           although we are protected with all the military and necessary
+           defences,
+       yet we cannot even be relieved of fear without some fear.
 
 2.1
+>>     Quae si
+           opposita Miloni,
+       putarem,
+   cederem tempori, iudices,
+   nec enim inter tantam vim armorum existimarem 
+       esse orationi locum.
+
 >>     But if I thought 
-           this adverse to Milo, 
+           them adverse to Milo, 
    I should yield to the times, O judges, 
-   and among such a crowd of armed men, I should think 
-       there was no room for an orator. 
+   and among such a crowd of armed men, I should not think 
+       there was any room for an orator. 
 
 2.2
+>> Sed me recreat et reficit Cn. Pompei, sapientissimi et iustissimi viri,
+   consilium,
+       qui profecto
+           nec iustitiae suae putaret esse,
+                   quem reum sententiis iudicum tradidisset,
+               eundem telis militum dedere,
+           nec sapientiae
+               temeritatem concitatae multitudinis auctoritate publica armare.
+
 >> But the wisdom of Cnaeus Pompeius, 
        a most wise and just man, 
-   strengthens and encourages me, 
-       who would certainly neither think 
-           it suitable to his justice 
-               to deliver that man up to the weapons of the soldiery
+   revives and restores me, 
+       who certainly would think it to be 
+           neither of his justice 
+               to deliver that man 
                    whom he had given over as an accused person to the decision 
-                   of the judges, 
-           nor suitable to his wisdom 
+                   of the judges 
+               to the weapons of the soldiery,
+           nor of his wisdom 
                to arm the rashness of an excited multitude with public authority. 
 
 3.1
