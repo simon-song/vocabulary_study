@@ -10,7 +10,7 @@
 Preface
 
 ==============
-Preface I.1.1
+Preface I.1
 
 >> 0.1.1
 Though for no other cause,
@@ -280,7 +280,7 @@ about the antecedent, the sense of the principal clause being complete without
 the relative clause; thus sometimes equivalent to 'and that (it, they, etc.)'.
 b. As subject or object of a verb.
 
-would <will
+would <will:
 OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
 the 2nd or 3rd persons, expressing merely a possibility or contingency in the
 supposed case.
@@ -318,7 +318,7 @@ this cause: that ...
 
 
 ==============
-Preface I.1.2
+Preface I.2
 
 >> 0.1.2
 At your hands,
@@ -416,34 +416,97 @@ bear:
 OED I. To carry; with its transferred and figurative senses. 2.a. fig. Said in
 reference to things immaterial, or to ideal carrying.
 
-unto:
+unto (prep.):
+OED A.I.1. Expressing or denoting motion directed towards and reaching (a place,
+point, or goal); 
 
-all:
+all (pron.):
+OED B.I.1.a. As the antecedent to a relative clause introduced by that, what
+(now nonstandard), or zero relative pronoun: every one of the things or people
+specified; all the parts or elements of the specified thing; everything or
+everyone. Usually with singular agreement except when referring to people.
 
-that:
+that (pron.2):
+OED I.1.a. Introducing a clause defining or restricting the antecedent, and thus
+complete its sense. (The ordinary use: referring to persons or things.)
 
-would:
+would <will:
+OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
+the 2nd or 3rd persons, expressing merely a possibility or contingency in the
+supposed case.
 
-but:
+but (adv.):
+OED B.2. Limiting a word or phrase. a. Nothing but, no more than, only, merely.
+Now somewhat literally.
 
 seem:
+OED 4. With infinitive: To appear to be or to do something.
 
 to:
+OED B.I. With infinitive in adverbial relation.
 
 be:
+OED IV.16. With past participle. a. In transitive verbs, forming the passive
+voice.
 
-born:
+born <bear:
+OED IV.42. To bring forth, produce, yield.
  
 of:
 OED III.8.a. Expressing ancestral or local origin, descent, etc.: following
 arise, be, come, descend, spring, etc.; be born, be bred, be derived, be
 propagated, etc.
 
-him:
+him (pron.):
+OED A. The objective case of the masculine third person singular pronoun,
+corresponding to the subjective HE pron. (in original use as a dative also to IT
+pron.)
+
+it:
+OED A.I.1. The thing previously mentioned, implied, or easily identified.
+a. As subject or subject complement.
+
+is <be:
+OED III. With adjective, noun, or adjective phrase, acting as simple copula:
+stating of what sort or what something is. Frequently in general statements and
+questions with it as non-specific, non-referentia, or existential subject.
+9. To exist as the subject of some predicate; to have membership of a class of
+things distinguished by a specified quality or name.
+
+not:
+OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
+auxiliary or not).
+
+the:
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
+
+sea:
+
+of:
+
+your:
+
+gall:
+
+and:
+
+bitterness:
+
+that:
+
+shall:
+
+ever:
+
+drown:
+
+paraphrase:
+it [i.e. the love] is not [anything] that the sea of your gall and bitterness shall ever drown
 
 
 ==============
-Preface I.1.3
+Preface I.3
 
 >> 0.1.3
 But our hope is,
@@ -543,7 +606,7 @@ let it be lawful for me to rip up to the very bottom,
 
 
 ==========================================================================
-Preface I.2
+Preface II
 The first establishment of new discipline by Mr. Calvin’s industry in the 
 Church of Geneva; and the beginning of strife about it amongst ourselves.
 
@@ -1284,7 +1347,7 @@ it resteth
 
 
 ==========================================================================
-Preface I.3
+Preface III 
 By what means so many of the people are trained unto the liking of that 
 discipline.
 
