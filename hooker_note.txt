@@ -174,7 +174,8 @@ OED 21. Because of, on account of: c. On account of one's regard for. So in for
 the sake of, used synonymously with for in this sense and in senses A.7, A.8.
 
 men's <man:
-OED I.1.b. As a general or indefinite designation, esp. with determiners such as
+OED I.1. A human being.
+b. As a general or indefinite designation, esp. with determiners such as
 every, any, no, etc., and in plural, esp. with all, any, some, many, few, etc.:
 a person.
 
@@ -323,8 +324,9 @@ Preface I.2
 >> 0.1.2
 At your hands,
     beloved in our Lord and Saviour Jesus Christ,
-    (for in him the love we bear unto all 
-         that would but seem to be born of him,
+    (for in him the love 
+	     which we bear unto all 
+             that would but seem to be born of him,
     it is not the sea of your gall and bitterness that shall ever drown,)
 I have no great cause to look for other than the selfsame portion and lot
     which your manner hath been to lay on them
@@ -481,26 +483,47 @@ the:
 OED A.I Definite article (determiner). Refering to an individual item (or
 items).
 
-
 sea:
+OED 7. figurative. With reference to metaphorical sailing, drowning, waves,
+etc.; also, a copious or overwhelming quantity or mass (of something).
 
 of:
+OED 20. Following a noun, connecting the material immediately with the thing.
 
 your:
+OED B. adj. The possessive adjective corresponding to ye, you.
 
 gall:
+OED I.1.b. figurative. With reference to the bitterness of gall. to dip one's
+pen in gall, to write with virulence and rancour.
 
 and:
+OED A. conj. I. Coordinating. Introducing a word, phrase, clause, or sentence,
+which is to be taken side by side with, along with, or in addition to, that
+which precedes it.
 
 bitterness:
+OED The quality of state of being bitter: b. to the mind or feelings.
 
-that:
+that (pron.2):
+OED I.1.a. Introducing a clause defining or restricting the antecedent, and thus
+complete its sense. (The ordinary use: referring to persons or things.)
 
 shall:
+OED 8. As a mere auxiliary, forming (with present infinitive) the future, and
+(with perfect infinitive) the future perfect tense.
+a. In Old English sceal, while retaining its primary sense, served as a
+tense-sign in announcing a future event as fated or divinedly decreed. Hence
+shall has always been the auxiliary used, in all persons, for prophetic or
+oracular announcements of the future, and for solemn assertions of the certainty
+of a future event.
 
-ever:
+ever (adv.):
+OED 5.a. At any time; (hence) on any occasion; in any circumstances.
 
 drown:
+OED 6.a. transferred and figurative. To overwhelm, to overpower, by rising above
+like a flood; to immerse or smother; to overpower (sound) by greater loudness.
 
 paraphrase:
 it [i.e. the love] is not [anything] that the sea of your gall and bitterness shall ever drown
@@ -517,6 +540,95 @@ But our hope is,
     enable us quietly even gladly to suffer all things,
         for that work sake 
             which we covet to perform.
+
+but (conj.):
+OED 12. In an independent clause within a compound sentence (usually after a
+semicolon or colon), or a the beginning of a following sentence.
+a. Introducing a statement of the nature of an exception, objection, limitation,
+or contrast to what has gone before: however, on the other hand, moreover, yet.
+
+our (adj.):
+OED B.1. Belonging to or associated with the speaker and one or more other
+people prviously mentioned or easily identified; belonging to or associated with
+people in general.
+
+hope:
+OED 2. Feeling of trust or confidence. Obsolete except as biblical archaism.
+
+is <be:
+OED III. With adjective, noun, or adjective phrase, acting as simple copula:
+stating of what sort or what something is. Frequently in general statements and
+questions with it as non-specific, non-referentia, or existential subject.
+9. To exist as the subject of some predicate; to have membership of a class of
+things distinguished by a specified quality or name.
+
+that (conj.):
+OED I.1.a. Introducing a subordinate noun clause, as subject, object, or other
+element of the principal clause, or as complement of a n. or adj., or in
+apposition to a n. therein.
+
+the:
+OED 4. Before a noun denoting one of a class of persons, things, events, etc.,
+used to indicate a particular instance that is most relevant in the context.
+When the word denotes a person, thing, event, etc., of public importance it
+assumes something of the character of a proper name, and is often written with a
+capital letter, eg. the Queen, the Lord Mayor, the Town, the House, the Court,
+the Tower, the Abbey, the River, the Channel, the Flood, the Reformation, the
+Revolution, the Englightenment.
+
+God:
+OED 6. A being such as is understood by the name of 'God'; a sole divine creator
+and ruler of the universe.
+c. Chiefly with of. Such a being as associated with or embodying a particular
+quality (as the God of love, the God of mercy, the God of vengeance, etc.) or
+sphere of life or action (as the God of nature, the God of revelation, the God
+of providence), or as conceived of in a specified religion or system of thought
+(as the God of philosophy, the God of pantheism, the God of Judaism).
+
+of (prep.):
+OED 47. Indicating a quality possessed by the subject.
+
+peace 
+OED 8. A person who embodies or fosters peace, harmony, concord, etc.
+
+shall:
+OED 8. As a mere auxiliary, forming (with present infinitive) the future, and
+(with perfect infinitive) the future perfect tense.
+a. In Old English sceal, while retaining its primary sense, served as a
+tense-sign in announcing a future event as fated or divinedly decreed. Hence
+shall has always been the auxiliary used, in all persons, for prophetic or
+oracular announcements of the future, and for solemn assertions of the certainty
+of a future event.
+
+notwithstanding:
+OED A. prep. In spite of. 1. With simple prepositional object.
+
+man's <man:
+OED I.1. A human being.
+b. As a general or indefinite designation, esp. with determiners such as
+every, any, no, etc., and in plural, esp. with all, any, some, many, few, etc.:
+a person.
+
+nature:
+OED III. Senses relating to innate character.
+7.a. More fully human nature. The basic character or disposition of mankind;
+humanity, humanness. Also: this character or disposition thought of as fallible
+or flawed; (in later use) an action or pattern of behaviour that typifies or
+results from such a fallible character or disposition.
+
+too 
+impatient 
+of 
+contumelious
+        
+malediction
+
+
+
+
+
+
+
 
 >> 0.1.4
 The wonderful zeal and fervour
