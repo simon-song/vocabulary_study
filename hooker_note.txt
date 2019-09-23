@@ -276,10 +276,9 @@ OED 1.a. The action of endeavouring; effort, or pains, directed to attain an
 object; a strenuous attempt or enterprise.
 
 which:
-OED 7. pron. The ordinary relative pronoun introducing an additional statement
-about the antecedent, the sense of the principal clause being complete without
-the relative clause; thus sometimes equivalent to 'and that (it, they, etc.)'.
-b. As subject or object of a verb.
+OED 8.a Introducing a clause defining or restricting the antecedent and thus
+completing the sense. Regularly so used after the antecedent that, or after a
+preposition; in other cases the more regular relative is that.
 
 would <will:
 OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
@@ -404,10 +403,9 @@ an individual; regard and consideration of one human being towards another
 prompted by a sense of a common relationship to God. 
 
 which:
-OED 7. pron. The ordinary relative pronoun introducing an additional statement
-about the antecedent, the sense of the principal clause being complete without
-the relative clause; thus sometimes equivalent to 'and that (it, they, etc.)'.
-b. As subject or object of a verb.
+OED 8.a Introducing a clause defining or restricting the antecedent and thus
+completing the sense. Regularly so used after the antecedent that, or after a
+preposition; in other cases the more regular relative is that.
 
 we:
 OED 1.d. Used indefinitely in general statements in which the speaker or writer 
@@ -636,19 +634,79 @@ OED 3.c. To supply with the requisite means or opportunities to an end or for an
 object. Const. to with infinitive.
 
 us 
+OED A. pron. The objective case of the first personal plural pronoun WE pron.,
+representing the Old English accusative and dative.
+
 quietly 
+OED 1. In a quiet manner (in various senses of the adjective); peacefully,
+meekly; with little or no noise, fuss, or disturbance; surreptitiously, without
+attracting attention.
+
 even 
+OED 8.a.(b) Introducing an adverbial clause expressing time, manner, place, or
+any attendant circumstance, indicating that the specified circumstances
+constitute an extreme or surprising case.
+
 gladly 
-to 
+OED 1.a. In a glad fashion; with gladness or joy. Also, in a weaker sense,
+willingly, with alcrity.
+
+to:
+OED B.I. With infinitive in adverbial relation.
+
 suffer 
+OED I.1. transitive. To have (something painful, distressing, or injurious)
+inflicted or imposed upon one; to submit to with pain, distress, or grief.
+
 all 
-things
+OED 2. With a plural noun, a plural personal or anaphoric pronoun, or a noun
+phrase or collective noun with plural agreement. The whole number of individual
+components or instances of, without exception; the entire number of.
 
+things <thing:
+OED 3.a. A matter with which one is concerned (in action, speech, or thought);
+an affair, a business, a conern, a subject. Now usually in plural: affairs,
+matters, circumstances.
 
+for 
+see sake below.
 
+that:
+OED B. adj. Demonstrative determiner.
+1.a. The simple demonstrative used (as adjective in concord with a n.), to
+indicate a thing or person either as being actually pointed out or present, or
+as having just been mentioned and being thus mentally pointed out.
 
+work (n.):
+OED I.1.a. An act, deed, or proceeding; something that is in the process of
+being, or has been, done or performed.
 
+sake:
+OED II. for the sake of (also for sake of); for (one's, a thing's) sake.
+7.a. Out of regard or consideration for (a thing); on account of, because of
+(something regarded in the light of an end, aim, purpose, etc.); often = out of
+desire for, in order to attain, etc.
 
+which:
+OED 8.a Introducing a clause defining or restricting the antecedent and thus
+completing the sense. Regularly so used after the antecedent that, or after a
+preposition; in other cases the more regular relative is that.
+
+we:
+OED 1.d. Used indefinitely in general statements in which the speaker or writer 
+includes those addressed, i.e. his or her contemporaries, compatriots, fellow 
+human beings, etc.
+
+covet (v.):
+OED 1. transitive. To desire; esp. to desire eagerly, to wish for, long for.
+
+to:
+OED B.I. With infinitive in adverbial relation.
+
+perform (v.):
+OED I.1. transitive. a. To carry out in action, execute, or fulfil (a command,
+request, undertaking, threat, etc.); to carry into effect, discharge (a service,
+duty, etc.).
 
 >> 0.1.4
 The wonderful zeal and fervour
