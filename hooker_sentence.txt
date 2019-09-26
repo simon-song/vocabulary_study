@@ -1,5 +1,5 @@
 ======================================================================
-=    Notes on Hooker's Of the Laws of Ecclesiastical Polity
+=  Sentence Analysis of Hooker's Of the Laws of Ecclesiastical Polity
 =
 =  lable: 
 =    e.g. 0.1.1 means Preface, section 1, sentence 1
@@ -25,298 +25,6 @@ yet for this,
             and their careful endeavour 
                 which would have upheld the same.
 
-Though (conj.):
-OED B.II.2.a. Introducing a subordinate clause expressing a supposition or
-possibility: Even if; even supposing that; granting that. b. With ellipsis.
-
-for (prep.):
-OED VII.21 Because of, on account of.
-
-no (adj.):
-OED 3.a. Modifying an adjective and singular noun and negating the adjective
-rather than the whole noun phrase (usually implying that an adjective of an
-opposite meaning would be more correct or appropriate).
-
-other (adj.):
-OED 5. Existing besides, or distinct from, that already mentioned or implied;
-not this, not the same, different in identity; further, additional.
-5.b with sing. n. qualifed by an, any, some, no, or preceded by a negative
-expressed or implied.
-
-cause (n.):
-OED 3.a. A fact, condition of matters, or consideration, moving a person to
-action; ground of action; reason for action, motive.
-
-yet (adv.):
-OED A.III.10. In spite of that, for all that, (but) nevertheless. Sometimes 
-strengthened by nevertheless, notwithstanding, and often correlative to though. 
-Yet, in this sense, is similar in meaning to but conj. 11b; however it is more 
-emphatic and freer in construction, and may be preceded by and or but. This 
-sense of yet is nearly equivalent to STILL adv. 6b; but still indicates mainly 
-that the fact or condition remains unaltered by the adverse one, whereas yet 
-usually indicates that it is in some degree surprising or unexpected.
-
-for (prep.):
-OED VII.21 Because of, on account of.
-
-this (pron.):
-OED I.1.d Pointing to a statement, proposal, or question which immediately
-follows.
-
-that (conj.):
-OED I.1.a. Introducing a dependent substantive-clause, as subject, object, or
-other element of the principal clause, or as complement of a n. or adj., or in
-apposition with a n. therein.
-
-posterity:
-OED 2.b. All succeeding generations (collectively).
-
-may (v.):
-OED 7. Expressing present subjective possibility, i.e. the admissibility 
-of a supposition, in a direct or indirect statement.
-a. In relation to the future and in general predictions (I may be or do 
-= 'it is possible that I will be' or 'do').
-
-know:
-OED 11. To be aware or apprised of (something, typically a fact expressed 
-propositionally), esp. through observation, inquiry, or information. In early 
-use sometimes: to get to understand, to find out, learn (obsolete).
-a. transitive. With an indirect statement. (a) With clause as object, usually 
-introduced by that. Sometimes (now only in passive) with it (or that) followed 
-by that-clause.
-
-we:
-OED 1.d. Used indefinitely in general statements in which the speaker or writer 
-includes those addressed, i.e. his or her contemporaries, compatriots, fellow 
-human beings, etc.
-[It is unclear what does Hooker mean by we here.]
-
-have:
-OED VI. As an auxiliary verb, used with the past participle of another verb 
-to form the perfect. 30. With a transitive verb.
-
-not:
-OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
-auxiliary or not).
-
-loosely:
-OED 2. Without care, strictness, or rigour; not strictly, carelessly,
-negligently, laxly. Said esp. of thought or its expression.
-
-through (prep.):
-OED III.12.a. By means of; by the intermediate agency of; with the aid of; 
-via. In early use also: †by the primary agency or action of (obsolete).
-
-silence:
-OED 1.a. The fact of abstaining or forbearing from speech or utterance
-(sometimes with reference to a particular matter); the state or condition
-resulting from this; muteness, reticence, taciturnity. Occa. with a or in pl.
-
-permitted <permit(v.):
-OED 3.a. Transitive. To allow or give consent to (a person or thing) to do or 
-undergo something. Chiefly with infinitive.
-
-things <thing:
-OED 3.a. That with which one is concerned (in action, speech, or thought); an
-affair, business, concern, matter, subject; pl. affairs, concerns, matters. (In
-early use sometimes sing. in collective sense.)
-
-to (prep.):
-OED B. before an infinitive. I. With infinitive in adverbial relation. 1.a.
-(Indicating purpose or intention) Dependent on a verb, to with inf. = in order
-to; equivalent to that or in order that with subjunctive, or to for or for the
-purpose of with gerund.
-The implied subject of the inf. may be either a subject or an object of the
-principal clause.
-
-pass away <pass:
-OED PV1.a. intransitive. Of a thing: to cease to exist; to perish or disappear; 
-to be dissolved.
-
-as (conj.):
-OED B.II.6.a. With the subordinate clause consisting only of an adverbial or 
-complement: in the same way as, as if, as it were.
-
-in:
-OED 8. With non-physical realms, regions of thoughts, departments of faculties
-of the mind, spheres of action, etc., treated as having extension or content.
-
-a:
-indefinite article
-
-dream (n.2):
-OED A.1.a. A series of images, thoughts, and emotions, often with a story-like 
-quality, generated by mental activity during sleep; the state in which this 
-occurs. Also: a prophetic or supernatural vision experienced when either 
-awake or asleep.
-
-there:
-OED B.4. Used unemphatically to introduce a sentence or clause in which, for the
-sake of emphasis or preparing the hearer, the verb comes before its subject, as
-there comes a time when, etc., there was heard a rumbling noise. In
-interrogative sentences there comes between the verb and subject, as Breathes
-there the man, etc., or follows the first word of a compound verb, as Does there
-breathe a man?, Shall there be any notice taken of it? The same order was
-formerly observed after an introductory adv. or clause, as Then came there a
-voice, Soon shall there arise a prophet.
-d. especially with the verb to be: cf. BE B.1, 1b, 5b. there is, there are, are
-equivalent to F. il est, il y a, Ger. es ist, est sind, es giebt, Sp. hay.
-
-shall:
-OED B.5 In commands or instructions. b. In the third person.
-
-be:
-OED I. Without required complement: To have or take place in the world of 
-fact, to exist, occur, happen.
-
-for:
-OED 21. Because of, on account of: c. On account of one's regard for. So in for
-the sake of, used synonymously with for in this sense and in senses A.7, A.8.
-
-men's <man:
-OED I.1. A human being.
-b. As a general or indefinite designation, esp. with determiners such as
-every, any, no, etc., and in plural, esp. with all, any, some, many, few, etc.:
-a person.
-
-information:
-OED I.1.a. The shaping of the mind or character; communication of instructive
-knowledge; education, training; advice (obsolete).
-
-extant:
-OED A.2. Standing forth to view; in early use, with phrase extant to the sight,
-to be seen: prominent, conspicuous, manifest. Now arch. rare.
-
-thus much <thus:
-OED 3. Qualifying an adj. or adv.: To this extent, number, or degree; as .. as
-this; so; esp. thus far, to this point (often used to indicate the end of a
-quotation); thus much, so much, as much as this.
-
-concerning (prep.):
-OED 1.a. As regards; as relates to. Chiefly in as concerning: as far as
-concerns; as to.
-
-the (adj.):
-OED A.I Definite article (determiner). Refering to an individual item (or
-items).
-
-present(adj.):
-OED II.6. Existing or occuring now; that is or is so at this time; current,
-contemporary; in use or vogue at this time, modern. Opposed to past and future.
-
-state (n.):
-OED I.1.a. The combination of circumstances or attributes belonging at a
-particular time to a person or thing; a particular manner or way of existing as
-defined by the presence of certain circumstances or attributes; a condition.
-Frequently with of.
-
-of (prep.):
-OED VIII. Indicating the subject matter of thought, feeling, or action.
-26. Following nouns. Now chiefly limited to nouns of knowing, narrating,
-informing, and the like.
-
-the:
-OED 4. Before a noun denoting one of a class of persons, things, events, etc.,
-used to indicate a particular instance that is most relevant in the context.
-When the word denotes a person, thing, event, etc., of public importance it
-assumes something of the character of a proper name, and is often written with a
-capital letter, eg. the Queen, the Lord Mayor, the Town, the House, the Court,
-the Tower, the Abbey, the River, the Channel, the Flood, the Reformation, the
-Revolution, the Englightenment.
-
-Church:
-OED 6. Frequently (esp. in later use) with capital initial. a. Chiefly with the.
-The ecclesiastical and clerical organization of Christianity, or of a particular
-large body of Christians (such as a nation or denomination), as exercising
-religious authority and upholding ecclesiastical law. Also: the clergy and
-officials of this organization collectively or as a corporation owning property,
-collecting dues, etc., and (esp. in early use) as an estate of the realm.
-In this sense the Church is sometimes opposed to the State or the political
-organization, the civil government.
-
-of:
-OED 35.a. Belonging to a person or thing, as something that he, she, or it has
-or possesses (=the possessive genitive, and akin to the subjective, sense 15).
-
-God:
-OED 5. Especially in Judaism, Christianity, and Islam: the Supreme Being,
-regarded as the creator and ruler of the universe.
-
-established: <establish(v.)
-OED 7. From 16th century often used with reference to ecclesiastical ceremonies
-or organization, and to the recognized national church or its religion; in early
-use chiefly passive in sense 2 (esp. in phrase by law established, i.e.
-'prescribed or settled by law'), but sometimes with mixture of sense 3-5. Hence
-in recent use: To place (a church or a religious body) in the position of a
-national or state church.
-
-amongst:
-OED 6. = among prep.7,8
-Of the relation of joint action to the various actors: By the joint action of.
-
-us:
-OED A. pron. The objective case of the first personal plural pronoun WE pron.,
-representing the old English accusative and dative.
-
-and (conj.):
-OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
-to be taken side by side with, along with, or in addition to, that which
-precedes it.
-7. Connecting coordinate clauses or sentences. a. Simple connective.
-
-their:
-OED 3. As antecedent to a following relative clause, equivalent to 'of those'.
-Now rare.
-
-careful:
-OED 7.b Showing care, done or performed with care.
-
-endeavour:
-OED 1.a. The action of endeavouring; effort, or pains, directed to attain an
-object; a strenuous attempt or enterprise.
-
-which:
-OED 8.a Introducing a clause defining or restricting the antecedent and thus
-completing the sense. Regularly so used after the antecedent that, or after a
-preposition; in other cases the more regular relative is that.
-
-would <will:
-OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
-the 2nd or 3rd persons, expressing merely a possibility or contingency in the
-supposed case.
-
-have:
-OED II. As an auxiliary verb. As in the other Germanic (and Romanic) languages,
-the various moods and tenses of have are used with the past participle of
-another verb, to form a series of compound or 'perfect' tenses of the latter,
-expressing action already finished at the time indicated, and answering to the
-Latin perfect tneses dedi, dederam, dedero, dedisse, etc.
-
-upheld <uphold:
-OED 2.a. To support, sustain, maintain, by aid or assistance; to preserve
-unimpaired or intact.
-
-the (adj.):
-OED A.I Definite article (determiner). Refering to an individual item (or
-items). b. Placed before pronouns and determiners.
-
-same (pron.):
-OED B.2.a. The same thing.Formerly also that same, this same.
-cf. A.2.a With backward reference: Identical with what has been indicated.
-
-
-Simon says:
-(1) This evocation of prosperity is somewhat unexpected as Hooker is supposed to
-address the puritans directly.
-(2) "through silence" may also complement "pass away", as "we have not loosely
-permitted things to pass away [through silence] as in a dream".
-(3) "the same" refers to "the Church of God established amongst us".
-
-Paraphrase:
-[I write for many causes.] Even if for no other cause, yet I still write for
-this cause: that ...
-
-
 ==============
 Preface I.2
 
@@ -331,201 +39,6 @@ I have no great cause to look for other than the selfsame portion and lot
     which your manner hath been to lay on them
         that concur not in opinion and sentence with you.
 
-at (prep.):
-OED 11. Determining the source from which anything comes, and at which we seek
-it: eg. To ask, inquire, seek, learn, take, get, obtain, find, have, receive,
-buy, earn, win, suffer, at. Obsolete or dialect (repl. by of, from) except in
-(b.) the expanded phrases at the mouth or at the hands of.
-
-your (adj.):
-OED B. adj. The possessive adjective corresponding to ye, you.
-1.a. Belonging or relating to the person or people being addressed; which you
-have, hold, or possess.
-
-hands <hand:
-OED P1.a.(b) at the hand(s) of, at a person's hand(s). (i) From the hands of;
-from. Used to express the immediate source, after such verbs as receive, take,
-find, seek, require, etc. (see AT prep.11). Now somewhat rare.
-
-beloved (n.):
-OED B. A person who is (dearly) loved, a loved one; (also) beloved people as a
-class. Frequently with possessive adjective.
-
-in:
-OED 23. In spiritual or mystical union with.
- 
-our (adj.):
-OED B.1. Belonging to or associated with the speaker and one or more other
-people prviously mentioned or easily identified; belonging to or associated with
-people in general.
-
-Lord:
-OED 6.b. (A title or name for) Jesus. Frequently with the. Also in Lord Jesus
-(Christ) or Lord Christ.
-
-and (conj.):
-OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
-to be taken side by side with, along with, or in addition to, that which
-precedes it.
-
-Saviour:
-OED 1.a. God or (more usually) Christ, conceived of as offering salvation to
-mankind and redemption from sin. Frequently with our, the. In later use chiefly
-with capital initial.
-
-Jesus:
-
-Christ:
-OED 2.a. The title given to Jesus of Nazareth, as embodying the fulfilment of
-Messianic prophecy and expectation; since the earliest Christian times treated
-as a proper name.
-
-for (conj.):
-OED B.1. Introducing the cause of a fact, the statement of which precedes or
-follows.
-
-in:
-OED 23. In spiritual or mystical union with.
-
-him (pron.):
-OED A. The objective case of the masculine third person singular pronoun,
-corresponding to the subjective HE pron. (in original use as a dative also to IT
-pron.)
-
-the:
-OED A.I Definite article (determiner). Refering to an individual item (or
-items).
-
-love:
-OED 2. In religious use: the benevolence and affection of God towards an
-individual or towards creation; (also) the affectionate devotion due to God from
-an individual; regard and consideration of one human being towards another
-prompted by a sense of a common relationship to God. 
-
-which:
-OED 8.a Introducing a clause defining or restricting the antecedent and thus
-completing the sense. Regularly so used after the antecedent that, or after a
-preposition; in other cases the more regular relative is that.
-
-we:
-OED 1.d. Used indefinitely in general statements in which the speaker or writer 
-includes those addressed, i.e. his or her contemporaries, compatriots, fellow 
-human beings, etc.
-
-bear:
-OED I. To carry; with its transferred and figurative senses. 2.a. fig. Said in
-reference to things immaterial, or to ideal carrying.
-
-unto (prep.):
-OED A.I.1. Expressing or denoting motion directed towards and reaching (a place,
-point, or goal); 
-
-all (pron.):
-OED B.I.1.a. As the antecedent to a relative clause introduced by that, what
-(now nonstandard), or zero relative pronoun: every one of the things or people
-specified; all the parts or elements of the specified thing; everything or
-everyone. Usually with singular agreement except when referring to people.
-
-that (pron.2):
-OED I.1.a. Introducing a clause defining or restricting the antecedent, and thus
-complete its sense. (The ordinary use: referring to persons or things.)
-
-would <will:
-OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
-the 2nd or 3rd persons, expressing merely a possibility or contingency in the
-supposed case.
-
-but (adv.):
-OED B.2. Limiting a word or phrase. a. Nothing but, no more than, only, merely.
-Now somewhat literally.
-
-seem:
-OED 4. With infinitive: To appear to be or to do something.
-
-to:
-OED B.I. With infinitive in adverbial relation.
-
-be:
-OED IV.16. With past participle. a. In transitive verbs, forming the passive
-voice.
-
-born <bear:
-OED IV.42. To bring forth, produce, yield.
- 
-of:
-OED III.8.a. Expressing ancestral or local origin, descent, etc.: following
-arise, be, come, descend, spring, etc.; be born, be bred, be derived, be
-propagated, etc.
-
-him (pron.):
-OED A. The objective case of the masculine third person singular pronoun,
-corresponding to the subjective HE pron. (in original use as a dative also to IT
-pron.)
-
-it:
-OED A.I.1. The thing previously mentioned, implied, or easily identified.
-a. As subject or subject complement.
-
-is <be:
-OED III. With adjective, noun, or adjective phrase, acting as simple copula:
-stating of what sort or what something is. Frequently in general statements and
-questions with it as non-specific, non-referentia, or existential subject.
-9. To exist as the subject of some predicate; to have membership of a class of
-things distinguished by a specified quality or name.
-
-not:
-OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
-auxiliary or not).
-
-the:
-OED A.I Definite article (determiner). Refering to an individual item (or
-items).
-
-sea:
-OED 7. figurative. With reference to metaphorical sailing, drowning, waves,
-etc.; also, a copious or overwhelming quantity or mass (of something).
-
-of:
-OED 20. Following a noun, connecting the material immediately with the thing.
-
-your:
-OED B. adj. The possessive adjective corresponding to ye, you.
-
-gall:
-OED I.1.b. figurative. With reference to the bitterness of gall. to dip one's
-pen in gall, to write with virulence and rancour.
-
-and:
-OED A. conj. I. Coordinating. Introducing a word, phrase, clause, or sentence,
-which is to be taken side by side with, along with, or in addition to, that
-which precedes it.
-
-bitterness:
-OED The quality of state of being bitter: b. to the mind or feelings.
-
-that (pron.2):
-OED I.1.a. Introducing a clause defining or restricting the antecedent, and thus
-complete its sense. (The ordinary use: referring to persons or things.)
-
-shall:
-OED 8. As a mere auxiliary, forming (with present infinitive) the future, and
-(with perfect infinitive) the future perfect tense.
-a. In Old English sceal, while retaining its primary sense, served as a
-tense-sign in announcing a future event as fated or divinedly decreed. Hence
-shall has always been the auxiliary used, in all persons, for prophetic or
-oracular announcements of the future, and for solemn assertions of the certainty
-of a future event.
-
-ever (adv.):
-OED 5.a. At any time; (hence) on any occasion; in any circumstances.
-
-drown:
-OED 6.a. transferred and figurative. To overwhelm, to overpower, by rising above
-like a flood; to immerse or smother; to overpower (sound) by greater loudness.
-
-paraphrase:
-it [i.e. the love] is not [anything] that the sea of your gall and bitterness shall ever drown
-
 
 ==============
 Preface I.3
@@ -539,174 +52,6 @@ But our hope is,
         for that work sake 
             which we covet to perform.
 
-but (conj.):
-OED 12. In an independent clause within a compound sentence (usually after a
-semicolon or colon), or a the beginning of a following sentence.
-a. Introducing a statement of the nature of an exception, objection, limitation,
-or contrast to what has gone before: however, on the other hand, moreover, yet.
-
-our (adj.):
-OED B.1. Belonging to or associated with the speaker and one or more other
-people prviously mentioned or easily identified; belonging to or associated with
-people in general.
-
-hope:
-OED 2. Feeling of trust or confidence. Obsolete except as biblical archaism.
-
-is <be:
-OED III. With adjective, noun, or adjective phrase, acting as simple copula:
-stating of what sort or what something is. Frequently in general statements and
-questions with it as non-specific, non-referentia, or existential subject.
-9. To exist as the subject of some predicate; to have membership of a class of
-things distinguished by a specified quality or name.
-
-that (conj.):
-OED I.1.a. Introducing a subordinate noun clause, as subject, object, or other
-element of the principal clause, or as complement of a n. or adj., or in
-apposition to a n. therein.
-
-the:
-OED 4. Before a noun denoting one of a class of persons, things, events, etc.,
-used to indicate a particular instance that is most relevant in the context.
-When the word denotes a person, thing, event, etc., of public importance it
-assumes something of the character of a proper name, and is often written with a
-capital letter, eg. the Queen, the Lord Mayor, the Town, the House, the Court,
-the Tower, the Abbey, the River, the Channel, the Flood, the Reformation, the
-Revolution, the Englightenment.
-
-God:
-OED 6. A being such as is understood by the name of 'God'; a sole divine creator
-and ruler of the universe.
-c. Chiefly with of. Such a being as associated with or embodying a particular
-quality (as the God of love, the God of mercy, the God of vengeance, etc.) or
-sphere of life or action (as the God of nature, the God of revelation, the God
-of providence), or as conceived of in a specified religion or system of thought
-(as the God of philosophy, the God of pantheism, the God of Judaism).
-
-of (prep.):
-OED 47. Indicating a quality possessed by the subject.
-
-peace 
-OED 8. A person who embodies or fosters peace, harmony, concord, etc.
-
-shall:
-OED 8. As a mere auxiliary, forming (with present infinitive) the future, and
-(with perfect infinitive) the future perfect tense.
-a. In Old English sceal, while retaining its primary sense, served as a
-tense-sign in announcing a future event as fated or divinedly decreed. Hence
-shall has always been the auxiliary used, in all persons, for prophetic or
-oracular announcements of the future, and for solemn assertions of the certainty
-of a future event.
-
-notwithstanding:
-OED A. prep. In spite of. 1. With simple prepositional object.
-
-man's <man:
-OED I.1. A human being.
-b. As a general or indefinite designation, esp. with determiners such as
-every, any, no, etc., and in plural, esp. with all, any, some, many, few, etc.:
-a person.
-
-nature:
-OED III. Senses relating to innate character.
-7.a. More fully human nature. The basic character or disposition of mankind;
-humanity, humanness. Also: this character or disposition thought of as fallible
-or flawed; (in later use) an action or pattern of behaviour that typifies or
-results from such a fallible character or disposition.
-
-too (adv.):
-OED II.2.a. gen. In excess of what ought to be; more than is right or fitting.
-
-impatient of <impatient:
-OED A. adj. 
-1.b. With of: Unable or unwilling to endure or put up with; intolerant of.
-
-contumelious (adj.):
-OED 1.a. Of words and actions: Of the nature of, or full of contumely;
-reproachful and tending to convey disgrace and humiliation; despiteful.
-        
-malediction (n.):
-OED 1.a. A curse; the utterance of a curse; the condition of being under a ban
-or curse.
-
-enable (v.):
-OED 3.c. To supply with the requisite means or opportunities to an end or for an
-object. Const. to with infinitive.
-
-us: 
-OED A. pron. The objective case of the first personal plural pronoun WE pron.,
-representing the Old English accusative and dative.
-
-quietly 
-OED 1. In a quiet manner (in various senses of the adjective); peacefully,
-meekly; with little or no noise, fuss, or disturbance; surreptitiously, without
-attracting attention.
-
-even 
-OED 8.a.(b) Introducing an adverbial clause expressing time, manner, place, or
-any attendant circumstance, indicating that the specified circumstances
-constitute an extreme or surprising case.
-
-gladly 
-OED 1.a. In a glad fashion; with gladness or joy. Also, in a weaker sense,
-willingly, with alcrity.
-
-to:
-OED B.I. With infinitive in adverbial relation.
-
-suffer 
-OED I.1. transitive. To have (something painful, distressing, or injurious)
-inflicted or imposed upon one; to submit to with pain, distress, or grief.
-
-all 
-OED 2. With a plural noun, a plural personal or anaphoric pronoun, or a noun
-phrase or collective noun with plural agreement. The whole number of individual
-components or instances of, without exception; the entire number of.
-
-things <thing:
-OED 3.a. A matter with which one is concerned (in action, speech, or thought);
-an affair, a business, a conern, a subject. Now usually in plural: affairs,
-matters, circumstances.
-
-for 
-see sake below.
-
-that:
-OED B. adj. Demonstrative determiner.
-1.a. The simple demonstrative used (as adjective in concord with a n.), to
-indicate a thing or person either as being actually pointed out or present, or
-as having just been mentioned and being thus mentally pointed out.
-
-work (n.):
-OED I.1.a. An act, deed, or proceeding; something that is in the process of
-being, or has been, done or performed.
-
-sake:
-OED II. for the sake of (also for sake of); for (one's, a thing's) sake.
-7.a. Out of regard or consideration for (a thing); on account of, because of
-(something regarded in the light of an end, aim, purpose, etc.); often = out of
-desire for, in order to attain, etc.
-
-which:
-OED 8.a Introducing a clause defining or restricting the antecedent and thus
-completing the sense. Regularly so used after the antecedent that, or after a
-preposition; in other cases the more regular relative is that.
-
-we:
-OED 1.d. Used indefinitely in general statements in which the speaker or writer 
-includes those addressed, i.e. his or her contemporaries, compatriots, fellow 
-human beings, etc.
-
-covet (v.):
-OED 1. transitive. To desire; esp. to desire eagerly, to wish for, long for.
-
-to:
-OED B.I. With infinitive in adverbial relation.
-
-perform (v.):
-OED I.1. transitive. a. To carry out in action, execute, or fulfil (a command,
-request, undertaking, threat, etc.); to carry into effect, discharge (a service,
-duty, etc.).
 
 >> 0.1.4
 The wonderful zeal and fervour
@@ -719,144 +64,6 @@ was the first thing
         fearing God,
     stand bound to join with you for the furtherance of that
         which ye term the Lord's discipline.
-
-the:
-OED A.I Definite article (determiner). Refering to an individual item (or
-items).
-
-wonderful:
-OED A. adj. 1.a. Full of wonder; such as to excite wonder or astonishment;
-marvellous; sometimes used trivially = surprisingly large, fine, excellent, etc.
-
-zeal (n.):
-OED 2. Passionate enthusiasm for or dedication to a cause, belief, undertaking,
-etc.; vehement, eager, or dedicated pursuit of an objective. Also with
-disparaging implication: excessive or immoderate enthusiasm, devotion, or
-fevour. Frequently with for; formerly also with of, to, unto, etc.
-
-and:
-OED A. conj. I. Coordinating. Introducing a word, phrase, clause, or sentence,
-which is to be taken side by side with, along with, or in addition to, that
-which precedes it.
-
-fervour:
-OED 2. Warmth or glow of feeling, passion, vehemence, intense zeal; an instance
-of the same.
-
-wherewith 
-OED II. relative. With which.
-
-ye:
-OED A. pron. The subjective case of the second person plural pronoun. Now
-archaic or regional.
-
-have:
-OED VI. As an auxiliary verb, used with the past participle of another verb 
-to form the perfect. 30. With a transitive verb.
-
-withstood <withstand:
-OED 1.a. transitive. To stand or maintain one's or its position against; to
-offer resistance to, resist, oppose: often with implication that the resistance
-is successful or effectual.
-
-the 
-OED A.I Definite article (determiner). Refering to an individual item (or
-items).
-
-received (adj.):
-OED 1.a. Generally adopted, accepted, or approved as true, authritative, or
-standard. Frequently in received opinion, received wisdom.
-
-order 
-OED I.2.a. A grade or rank in the Christian ministry, or in an ecclesiastical
-hierarchy.
-
-of:
-OED 35.a. Belonging to a person or thing, as something that he, she, or it has
-or possesses (=the possessive genitive, and akin to the subjective, sense 15).
-
-this:
-OED II. Demonstrative determiner. 5.d. Referring to something as known, talked
-about, or inferred; esp. (colloquial) to something now in vogue or recently
-introduced. Also, the present or existing.
-
-church:
-OED 6. Frequently (esp. in later use) with capital initial. a. Chiefly with the.
-The ecclesiastical and clerical organization of Christianity, or of a particular
-large body of Christians (such as a nation or denomination), as exercising
-religious authority and upholding ecclesiastical law. Also: the clergy and
-officials of this organization collectively or as a corporation owning property,
-collecting dues, etc., and (esp. in early use) as an estate of the realm.
-In this sense the Church is sometimes opposed to the State or the political
-organization, the civil government.
-
-was <be:
-OED I. Without required complement: To have or take place in the world of 
-fact, to exist, occur, happen.
-
-the: 
-OED A.I. Definite article (determiner). Refering to an individual item (or
-items). 17.b. With the superlative or ordinal as head of the noun phrase.
-
-first:
-OED A.adj. That is before all others; earliest in time or serial order, foremost
-in position, rank, or importance. 
-
-thing:
-OED 3.a. That with which one is concerned (in action, speech, or thought); an
-affair, business, concern, matter, subject; pl. affairs, concerns, matters. (In
-early use sometimes sing. in collective sense.)
-
-which:
-OED 8.a Introducing a clause defining or restricting the antecedent and thus
-completing the sense. Regularly so used after the antecedent that, or after a
-preposition; in other cases the more regular relative is that.
-
-caused <cause: (v.)
-OED 1.a. transitive. To be the cause of; to effect, bring about, produce,
-induce, make.
-
-me:
-OED A. pron. The objective case of the first personal pronoun I pron.,
-representing the Old English accusative and dative.
-
-to:
-OED B.I. With infinitive in adverbial relation.
-
-enter:
-OED I. Abstract and non-physical senses.
-1.a. intransitive. With into, in. To take on a specified role, commitment,
-relationship, etc.; to assume the duties and responsibilities of a particular
-office or position.
-
-into:
-OED 3. In reference to non-physical realms, regions of thought, departments or
-faculties of the mind, etc., treated as having extension or content.
-
-consideration:
-OED 2.a. The keeping of a subject before the mind; attentive thought,
-reflection, meditation.
-
-whether:
-OED II. conj. 7. By suppression of the second alternative, whether comes to
-introduce a simple indirect question, and becomes the ordinary sign of indirect
-interrogation =IF conj.9.
-
-        as all your published books and writings peremptorily maintain,
-    every Christian man,
-        fearing God,
-    stand bound to join with you for the furtherance of that
-        which ye term the Lord's discipline.
-
-
-
-
-
-
-
-
-
-
 
 >> 0.1.5
 Wherein I must plainly confess unto you,
@@ -936,7 +143,7 @@ let it be lawful for me to rip up to the very bottom,
 
 ==========================================================================
 Preface II
-The first establishment of new discipline by Mr. Calvin’s industry in the 
+The first establishment of new discipline by Mr. Calvin's industry in the 
 Church of Geneva; and the beginning of strife about it amongst ourselves.
 
 >> 0.2.1
@@ -1680,52 +887,121 @@ Preface III
 By what means so many of the people are trained unto the liking of that 
 discipline.
 
->> 0.3.1
+==================================
+Preface, III.1
+
 The first mean 
     whereby nature teacheth men to judge good from evil,
         as well in laws as in other things,
 is the force of their own discretion.
 
->> 0.3.2
 Hereunto therefore St. Paul referreth oftentimes his own speech
     to be considered of by them 
-        that heard him:
+        that heard him.
 
->> 0.3.3
 "I speak as to them
     which have understanding,
 judge ye 
     what I say."
 
->> 0.3.4
     Again afterward,
 "Judge in yourselves,
     is it comely 
         that a woman pray uncovered?"
 
->> 0.3.5
 The exercise of this kind of judgment our Saviour requireth in the Jews.
 
->> 0.3.6
 In them of Berea the Scripture commendeth it.
 
->> 0.3.7
     Finally,
 whatsoever we do,
     if our own secret judgment consent not unto it as fit and good to be done,
 the doing of it to us is sin,
     although the thing itself be allowable.
 
->> 0.3.8
 St. Paul's rule therefore generally is:
     "Let every man in his own heart be fully conviced of that thing
          which he either alloweth or doth."
 
->> 0.3.9
+==================================
+Preface, III.2
+
 Some things are so familiar and plain,
     that truth from falsehood, and good from evil, is most easily discerned in
     them,
         even by men of no deep capacity.
+
+And of that nature,
+	for the most part,
+are things absolutely unto all men's salvation necessary,
+	either to be held or denied,
+	either to be done or avoided.
+
+For which cause St. Augustine acknowledgeth
+    that they are not only set down
+   	    but also plainly set down in Scripture;
+	so that he 
+	    which heareth or readeth
+	may without any great difficulty understand.
+
+Other things also there are belonging
+    (though in a lower degree of importance)
+unto the offices of Christian men:
+	which,
+	    because they are more obscure, more intricate and hard to be judged of,
+	therefore God hath appointed some to spend their whole time principally in
+	the study of things divine,
+	    to the end that in these more doubtful cases their understanding might
+		be a light to direct others.
+
+    "If the understanding power or the faculty of the soul be"
+(saith the grand physician)
+        "like unto bodily sight,
+    not of equal sharpness in all,
+what can be more convenient than that,
+    even as the dark-sighted man is directed by the clear about things visible;
+so likewise in matters of deeper discourse the wise in heart do shew the simple
+    where his way lieth?"   
+
+    In our doubtful cases of law,
+what man is there 
+    who seeth not 
+	    how requisite it is
+		    that professors of skill in that faculty be our directors?
+
+So it is in all other kinds of knowledge.
+
+And even in this kind likewise the Lord hath himself appointed,
+	that "the priest's lips should preseve knowledge,
+	and that other men should seek the truth at his mouth,
+	    because he is the messenger of the Lord of hosts."
+
+Gregory Nazianzen,
+    offended at the people's too great presumption in controlling the judgment
+    of them
+        to whom in such cases they should have rather submitted their own,
+seeketh by earnest entreaty to stay them with their bounds:
+"Presume not ye 
+    that are sheep
+to make yourselves guides of them
+    who should guide you;
+neither seek ye to overskip the fold
+    which they about you have pitched.
+It sufficeth for your part,
+    if ye can well frame yourselves to be ordered.
+Take not upon you to judge your judges,
+nor to make them subject to your laws
+    who should be a law to you;
+    for God is not a God of sedition and confusion,
+        but of order and peace."
+   
+
+
+
+
+
+
+
 
 ==================================
 Preface, IV.2
