@@ -842,7 +842,20 @@ OED II. conj. 7. By suppression of the second alternative, whether comes to
 introduce a simple indirect question, and becomes the ordinary sign of indirect
 interrogation =IF conj.9.
 
-        as all your published books and writings peremptorily maintain,
+as:
+OED 9.a. Introducing a clause modifying the whole main clause or some part other
+than its predicate: in accordance with what (is); in the way that. 
+
+all 
+your 
+published 
+books 
+and 
+writings 
+peremptorily 
+maintain,
+
+
     every Christian man,
         fearing God,
     stand bound to join with you for the furtherance of that
