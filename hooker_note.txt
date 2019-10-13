@@ -856,25 +856,85 @@ OED B. adj. The possessive adjective corresponding to ye, you.
 1.a. Belonging or relating to the person or people being addressed; which you
 have, hold, or possess.
 
-published 
+published: (adj.)
+OED 1.a. Formerly: public; carried out openly; celebrated, noted, notorious;
+(obsolete). Also: declared, announced; (of a book, a musical composition, etc.)
+that has been prepared and issued for public sale, distribution, or readership;
+(of information) made generally known, publicly announced.
 
 books <book: (n.)
+OED 1.a. A portable volume consisting of a series of written, printed, or
+illustrated pages bound together for ease of reading.
 
 and: (conj.)
 OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
 to be taken side by side with, along with, or in addition to, that which
 precedes it.
 
-writings 
+writings <writing: (n.)
+OED 7.a. A written composition; frequently plural, the work or works of an
+author or group of authors; literay production.
 
-peremptorily 
-maintain,
+peremptorily: (adv.)
+OED 5. So as to (finally) settle or decide a matter, question, etc.; decisively,
+conclusively; so as to preclude question, doubt, or alteration; definitely. Now
+rare.
+
+maintain: (v.)
+OED 3.b. With clause: to affirm, assert, or contend (that). With object and
+infinitive (now somewhat archaic): to assert (something) to be (etc.); also in
+passive.
+
+every: 
+OED. A. adj. (attibutive) (in later use, determiner). Used as a universal
+quantifier with a singular noun.
+1. Used with distributive meaning, as an equivalent to all (with a plural noun)
+with collective meaning.
+
+Christian: 
+OED A. adj. 1.a. Of persons and communities: Believing, professing, or belonging
+to the religion of Christ.
+
+man:
+OED I.1. A human being.
+b. As a general or indefinite designation, esp. with determiners such as
+every, any, no, etc., and in plural, esp. with all, any, some, many, few, etc.:
+a person.
+
+fearing <fear: (v.)
+OED 6. To regard with reverence and awe; to revere. Now only with God as object;
+formerly in wider sense.
+
+God:
+OED 5. Especially in Judaism, Christianity, and Islam: the Supreme Being,
+regarded as the creator and ruler of the universe.
+
+stand: (v.)
+OED 9.b. fig. To remain steadfast, firm, secure, or the like. Also with
+adjective or adverb.
+Simon says: present subjunctive
+
+bound: (adj.2)
+OED 7.c. With infinitive: Compelled, obliged; under necessity (esp. logical or
+moral); fated, certain; also in U.S. determined, resolved (sa. to go, etc.).
+
+to:
+OED B.I. With infinitive in adverbial relation.
+
+join: (v.)
+OED 3. To put together, combine, unite (immaterial things, or one with or to
+another or a person).
+
+with: (prep.)
+OED 19. Senses expressing accompaniment or addition.
+
+you:
+OED A. pron. The objective case of the second personal plural pronoun YE pron.,
+representing the Old English accusative and dative.
 
 
-    every Christian man,
-        fearing God,
-    stand bound to join with you for the furtherance of that
-        which ye term the Lord's discipline.
+for the furtherance of that
+which ye term the Lord's discipline.
 
 
 
