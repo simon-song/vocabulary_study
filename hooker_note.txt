@@ -932,29 +932,158 @@ you:
 OED A. pron. The objective case of the second personal plural pronoun YE pron.,
 representing the Old English accusative and dative.
 
+for:
 
-for the furtherance of that
-which ye term the Lord's discipline.
+the: 
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
+
+furtherance:
+OED 1. the fact or state of being furthered or helped forward; the action of
+helping forward; advancement, aid, assistance. Also concrete a means or source
+of help.
+
+of:
+OED XII. Expressing the relationship of the objective genitive.
+41. After a noun of action.
+
+that:
+OED II.6. As antecedent to a relative (pron. or adv.) expressed or understood.
+a. Of a thing, in general sense: that that, that which = the thing which, what;
+so that whereby, wherein, wherewith, whence, etc.
+
+which:
+OED 8.a Introducing a clause defining or restricting the antecedent and thus
+completing the sense. Regularly so used after the antecedent that, or after a
+preposition; in other cases the more regular relative is that.
+
+ye:
+OED A. pron. The subjective case of the second person plural pronoun. Now
+archaic or regional.
+
+term:
+OED 2.b. With complement, or in clauses with as. To give a particular or
+specified name to; to name, call, designate.
+
+the: 
+OED 3.a. Before a noun denoting a thing or person that is unique or considered
+to be unique, or of which there is only one at a time (e.g. the sun, the earth,
+the sea, the sky, the air, the world, the universe, the Almighty, the Lord, the
+Saviour, the Devil, the Emperor, the Pope, the Net, the Web, etc.).
+
+Lord's <Lord:
+OED 6.b. (A title or name for) Jesus. Frequently with the. Also in Lord Jesus
+(Christ) or Lord Christ.
+
+discipline:
+OED 10.a. The system by which the practice of a church, as distinguished from
+its doctrine, is regulated; the ecclesiastical laws and customs relating to the
+religious and moral life of the Church; spec. the ecclesiastical polity adopted
+by Presbyterian and Independent churches in the 16th and 17th centuries (now
+historical).
 
 
-
-
-
-
-
-
-
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >> 0.1.5
 Wherein I must plainly confess unto you,
     that 
-        before I examined your sundry declaration in that behalf,
+        before I examined your sundry declarations in that behalf,
     it could not settle in my head to think,
         but that undoubtedly such number of otherwise right well-affected and 
         most religiously inclined minds had some marvellous reasonable
         inducements
             which led them with so great earnestness that way.
+
+wherein:
+OED 3.a. In which (matter, fact, action, condition, etc.); in respect of which.
+
+I: (pron.)
+OED A. pron. The subjective case of the first person singular pronoun.
+
+must:
+OED 3. In the present tense.
+a. Expressing necessity: am (is, are) obliged or required to; have (has) to; it
+is necessary that (I, you, he, it, etc.) should.
+
+plainly: 
+OED 4. Without duplicity or reserve; candidly, frankly; openly, honestly.
+
+confess:
+OED 1.a. transitive. To declare or disclose (something which one has kept or
+allowed to remain secret as being prejudicial or inconvenient to oneself); to
+acknowledge, own, or admit (a crime, charge, fault, weakness, or the like). Also
+absol.
+
+unto:
+OED 2.a. In the direction of; directed towards; =TO prep. 2.
+
+you:
+OED A. pron. The objective case of the second personal plural pronoun YE pron.,
+representing the Old English accusative and dative.
+
+that:
+OED I.1.a. Introducing a dependent substantive-clause, as subject, object, or
+other element of the principal clause, or as complement of a n. or adj., or in
+apposition with a n. therein.
+    
+before:
+OED 7.a. At, in, or to a time earlier than (a point in time, a date, or an
+event).
+
+I:
+OED A. pron. The subjective case of the first person singular pronoun.
+
+examined <examine: (v.)
+OED 3.a. transitive. To seek understanding or knowledge of (a subject,
+situation, etc.) through careful consideration or critical discussion; to
+inquire into the truth or falsehood of (a proposition, statement, etc.); to
+investigate, analyse, study.
+
+your:
+OED B. adj. The possessive adjective corresponding to ye, you.
+
+sundry:
+OED 6.a. Of various kinds; a variety of; varied, diverse, manifold. Now esp. of
+items or people gathered or considered together; of various types or from
+diverse sources; miscellaneous.
+
+declarations <declaration:
+OED 3.a. The action of stating, telling, setting forth, or announcing openly,
+explicitly or formally; positive statement or assertion; an assertion,
+announcement or proclamation in emphatic, solemn, or legal terms.
+
+in that behalf <behalf:
+OED 2.c. in this (also that) behalf: in respect of, in regard to, in reference 
+to this or that; in this or that matter, or aspect of the matter. Archaic.
+
+it:
+OED A.I.1. The thing previously mentioned, implied, or easily identified.
+a. As subject or subject complement.
+
+could:
+
+not:
+OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
+auxiliary or not).
+
+settle 
+in 
+my 
+head 
+to 
+think,
+
+        but that undoubtedly such number of otherwise right well-affected and 
+        most religiously inclined minds had some marvellous reasonable
+        inducements
+            which led them with so great earnestness that way.
+
+
+
+
+
+
 
 >> 0.1.6
 But when once,
@@ -1944,7 +2073,7 @@ ye fly to the judgments of such learned men,
 ==================================
 Preface, V.3
 
-in this behalf
+in this behalf:
 OED 2.c. in respect of, in regard to, in reference to this; in this matter, or
 aspect of the matter.
 
