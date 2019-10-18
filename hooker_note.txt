@@ -933,6 +933,8 @@ OED A. pron. The objective case of the second personal plural pronoun YE pron.,
 representing the Old English accusative and dative.
 
 for:
+OED III.7.a. In defence or support of; in favour of, on the side of. Opposed to
+against. Often predicatively.
 
 the: 
 OED A.I Definite article (determiner). Refering to an individual item (or
@@ -1061,18 +1063,35 @@ it:
 OED A.I.1. The thing previously mentioned, implied, or easily identified.
 a. As subject or subject complement.
 
-could:
+could <can:
+OED 10.a. Expressing physical or mental ability: was able to, knew how to; had
+the power, ability, or capacity to.
 
 not:
 OED A.I.4. Negating verbs. Following an auxiliary verb (and to have whether 
 auxiliary or not).
 
-settle 
-in 
-my 
-head 
-to 
-think,
+settle:
+OED 5. To fix, implant (something) in (a person's heart, mind, etc.). Obsolete.
+ 
+in:
+OED 1.a. Of place or position in space or anything having material extension:
+Within the limits or bounds of, within (any place or thing).
+
+my: 
+OED A. adj. The possessive adjective corresponding to I pron.
+
+head: 
+OED 2.a. The head considered as the centre of mental activity; the seat of the
+faculties; a person's mind. Often contrasted with heart as the seat of the
+emotions; also sometimes contrasted with hands, representing manual labour.
+
+to:
+OED B.I. With infinitive in adverbial relation.
+
+think:
+OED 1. transitive. To form or hold in the mind (an idea, image, or intuition);
+to carry out (something) as mental operation.
 
         but that undoubtedly such number of otherwise right well-affected and 
         most religiously inclined minds had some marvellous reasonable
