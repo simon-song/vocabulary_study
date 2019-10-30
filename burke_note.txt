@@ -14,9 +14,10 @@ public disorders.
     If a man happens not to succeed in such an inquiry, 
 he will be thought weak and visionary;
     If he touches the true grievance, 
-there is a danger that he may come near to persons of weight and consequence,
-    who will rather be exasperated at the discovery of their errors,
-    than thankful for the occasion of correcting them;
+there is a danger 
+    that he may come near to persons of weight and consequence,
+        who will rather be exasperated at the discovery of their errors,
+        than thankful for the occasion of correcting them;
     If he should be obliged to blame the favorites of the people, 
 he will be considered as the tool of the power;
     If he censures those in power, 
@@ -424,8 +425,8 @@ A great change has taken place in the affairs of this country.
 
 >> 8.4
     For in the silent lapse of events 
-as material alterations have been insensibly brought about in policy and
-charactrer of governments and nations,
+as material alterations have been insensibly brought about 
+    in policy and charactrer of governments and nations,
 as those 
     which have been marked by the tumult of public revolutions.
 
@@ -490,8 +491,8 @@ day he lived in.
 
 >> 9.10
 I believe 
-    there was no professed admirer of Henry the Eighth among the
-    instruments of the last King James;
+    there was no professed admirer of Henry the Eighth among the instruments 
+    of the last King James;
 nor in the court of Henry the Eighth was there,
     I dare say,
 to be found a single advocate for the favorites of Richard the Second.
@@ -549,7 +550,8 @@ it will certainly not be the exaction of two hundred pullets,
 para. 11:
 
 >> 11.1
-Every age has its own manners, and its politics dependent upon them;
+Every age has its own manners, 
+and its politics dependent upon them;
 and the same attempts will not be made against a constitution fully formed
 and matured,
     that were used to destroy it in the cradle,
@@ -624,8 +626,7 @@ an influence,
 was an admirable substitute for a prerogative,
     that,
         being only the offspring of antiquated prejudices,
-    had moulded 
-        in its original stamina 
+    had moulded in its original stamina 
     irresistible principles of decay and dissolution.
 
 >> 13.3
@@ -692,15 +693,16 @@ these helps have of late seemed to certain persons no better than incumbrances.
 >> 14.7
 The powerful managers for government were not sufficiently submissive to the
 pleasure of the possessors of immediate and personal favor,
-    sometimes from a confidence in their own strength, natural and acquired;
+    sometimes from a confidence in their own strength, 
+        natural and acquired;
     sometimes from a fear of offending their friends, 
-    and weakening that lead in the country 
-        which gave them a consideration independent of the court.
+        and weakening that lead in the country 
+            which gave them a consideration independent of the court.
 
 >> 14.8
 Men acted 
     as if the court could receive,
-    as well as confer,
+        as well as confer,
     an obligation.
 
 >> 14.9
@@ -725,8 +727,8 @@ was viewed in a very invidious light by the true lovers of absolute monarchy.
 It is the nature of despotism 
     to abhor power held by any means but its own momentary pleasure;
     and to annihilate all intermediate situations 
-        between boundless strength on its own part, 
-        and total debility on the part of the people.
+        between boundless strength on its own part, and total debility on the 
+        part of the people.
 
 =======================
 para. 15:
@@ -2633,7 +2635,7 @@ para. 65
 >> 65.1
 I will not pretend to say,
     that there is nothing at all in this mode of reasoning;
-    because I will not asssert 
+    because I will not assert 
         that there is no difficulty in the art of government.
 
 >> 65.2
