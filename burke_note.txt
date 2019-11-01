@@ -231,14 +231,15 @@ I confess
     I shall assent to it 
         with great reluctance, 
         and only on the compulsion of the clearest and firmest proofs; 
-    because their account resolves itself into this short, but discouraging 
-    proposition, 
-        "That we have a very good ministry, but that we have a very bad people"; 
-        that we set ourselves to bite the hand that feed us;
-        that 
-            with a malignant insanity, 
-        we oppose the measures, and ungratefully vilify the persons, 
-            of those whose sole object is our own peace and prosperity.
+        because their account resolves itself into this short, but discouraging 
+        proposition, 
+            "That we have a very good ministry, but that we have a very bad 
+            people"; 
+            that we set ourselves to bite the hand that feed us;
+            that 
+                with a malignant insanity, 
+            we oppose the measures, and ungratefully vilify the persons, 
+                of those whose sole object is our own peace and prosperity.
 
 >> 6.3
     If a few puny libellers,
@@ -281,8 +282,9 @@ these things are not yet professed.
 >> 6.9
 We seem therefore to be driven to absolute despair;
     for we have no other materials to work upon,
-but those 
-    out of which God has been pleased to form the inhabitants of this land.
+        but those 
+            out of which God has been pleased to form the inhabitants of this 
+            land.
 
 >> 6.10
     If these be radically and essentially vicious, 
@@ -293,8 +295,8 @@ all that can be said is,
 
 >> 6.11
 I hear it indeed sometimes asserted,
-    that a steady perseverance in the present measures, and a rigorous 
-    punishment of those 
+    that a steady perseverance in the present measures, 
+    and a rigorous punishment of those 
         who oppose them,
     will in course of time infallibly put an end to these disorders.
 
@@ -317,7 +319,7 @@ leaven never will be wanting to work it up,
 Particular punishments are the cure for accidental distempers in the state;
 they inflame rather than allay those heats
     which arise from the settled mismanagement of the government,
-    or from a natural indisposition in the people.
+        or from a natural indisposition in the people.
 
 >> 6.15
 It is of the utmost moment not to make mistakes in the use of strong measures;
@@ -326,6 +328,11 @@ and firmness is then only a virtue
 
 >> 6.16
 In truth, inconstancy is a sort of natural corrective of folly and ignorance.
+
+Outline of para. 6:
+(1) Implication of the official explanation of the present discontent
+(2) This explanation criticized.
+(3) Proposed official action and its criticism.
 
 ==============================
 para. 7:
@@ -785,8 +792,9 @@ that idea was soon abandoned.
 
 >> 16.4
 The instrumental part of the project was a little altered,
-to accommodate it to the time and to bring things more gradually and more surely
-to the one great end proposed.
+    to accommodate it to the time 
+    and to bring things more gradually and more surely to the one great end 
+    proposed.
 
 =======================
 para. 17:
@@ -796,16 +804,16 @@ The first part of the reformed plan was to draw a line
     which should separate the court from the ministry.
 
 >> 17.2
-    Hitherto these names had been looked upon as synonymous;
+Hitherto these names had been looked upon as synonymous;
     but for the future,
 court and administration were to be considered as things totally distinct.
 
 >> 17.3
     By this operation,
 two systems of administration were to be formed;
-    one which should be in the real secret and confidence;
-    the other merely ostensible to perform the official and executory duties of
-    government.
+one which should be in the real secret and confidence;
+the other merely ostensible to perform the official and executory duties of
+government.
 
 >> 17.4
 The latter were alone to be responsible;
@@ -820,8 +828,8 @@ para. 18:
 Secondly, a party under these leaders was to be formed in favor of the court
 against the ministry;
 this party was to have a large share in the emoluments of government,
-and to hold it totally separate from, and independent of, ostensible
-administration.
+    and to hold it totally separate from, and independent of, ostensible
+    administration.
 
 ========================
 para. 19:
@@ -889,7 +897,7 @@ any measure of any court might well be deemed thoroughly secure.
 
 >> 20.2
 The capital objects,
-and by much the most flattering characteristics of arbitrary power,
+    and by much the most flattering characteristics of arbitrary power,
 would be obtained.
 
 >> 20.3
@@ -924,8 +932,10 @@ to recommend it.
 
 >> 21.3
 These opportunities and these arguments,
-the use that has been made of both,
-the plan for carry the new scheme of government into execution, 
+the use 
+    that has been made 
+of both,
+the plan for carrying this new scheme of government into execution, 
 and the effects 
     which it has produced,
 are,
@@ -1084,8 +1094,8 @@ and were slow to be persuaded,
 
 >> 24.11
 It was more strongly and evidently the interest of the new court faction,
-to get rid of the great Whig connections,
-than to destroy Mr. Pitt.
+    to get rid of the great Whig connections,
+    than to destroy Mr. Pitt.
 
 >> 24.12
 The power of that gentleman was vast indeed and merited;
@@ -1109,8 +1119,8 @@ ties of blood, of alliance, of friendship
 the name of Whig, 
     dear to the majority of the people;
 the zeal early begun and steadily continued to the royal family:
-    all these together formed a body of power in the nation,
-        which was criminal and devoted.
+all these together formed a body of power in the nation,
+    which was criminal and devoted.
 
 >> 24.16
 The great ruling principle of the cabal,
@@ -1427,7 +1437,7 @@ they have risen,
         which House, 
             if it should have been betrayed into an unfortunated quarrel with
             its constituents,
-            and involved in a charge of the very same nature,
+                and involved in a charge of the very same nature,
         could have neither power nor inclination to repel such attempts in
         others.
 
@@ -1451,13 +1461,13 @@ It is true,
     While they are men of property,
 it is impossible to prevent it,
     except by such means as must prevent all property from its natural operation:
-    an event not easily to be compassed,
-        while property is power;
-    nor by any means to be wished,
-        while the least notion exists of the method 
-            by which the spirit of liberty acts,
-        and of the means 
-            by which it is preserved.
+        an event not easily to be compassed,
+            while property is power;
+        nor by any means to be wished,
+            while the least notion exists of the method 
+                by which the spirit of liberty acts,
+            and of the means 
+                by which it is preserved.
 
 >> 33.3
     If any particular peers,
@@ -1481,13 +1491,13 @@ I am no friend to aristocracy,
         in which that word is usually understood.
 
 >> 34.2
-If it were not a bad habit to moot cases on the supposed ruin of the
-constitution,
+    If it were not a bad habit to moot cases on the supposed ruin of the
+    constitution,
 I should be free to declare,
     that 
         if it must perish,
     I would rather by far see it resolved into any other form,
-    than lost in that austere and insolent domination.
+        than lost in that austere and insolent domination.
 
 >> 34.3
 But,
