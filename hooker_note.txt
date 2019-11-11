@@ -1093,7 +1093,30 @@ think:
 OED 1. transitive. To form or hold in the mind (an idea, image, or intuition);
 to carry out (something) as mental operation.
 
-        but that undoubtedly such number of otherwise right well-affected and 
+but that: <but (conj.)
+OED 9. After various verbs in negative or interrogative constructions, reversing
+the effect of the negative or interrogative so as to affirm more emphatically
+the dependent clause (e.g. I don't know but she's got notions into her head = 'I
+think it likely that she's got notions into her head'). Frequently in but that.
+b. After verbs and verbal phrases expressing dubiety, as doubt, despair,
+scruple. [Compare classical Latin non dubito quin 'I don't doubt that'.]
+
+undoubtedly:
+OED 1.a. Without or beyond any doubt; indubitably, assuredly, certainly.
+
+such:
+
+number 
+
+of 
+
+otherwise 
+
+right 
+
+well-affected 
+
+and 
         most religiously inclined minds had some marvellous reasonable
         inducements
             which led them with so great earnestness that way.
@@ -2192,5 +2215,28 @@ states <state:
 OED 22.a. A person of high rank, status, or importance; a dignitary; a noble,
 lord, or prince; =ESTATE n.3c. Obsolete.
 
+==================================
+Book I.III 4
 
+Whereas therefore things natural 
+    which are not in the number of voluntary agents,
+        (for of such only we now speak, and of no other,)
+do so necessarily observe their certain laws,
+    that 
+        as long as they keep those forms
+            which give them their being,
+    they cannot possibly be apt or inclinable to do otherwise than they do;
+    seeing the kinds of their operations are both constantly and exactly framed
+    according to the several ends
+        for which they serve,
+    they themselves in the mean while,
+        though doing that 
+            which is fit,
+        yet knowing neither what they do,
+            nor why:
+it followeth
+    that all
+        which they do in this sort
+    proceedeth originally from some such agent,
+        as knoweth, appointeth, holdeth up, and even actually frameth the same.
 
