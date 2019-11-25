@@ -77,7 +77,7 @@ other things, let me first give you some information about these two clubs.
 ================
 p. [3] para. 1:
 (1) The first club is called the Constitutional Society, or Society for
-    Constitutional Information, has existed for seven or eight years.
+    Constitutional Information, which has existed for seven or eight years.
 (2) The main purpose of the club is to circulate books which are not very
     desirable out of the club.
 (3) Some of those books may have been exported to France and made some impact
@@ -163,7 +163,7 @@ to be concerned:
 OED III.11a. (of word "concern"), To be in a relation or practical connection
 with; to have to do with; to have a part or share in; to be engaged in, with.
 
-(1) I should be sorry to be connected to this club.
+(1) I should be sorry to be connected with this club.
 (2) I have speculated public policies of ancient and modern nations in private.
 (3) I think it improper and irregular to open a formal public correspondence
     with a foreign government.
@@ -231,10 +231,10 @@ p. [7] para. 1:
 Although I love a manly, moral, regulated liberty, I do not envy the liberty in
 other nations. I cannot give judgment to human actions and concerns based only
 on the abstract view. Circumstances give in reality to every political principle
-its distinguishing color and discriminating effect. Abstractedlly speaking,
+its distinguishing color and discriminating effect. Abstractedly speaking,
 government and liberty is good, but I could not really congratulate France for
-her government ten years ago or her liberty now, without carefully the
-circumstances then and now.
+her government ten years ago or her liberty now, without a carefully look of 
+the circumstances then and now.
 
 ================
 p. [8] para. 1:
@@ -286,7 +286,7 @@ OED 12. Fear as to what may happen; dread.
 After reading the publication of the Revolution Society with Dr. Price's sermon
 (and several other documents), I was disquieted by their advocation of imitating
 the conduct of the National Assembly here in England. Now the effect of that
-conduct on France is becoming more clear by time, time is ripe for me to express
+conduct on France is becoming more clear, time is ripe for me to express
 my thoughts on the French Revolution.
 
 ================
@@ -541,9 +541,26 @@ claimed by Dr. Price is either said or suggested.
 ================================
 ==  precis of p. [21] para. 1:
 ================================
+These gentlemen confound together the three revolutions (the English Revolution
+of the 1640s, the Glorious Revolution of 1688, and the French Revolution), which
+we shall separate. The principles of the Revolution of 1688 can be found in the
+Declaration of Right (i.e. Bill of Rights), in which none of the rights claimed
+by Dr. Price is either declared or suggested.
 
+================================
+==  precis of p. [21] para. 2:
+================================
+This Declaration of Right is the cornerstone of our constitution, and it binds
+the rights of the subject with the succession of the crown indissolubly 
+together.
 
+================
+p. [22] para. 1:
 
+(1) A few years after this period, the succession of the crown again came into
+the legislature.
+(2) They followed the principle of the Declaration of Right to settle the
+succession of the crown, indicating with more precision on the Protestant line.
 
 
 
