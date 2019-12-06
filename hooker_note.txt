@@ -1104,13 +1104,20 @@ scruple. [Compare classical Latin non dubito quin 'I don't doubt that'.]
 undoubtedly:
 OED 1.a. Without or beyond any doubt; indubitably, assuredly, certainly.
 
-such:
+such: (adj.)
+OED I.1. Of the character, degree, or extent described, referred to, or implied
+in what has been said.
 
-number 
+number:
+OED I.1.a. The precise sum or aggregate of a collection of indiviual things or
+persons; the quantity or amount.
 
-of 
+of:
+OED 21.a. Connecting two nouns, of which the former is a collective term, a
+quantitative or numeral word, or the name of something having component parts,
+and the latter is the substance or elements of which this consists. 
 
-otherwise 
+otherwise:
 
 right 
 
