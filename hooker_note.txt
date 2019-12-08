@@ -1118,15 +1118,51 @@ quantitative or numeral word, or the name of something having component parts,
 and the latter is the substance or elements of which this consists. 
 
 otherwise:
+OED B. adv. 2. In other respects.
 
-right 
+right: (adv.)
+OED 7.b. With adjectives. Very, extremely, fully, completely. 
 
-well-affected 
+well-affected: (adj.)
+OED A. adj. 1. Favourably disposed, inclined to be favourable or friendly (to or
+towards a person or thing); spec. well-disposed towards existing authority,
+loyal.
 
-and 
-        most religiously inclined minds had some marvellous reasonable
-        inducements
-            which led them with so great earnestness that way.
+and:
+OED A. conj. I. Coordinating. Introducing a word, phrase, clause, or sentence,
+which is to be taken side by side with, along with, or in addition to, that
+which precedes it.
+
+most:
+OED C. adv. I. In the greatest degree, etc. 
+2. As an intensive superlative modifying adjectives and adverbs: in the greatest
+possible degree, extremely, very.
+
+religiously:
+OED 1.a. With religious feeling or conduct; in accordance with the principles of
+religion; piously, reverently, devoutly.
+
+inclined: (adj.)
+OED 1.a. Having a tendency to behave, think, feel, etc., in a particular way;
+having a particular predisposition or talent.
+
+minds <mind:
+
+had 
+
+some 
+
+marvellous 
+
+reasonable
+
+inducements
+
+which 
+
+led 
+
+them with so great earnestness that way.
 
 
 
