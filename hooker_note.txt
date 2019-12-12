@@ -290,7 +290,7 @@ OED II. As an auxiliary verb. As in the other Germanic (and Romanic) languages,
 the various moods and tenses of have are used with the past participle of
 another verb, to form a series of compound or 'perfect' tenses of the latter,
 expressing action already finished at the time indicated, and answering to the
-Latin perfect tneses dedi, dederam, dedero, dedisse, etc.
+Latin perfect tenses dedi, dederam, dedero, dedisse, etc.
 
 upheld <uphold:
 OED 2.a. To support, sustain, maintain, by aid or assistance; to preserve
@@ -1147,10 +1147,14 @@ OED 1.a. Having a tendency to behave, think, feel, etc., in a particular way;
 having a particular predisposition or talent.
 
 minds <mind:
+OED 19.d. In plural with modifying adjective: a group or category of people
+regarded as embodying the (specific) qualities of mind.
 
-had 
+had <have:
+OED 21.a. transitive. To hold or form in the mind; to entertain, cherish,
+harbour (a feeling, opinion, etc.)
 
-some 
+some: 
 
 marvellous 
 
