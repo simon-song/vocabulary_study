@@ -286,11 +286,8 @@ the 2nd or 3rd persons, expressing merely a possibility or contingency in the
 supposed case.
 
 have:
-OED II. As an auxiliary verb. As in the other Germanic (and Romanic) languages,
-the various moods and tenses of have are used with the past participle of
-another verb, to form a series of compound or 'perfect' tenses of the latter,
-expressing action already finished at the time indicated, and answering to the
-Latin perfect tenses dedi, dederam, dedero, dedisse, etc.
+OED VI. As an auxiliary verb, used with the past participle of another verb 
+to form the perfect. 30. With a transitive verb.
 
 upheld <uphold:
 OED 2.a. To support, sustain, maintain, by aid or assistance; to preserve
@@ -328,7 +325,7 @@ At your hands,
              that would but seem to be born of him,
     it is not the sea of your gall and bitterness that shall ever drown,)
 I have no great cause to look for other than the selfsame portion and lot
-    which your manner hath been to lay on them
+    which your manner hath been hitherto to lay on them
         that concur not in opinion and sentence with you.
 
 at: (prep.)
@@ -522,6 +519,145 @@ OED 5.a. At any time; (hence) on any occasion; in any circumstances.
 drown:
 OED 6.a. transferred and figurative. To overwhelm, to overpower, by rising above
 like a flood; to immerse or smother; to overpower (sound) by greater loudness.
+
+I: (pron.)
+OED A. pron. The subjective case of the first person singular pronoun.
+
+have:
+OED 21.a. transitive. To hold or form in the mind; to entertain, cherish,
+harbour (a feeling, opinion, etc.)
+
+no:
+OED 3.a. Modifying an adjective and singular noun and negating the adjective
+rather than the whole noun phrase (usually implying that an adjective of an
+opposite meaning would be more correct or appropriate).
+
+great: (adj.)
+OED III. Having significant effects, importance, distinction, etc.
+13. Of things, places, actions, events, etc. 
+a. Of considerable importance, significance, or distinction; important, weighty;
+distinguished, prominent; famous, renowned; impressive. Also in weakened sense:
+highly commendable, praiseworthy.
+
+cause: (n.)
+OED 3.a. A fact, condition of matters, or consideration, moving a person to
+action; ground of action; reason for action, motive.
+
+to:
+OED B.I. With infinitive in adverbial relation.
+
+look for <look:
+OED 2. intransitive. To expect, anticipate; to hope for; to be on the lookout
+for.
+
+other than <other:
+OED 5.e. besides, except, apart from.
+
+the: (adj.)
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
+
+selfsame: (adj.)
+OED B.1. attributive. The very same, the identical; exactly the same.
+
+portion: (n.)
+OED 2. A person's lot, destiny, or fate. Chiefly with possesive adjective.
+
+and:
+OED A. conj. I. Coordinating. Introducing a word, phrase, clause, or sentence,
+which is to be taken side by side with, along with, or in addition to, that
+which precedes it.
+
+lot: (n.)
+OED 6.a. A person's destiny, fortune, or situation in life (originally viewed as
+having been alloted by fate or divine providence). Later also in extended use
+with reference to the destiny, situation, etc., of an inanimate object. Chiefly
+with possessive or of-phrase.
+
+which:
+OED 8.a Introducing a clause defining or restricting the antecedent and thus
+completing the sense. Regularly so used after the antecedent that, or after a
+preposition; in other cases the more regular relative is that.
+
+your: (adj.)
+OED B. adj. The possessive adjective corresponding to ye, you.
+1.a. Belonging or relating to the person or people being addressed; which you
+have, hold, or possess.
+
+manner: (n.)
+OED II. Senses relating to the say in which a person, animal, etc., acts or
+behaves.
+3.a. Customary mode of acting or behaviour; habitual practice; usage, custom,
+fashion.
+
+hath <have:
+OED VI. As an auxiliary verb, used with the past participle of another verb 
+to form the perfect. 31.d. With been, past participle of BE v. (functioning as a
+main verb).
+
+been <be:
+OED III. With adjective, noun, or adjective phrase, acting as simple copula:
+stating of what sort or what something is. Frequently in general statements and
+questions with it as non-specific, non-referentia, or existential subject.
+9. To exist as the subject of some predicate; to have membership of a class of
+things distinguished by a specified quality or name.
+
+hitherto:
+OED A. adv.
+1. Up to this time, until now, as yet.
+
+to:
+OED B.I. With infinitive in adverbial relation.
+
+lay on <lay: (v.)
+OED 32.a. to attack vigorously , to beat soundly.
+
+them:
+OED A. pron. the objective case of the third person plural pronoun,
+corresponding to the subjective THEY pron.; the plural of him, her, or it.
+
+that: (pron.2)
+OED I.1.a. Introducing a clause defining or restricting the antecedent, and thus
+complete its sense. (The ordinary use: referring to persons or things.)
+
+concur: (v.)
+OED 4. To agree in opinion (with).
+
+not:
+OED A. adv. The ordinary adverb of negation, or negative particle.
+I. Negating verbs.
+3. Following a full verb. Now chiefly archaic or literary and humorous. In
+recent use, esp. in I kid you not and variants.
+F.T. Visser (Hist. Syntax Eng. Lang.(1969) III.1441) observes that from the
+beginning of the modern English period certain verbs tended to continue to be
+used in this construction rather than the do not construction, the main ones
+being care, doubt, know, mistake, trow, and wot.
+ 
+in:
+OED 8. With non-physical realms, regions of thought, departments or faculties of
+the mind, spheres of action, etc., treated as having extension or content.
+
+opinion:
+OED 1.a. What or how one thinks about something; judgment or belief. Esp. in in
+my opinion: according to my thinking; as it seems to me. a matter of opinion:
+a matter about which each may have his or her own opinion; a disputable point.
+
+and:
+OED A. conj. I. Coordinating. Introducing a word, phrase, clause, or sentence,
+which is to be taken side by side with, along with, or in addition to, that
+which precedes it.
+
+sentence:
+OED 2.a. The opinion pronounced by a person on some particular question,
+usually, one on which he is consulted or which is being deliberated upon.
+
+with:
+OED 13.a. Following words expressing agreement, conformity, sympathy, and the
+like.
+
+you:
+OED A. pron. The objective case of the second personal plural pronoun YE pron.,
+representing the Old English accusative and dative.
 
 paraphrase:
 it [i.e. the love] is not [anything] that the sea of your gall and bitterness shall ever drown
@@ -1154,19 +1290,65 @@ had <have:
 OED 21.a. transitive. To hold or form in the mind; to entertain, cherish,
 harbour (a feeling, opinion, etc.)
 
-some: 
+some: (adj.)
+OED II. With plural nouns. 7.a. Certain (taken individually).
 
-marvellous 
+marvellous: (adv.)
+OED B. adv. Wonderfully, astonishingly; exceedingly. 
 
-reasonable
+reasonable:
+OED 4.a. Of something abstract: in accordance with reason; not irrational,
+absurd, or ridiculous; just, legitimate; due, fitting.
 
-inducements
+inducement:
+OED 2.b. More widely: Any ground or reason which leads or inclines one to a
+belief or course of action; a moving cause; an incentive. Obsolete.
 
-which 
+which:
+OED 8.a Introducing a clause defining or restricting the antecedent and thus
+completing the sense. Regularly so used after the antecedent that, or after a
+preposition; in other cases the more regular relative is that.
 
-led 
+led <lead: (v.)
+OED 5. To guide with reference to action or opinion; to bring by persuasion or
+counsel to or into a condition; to conduct by argument or representation to a
+conclusion; to induce to do something. Said both of persons and motives,
+circumstances, evidence, etc.
 
-them with so great earnestness that way.
+them:
+OED A. pron. the objective case of the third person plural pronoun,
+corresponding to the subjective THEY pron.; the plural of him, her, or it.
+
+with: (prep.)
+OED 30.a. Indicating a feeling, purpose, or other mental state acompanying the
+action spoken of: e.g. with approval, awe, horror, indifference, pleasure,
+regure, (due) respect, etc.; with (a, the, etc.) determination, hope,
+intent(ion), view, etc.
+The phrase thus formed is often equivalent to an adverb.
+
+so: 
+OED 14.a. In affirmative clauses, tending to become a mere intensive without
+comparative force, and sometimes emphasized in speaking and writing.
+
+great:
+OED II. Senses relating primarily to quantity or degree.
+9. Considerable in degree, intensity, or extent.
+a. Of qualities, emotions, behaviour, effects, events, etc.
+
+earnestness:
+OED. The state or quality of being earnest; (formerly also) vehementce, great
+ardour or passion (obsolete).
+
+that way <way:
+OED 13.a. A specified direction of travel or movement; (also) a specified
+orientation.
+(a) In prepositional phrases and noun phrases used adverbially; as this way,
+that way, which way, the other way, all ways, etc.
+
+
+
+
+
 
 
 
