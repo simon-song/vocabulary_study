@@ -1346,16 +1346,6 @@ orientation.
 that way, which way, the other way, all ways, etc.
 
 
-
-
-
-
-
-
-
-
-
-
 >> 0.1.6
 But when once,
     as near as my slender ability would serve,
@@ -1380,6 +1370,45 @@ but to set down this as my final resolution:
         is only by error and misconceit named the ordinance of Jesus Christ,
         no one proof as yet brought forth,
             whereby it may clearly appear to be so.
+
+but: (conj.)
+OED 12. In an independent clause within a compound sentence (usually after a
+semicolon or colon), or a the beginning of a following sentence.
+a. Introducing a statement of the nature of an exception, objection, limitation,
+or contrast to what has gone before: however, on the other hand, moreover, yet.
+
+when: (adv.)
+OED 4. As nominal relative, or as correlative to then (implied and sometimes
+expressed): At the (or a) time at which; on the (or an) occasion on which.
+
+once:
+OED B. conj. When once, if once; as soon as.
+    
+as:
+OED II. With as also in the subordinate clause.
+3. Of quantity or degree: in that degree; to that extent (in or to which).
+
+near: (adj.)
+OED 4.b. Close to a goal, target, or object, or a perceived model, etc.
+
+as:
+
+my:
+OED A. adj. The possessive adjective corresponding to I pron.
+
+slender: (adj.)
+OED 7.a. Slight, small, insignificant, trifling.
+
+ability: 
+
+would 
+
+serve
+
+
+
+
+
     
 >> 0.1.7
 The explication of which two things
