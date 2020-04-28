@@ -280,7 +280,7 @@ OED 8.a Introducing a clause defining or restricting the antecedent and thus
 completing the sense. Regularly so used after the antecedent that, or after a
 preposition; in other cases the more regular relative is that.
 
-would <will:
+would: <will:
 OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
 the 2nd or 3rd persons, expressing merely a possibility or contingency in the
 supposed case.
@@ -427,7 +427,7 @@ that: (pron.2)
 OED I.1.a. Introducing a clause defining or restricting the antecedent, and thus
 complete its sense. (The ordinary use: referring to persons or things.)
 
-would <will:
+would: <will:
 OED. 42.a. In the apodosis of a conditional sentence (expressed or implied), in
 the 2nd or 3rd persons, expressing merely a possibility or contingency in the
 supposed case.
@@ -1401,9 +1401,10 @@ OED 7.a. Slight, small, insignificant, trifling.
 
 ability: 
 
-would 
+would: <will:
+OED 28. Was capable of --ing; could.
 
-serve
+serve:
 
 
 
