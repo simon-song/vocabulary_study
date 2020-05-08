@@ -1400,12 +1400,41 @@ slender: (adj.)
 OED 7.a. Slight, small, insignificant, trifling.
 
 ability: 
+OED 2.a. The quality in a person or thing which makes an action possible;
+suitable or sufficient power or proficiency; capability, capacity to do, or (now
+rate) of doing something.
 
 would: <will:
 OED 28. Was capable of --ing; could.
 
-serve:
+serve: (v.)
+OED 23.a. Of one's courage, conscience, inclination, etc.: To prompt, encourage
+(one), to do something; (with negative expressed or implied) to permit, suffer.
 
+I: (pron.)
+OED A. pron. The subjective case of the first person singular pronoun.
+
+had: <have:
+OED In the past tense with the past participle of another verb, forming the
+past perfect. 33. With a transitive verb.
+
+with:
+OED 29. Indicating a quality or attribute of the action spoken of: forming
+phrases equivalent to adverbs, e.g. with one accord or consent = unanimously,
+with care = carefully, with ease = easily, with impunity = Latin impune, with
+severity = severely, etc. (Sometimes closely approaching the instrumental use
+37, esp. in such phrases as with a curious eye, with all one's heart, etc.)
+Similarly after an adjective, in phrases expressing a particular kind or degree
+of the quality denoted by the adjective.
+
+travail:
+
+and:
+
+care:
+ performed that part of the Apostle's advice and
+
+consul,
 
 
 
