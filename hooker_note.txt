@@ -1428,13 +1428,49 @@ Similarly after an adjective, in phrases expressing a particular kind or degree
 of the quality denoted by the adjective.
 
 travail:
+OED 1.a. Physical or mental work, esp. of a painful or labourious nature; great
+effort or exertion; hardship, suffering; (now frequently in weakened use)
+trouble, difficulty. Later also: an instance of this.
+
+and:
+OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
+to be taken side by side with, along with, or in addition to, that which
+precedes it.
+
+care:
+OED 3.a. Serious or grave mental attention; the charging of the mind with
+anything; concern; heed, heedfulness, attention, regard; caution, pains.
+
+performed: <perform:
+OED I.1.a. transitive. To carry out in action, execute, or fulfil (a command,
+request, undertaking, threat, etc.); to carry into effect, discharge (a service,
+duty, etc.).
+
+that:
+OED B. adj. Demonstrative determiner.
+1.a. The simple demonstrative used (as adjective in concord with a n.), to
+indicate a thing or person either as being actually pointed out or present, or
+as having just been mentioned and being thus mentally pointed out.
+
+part: 
+OED 3. gen. a. A piece or section of something which together with another or
+others makes up the whole (whether actually separate from the rest or not); an
+amount, but not all, of a thing or a number of things (material or immaterial);
+and of the smaller things into which a thing is or may be divided (in reality or
+notionally); a portion, segment, constituent, fraction. Frequently with plural
+agreement when denoting a number of people or things.
+
+of: 
+
+the: 
+
+Apostle's: <Apostle:
+
+advice:
 
 and:
 
-care:
- performed that part of the Apostle's advice and
-
-consul,
+consul:
 
 
 
