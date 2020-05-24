@@ -1350,12 +1350,12 @@ that way, which way, the other way, all ways, etc.
 But when once,
     as near as my slender ability would serve,
 I had with travail and care performed that part of the Apostle's advice and
-consul,
-    whereby he willeth to try all things,
+counsel in such cases,
+    whereby he willeth to "try all things",
 and was come at the length so far,
     that there only remaineth the other clause to be satisfied,
     wherein he concludeth 
-        what good is must be held;
+        "what good is must be held";
 there was in my poor understanding no remedy, 
 but to set down this as my final resolution:
     surely the present form of church-government,
@@ -1461,16 +1461,40 @@ notionally); a portion, segment, constituent, fraction. Frequently with plural
 agreement when denoting a number of people or things.
 
 of: 
+OED 35.a. Belonging to a person or thing, as something that he, she, or it has
+or possesses (=the possessive genitive, and akin to the subjective, sense 15).
 
 the: 
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
 
-Apostle's: <Apostle:
+Apostle's: <apostle:
+OED 2. spec. (Now with capital initial.) The twelve witnesses whom Jesus Christ
+sent forth to preach his Gospel to the world; also the subsquently-commissioned
+Barnabas (Acts xiii. 2, xiv.14), and Paul, the 'Apostle of the Gentiles'.
 
 advice:
+OED 2.a. Opinion given or offered as to what action to take; counsel;
+recommendations.
 
 and:
+OED A.I. Coordinating. Introducing a word, phrase, clause, or sentence, which is
+to be taken side by side with, along with, or in addition to, that which
+precedes it.
 
-consul:
+counsel: 
+OED 2.a. Opinion as to what ought to be done given as the result of
+consultation; aid or instruction for direction the judgment; advice, direction.
+
+in: 
+OED 8. With non-physical realms, regions of thought, departments or faculties of
+the mind, spheres of action, etc., treated as having extension or content.
+
+such: 
+
+cases: <case:
+
+    whereby he willeth to "try all things",
 
 
 
