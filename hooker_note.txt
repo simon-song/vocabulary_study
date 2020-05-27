@@ -1491,11 +1491,48 @@ OED 8. With non-physical realms, regions of thought, departments or faculties of
 the mind, spheres of action, etc., treated as having extension or content.
 
 such: 
+OED I.1. Of the character, degree, or extent described, referred to, or implied
+in what has been said.
 
 cases: <case:
+OED 6.a. An instance of a particular situation; and example of something
+occurring; a particular circumstance or state of affairs. Frequently with of.
 
-    whereby he willeth to "try all things",
+whereby: 
 
+he: 
+OED A. pron. The subjective case of the maculine third person singular pronoun.
+
+willeth <will: (v.)
+OED 2.a. To direct by one's will or testament (that something be done, or
+something to be done).
+
+to: 
+OED B.I. With infinitive in adverbial relation.
+
+try: (v.)
+OED 7.a. To test the strength, goodness, value, truth, or other quality of; to
+put to the proof, test, prove.
+
+all:
+OED 2. With a plural noun, a plural personal or anaphoric pronoun, or a noun
+phrase or collective noun with plural agreement. The whole number of individual
+components or instances of, without exception; the entire number of.
+
+things <thing:
+OED 3.a. That with which one is concerned (in action, speech, or thought); an
+affair, business, concern, matter, subject; pl. affairs, concerns, matters. (In
+early use sometimes sing. in collective sense.)
+
+and: 
+
+was: 
+
+come: 
+
+at the length so far,
+
+that there only remaineth the other clause to be satisfied,
 
 
 
