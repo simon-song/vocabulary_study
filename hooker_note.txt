@@ -151,7 +151,7 @@ occurs. Also: a prophetic or supernatural vision experienced when either
 awake or asleep.
 
 there:
-OED B.4. Used unemphatically to introduce a sentence or clause in which, for the
+OED I.4. Used unemphatically to introduce a sentence or clause in which, for the
 sake of emphasis or preparing the hearer, the verb comes before its subject, as
 there comes a time when, etc., there was heard a rumbling noise. In
 interrogative sentences there comes between the verb and subject, as Breathes
@@ -1546,12 +1546,24 @@ far: (adv.)
 OED 2.a. To a great distance; to a remote place.
 
 that: 
+See so above.
 
 there: 
+OED I.4. Used unemphatically to introduce a sentence or clause in which, for the
+sake of emphasis or preparing the hearer, the verb comes before its subject, as
+there comes a time when, etc., there was heard a rumbling noise. In
+interrogative sentences there comes between the verb and subject, as Breathes
+there the man, etc., or follows the first word of a compound verb, as Does there
+breathe a man?, Shall there be any notice taken of it? The same order was
+formerly observed after an introductory adv. or clause, as Then came there a
+voice, Soon shall there arise a prophet.
 
 remaineth <remain:
+OED 2.b. To be left outstanding after the rest has been done or dealt with in
+some way.
 
 only: 
+
 
 the: 
 
