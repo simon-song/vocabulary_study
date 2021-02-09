@@ -1565,11 +1565,17 @@ OED 2.b. To be left outstanding after the rest has been done or dealt with in
 some way.
 
 only: 
-
+OED A. adv. 2. Solely, merely, exclusively; with no one or nothing more besides;
+as a single or solitary thing or fact; no more than.
 
 the: 
+OED A.I Definite article (determiner). Refering to an individual item (or
+items).
 
-other: 
+other: (adj.)
+OED 4. Usally with the, another determiner, or a noun in the genitive.
+a. Remaining from a specified or implied group of two or (in later use
+occasionally) more; opposite; alternative.
 
 clause: 
 
