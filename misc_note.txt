@@ -307,14 +307,14 @@ sentence structure from the (English) original.
 meaning encountered, browse other meanings (without reading quotations for
 them).
 
-==============================
+==============================================================================
 Cicero, Pro Milone
 Sentence numbering follows that of Persuasive Language in Cicero's Pro Milone.
 
-1.1 Etsi    vereor,          iudices, ne turpe          sit       
-    though  (I) am afraid                disgraceful    is
-            pres.pass.1.sg.              adj.nom.n.sg.  pres.subj.3.sg
-                                                        sum
+1.1 Etsi    vereor,          iudices, ne       turpe          sit       
+    though  (I) am afraid             really   disgraceful    is
+            pres.pass.1.sg.                    adj.nom.n.sg.  pres.subj.3.sg
+                                                              sum
 
 pro  fortissimo viro       dicere    incipientem       timere, 
                 man        to speak  begining          to fear 
@@ -357,7 +357,7 @@ wherever   light       old           custom        (of) forum
            incido      vetus         consuetudo    forum
 
 pristinum     morem     iudiciorum requirunt.
-pristine                of court   search in vain
+pristine      custom    of court   seek in vain
 adj.acc.m.sg. acc.ms.g. gen.n.pl.  pres.3.pl.
 pristinus     mos       iudicium   requiro
 
