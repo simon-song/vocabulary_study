@@ -535,7 +535,17 @@ gen.m.pl. acc.m.pl.   adj.acc.m.pl. adv.          abl.m.sg. perf.3.sg.
 homo      clamor      magnus                      salus     neglego
 
 4.1
-Quam ob rem adeste animis, iudices, et timorem, si quem habetis, deponite. 
+Quam ob rem   adeste              animis,      iudices, et timorem,   si   
+wherefore     be                  of courage   judges      fear       if   
+              imperat.pres.2.pl   abl.m.pl.                acc.m.sg.      
+              ad-sum              animus                   timor
+
+quem            habetis,    deponite. 
+any             have        put aside
+pron.acc.m.sg.  pres.2.pl.  imperat.pres.2.pl.
+quis            habeo       depono
+
+4.2
 
 nam si umquam de bonis et fortibus viris, si umquam de bene meritis civibus
 potestas vobis4 iudicandi fuit, si denique umquam locus amplissimorum ordinum
