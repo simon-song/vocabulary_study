@@ -482,7 +482,7 @@ totus         noster         sum            is             quisquam
 quos           undique      intuentis,          unde   aliqua           fori      pars 
 whom           on all sides gazing              whence in any direction forum     part
 pron.acc.m.pl. adv.         pres.part.acc.m.pl  adv.   adv.             gen.n.sg. nom.f.sg
-quis                        intueor                             forum     pars
+quis                        intueor                                     forum     pars
 
 aspici         potest,    et huius          exitum    iudici    exspectantis 
 see            can           of this        result    trial     waiting for
