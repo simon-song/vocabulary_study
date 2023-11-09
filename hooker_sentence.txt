@@ -3334,12 +3334,11 @@ Book III.IV.1
 
     Wherein seeing that no more is by us maintained,
     than only that Scripture must needs teach the Church,
-        whatsoever is in such sort necessary, as hath been set down,
-    and that it is no more disgrace for Scripture
-        to have left a number of other things free
-            to be ordered at the discretion of the Church,
-    than for nature to have left it unto the wit of man
-        to devise his own attire,
+        whatsoever is in such sort necessary, 
+            as hath been set down,
+    and that it is no more disgrace for Scripture to have left a number of other things free
+        to be ordered at the discretion of the Church,
+    than for nature to have left it unto the wit of man to devise his own attire,
         and not to look for it
             as the beasts of the field have theirs:
     if neither this can import,
